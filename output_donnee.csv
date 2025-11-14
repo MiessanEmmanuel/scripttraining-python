@@ -193,16 +193,16 @@ Sow,Aminata,AIInnovate,Intelligence Artificielle,Échecs,14,Perfectionnisme,Cré
 Coulibaly,Moussa,FinTrack,Blockchain,Coding,11,Distraction facile,Persévérance,Rouge,Thiéboudienne,Smoothie,Rust
 Hernandez,Rama,EduBoost,UI/UX Design,Photographie,5,Sensibilité excessive,Sens de l'humour,Orange,Paella,Soda,Swift
 Ndiaye,Aissatou,SafeCity,Ingénierie Logicielle,Danse,6,Procrastination,Esprit d'équipe,Jaune,Pizza,Thé,C#
-"Diop","Lucas","AgriTech+","Dev Web","Gaming",7,"Procrastination","Créatif","Bleu","Pizza","Café","JavaScript"
-"Ndiaye","Aminata","SafeCity","IA","Voyage",3,"Timidité","Empathique","Vert","Couscous","Thé","Python"
-"Smith","Daniel","EduBoost","Cloud","Lecture",10,"Impatience","Rigoureux","Noir","Burger","Eau","Java"
-"Traoré","Fatoumata","FinTrack","Cybersécurité","Musique",5,"Désordonné","Curieux","Rouge","Thiéboudienne","Jus d'orange","C#"
-"Garcia","Maria","HealthConnect","Mobile","Danse",8,"Sensible","Communicatif","Rose","Tacos","Smoothies","Swift"
-"Martin","Chloé","GreenEnergy","Data","Jardinage",2,"Distrait","Organisé","Jaune","Salade Composée","Limonade","SQL"
-"Koné","Mamadou","SmartLogistics","DevOps","Football",6,"Têtu","Esprit d'équipe","Orange","Poulet Yassa","Biere","Go"
-"Chen","Wei","CyberGuard","Blockchain","Coding",4,"Perfectionnisme","Persévérant","Blanc","Ramen","Eau","Rust"
-"Dubois","Antoine","AutoDrive","Embarqué","Vélo",12,"Cynisme","Analytique","Violet","Pâtes Carbonara","Vin","C++"
-"Akira","Yuki","AIArtist","UI/UX","Dessin",1,"Impulsif","Créatif","Bleu","Sushi","Thé","Python"
+Diop,Lucas,AgriTech+,Dev Web,Gaming,7,Procrastination,Créatif,Bleu,Pizza,Café,JavaScript
+Ndiaye,Aminata,SafeCity,IA,Voyage,3,Timidité,Empathique,Vert,Couscous,Thé,Python
+Smith,Daniel,EduBoost,Cloud,Lecture,10,Impatience,Rigoureux,Noir,Burger,Eau,Java
+Traoré,Fatoumata,FinTrack,Cybersécurité,Musique,5,Désordonné,Curieux,Rouge,Thiéboudienne,Jus d'orange,C#
+Garcia,Maria,HealthConnect,Mobile,Danse,8,Sensible,Communicatif,Rose,Tacos,Smoothies,Swift
+Martin,Chloé,GreenEnergy,Data,Jardinage,2,Distrait,Organisé,Jaune,Salade Composée,Limonade,SQL
+Koné,Mamadou,SmartLogistics,DevOps,Football,6,Têtu,Esprit d'équipe,Orange,Poulet Yassa,Biere,Go
+Chen,Wei,CyberGuard,Blockchain,Coding,4,Perfectionnisme,Persévérant,Blanc,Ramen,Eau,Rust
+Dubois,Antoine,AutoDrive,Embarqué,Vélo,12,Cynisme,Analytique,Violet,Pâtes Carbonara,Vin,C++
+Akira,Yuki,AIArtist,UI/UX,Dessin,1,Impulsif,Créatif,Bleu,Sushi,Thé,Python
 Dubois,Antoine,AgriTech+,Dev Web,Lecture,8,Procrastination,Créativité,Bleu,Pizza,Eau,Python
 Traoré,Fatou,SafeCity,IA,Danse,4,Impatience,Rigueur,Vert,Thieboudienne,Bissap,Java
 Smith,John,EduBoost,Cybersécurité,Gaming,10,Perfectionnisme,Persévérance,Noir,Burger,Cola,C#
@@ -248,36 +248,36 @@ Bernard,Lucas,CyberGuard,DevOps,Randonnée,12,Maniaque,Rigoureux,Gris,Pizza,Biè
 Jones,Alice,DataInsight,Big Data,Photographie,6,Sensible,Curieux,Violet,Ramen,Limonade,TypeScript
 Koné,Mariam,RoboChef,IA,Cuisine,4,Impulsif,Optimiste,Orange,Tajine,Chocolat chaud,Kotlin
 Ouédraogo,Hugo,AutoDrive,Embarqué,Natation,9,Perfectionnisme,Méthodique,Blanc,Paella,Vin,C++
-"Kim","Noah","MediScan 360","QA Engineer / Testeur Logiciel","Photographie",11,"Désordonné","Proactif","Rouge cerise","Jollof Rice","Jus de bissap","Python"
-"Diallo","Manon","CloudVault","Développement Web Frontend","Randonnée",6,"Narcissique","Fiable","Bleu ciel","Sushi","Soda","JavaScript"
-"Johnson","Ethan","FinTrack","Ingénieur Cloud (AWS/Azure/GCP)","Gaming",8,"Impatience","Analytique","Vert pomme","Kebab","Café","Java"
-"Müller","Chloe","CyberShield","Spécialiste en Cybersécurité","Voyage",3,"Orgueilleux","Empathique","Violet foncé","Biryani","Thé glacé","C#"
-"Garcia","Liam","EduBoost","Data Scientist","Lecture",7,"Têtu","Curieux","Rose fuchsia","Tacos","Limonade","Python"
-"Diallo","Maya","GreenPlanet Initiative","Développement Mobile (Android)","Sport (général)",4,"Paresseux","Adaptable","Orange vif","Poulet Yassa","Jus d'ananas","Kotlin"
-"Smith","Aïcha","AgriTech+","Développement Fullstack","Cuisine",9,"Procrastination","Organisé","Marron chocolat","Couscous","Eau","PHP"
-"Chen","Gabriel","SmartRetail","DevOps","Musique (jouer)",12,"Distrait","Rigoureux","Bleu canard","Ramen","Bière","Go"
-"Traoré","Olivia","HealthConnect","Architecte Logiciel","Méditation",10,"Susceptible","Pédagogue","Vert anis","Thieboudienne","Smoothie","Java"
-"Dupont","Jules","SafeCity","Analyste de données","Écriture",2,"Manque de confiance en soi","Honnête","Jaune citron","Pizza","Jus d'orange","SQL"
-"Ndiaye","Léa","FinFlow ERP","Ingénieur Machine Learning","Photographie",5,"Impatience","Persévérant","Rouge sang","Curry Indien","Coca-Cola","Python"
-"Rossi","Arthur","HomeSmart Hub","UX/UI Designer","Dessin",1,"Timide","Créatif","Gris perle","Lasagnes","Eau pétillante","HTML/CSS"
-"Singh","Charlotte","GlobalTrade AI","Développement Mobile (iOS)","Danse",7,"Égoïste","Communicant","Orange brûlé","Pad Thai","Milkshake","Swift"
-"Sow","Inès","BioInsight","Spécialiste IoT","Bénévolat",6,"Gourmand","Bienveillant","Violet clair","Mafé","Jus de bissap","C++"
-"Martin","Lucas","UrbanMobility App","Ingénieur Embarqué","Jardinage",8,"Colérique","Logique","Rose bonbon","Choucroute","Thé","C"
-"Leclerc","Sophia","FoodWaste Tracker","Blockchain Developer","Gaming",3,"Jaloux","Innovant","Marron noisette","Burger","Jus de pomme","Solidity"
-"Koné","Emma","CyberGuard Pro","Ingénieur Big Data","Randonnée",14,"Indécis","Réactif","Bleu marine","Paella","Vin rouge","Scala"
-"Diop","Chloé","NextGen Pharma","Chef de Projet Technique","Sport (général)",13,"Pessimiste","Leadership","Vert clair","Poulet Yassa","Jus de gingembre","Python"
-"Cissé","Sarah","GreenEnergy Monitor","Data Engineer","Voyage",9,"Naïf","Objectif","Jaune pâle","Sushi","Jus d'ananas","SQL"
-"Keïta","Louis","SmartFarm 4.0","DevSecOps Engineer","Coding (projets perso)",11,"Bavard","Autonome","Rouge cerise","Tajine","Café","Python"
-"Fall","Jade","VirtuFit","Développement Web Backend","Lecture",4,"Narcissique","Rigoureux","Gris anthracite","Fufu et sauce arachide","Jus d'orange","JavaScript"
-"Sy","Hugo","RoboChef","Product Owner Tech","Cuisine",10,"Distrait","Pédagogue","Bleu ciel","Pizza","Eau","PHP"
-"Touré","Paul","AquaFarm Innovations","Cloud Security Engineer","Photographie",7,"Arrogant","Fiable","Vert pomme","Thieboudienne","Soda","Go"
-"Coulibaly","Marie","QuantumSecure","Fullstack Architect","Musique (écouter)",15,"Manipulateur","Adaptable","Violet foncé","Curry Indien","Bière","Java"
-"Sanogo","Lina","EcoBuild Tech","AI-Driven Healthcare","Danse",5,"Négatif","Proactif","Rose fuchsia","Tacos","Vin blanc","C#"
-"Camara","Julia","Space Explorer VR","Mobile Architect","Sport (général)",2,"Dramatique","Curieux","Marron chocolat","Lasagnes","Limonade","Swift"
-"Bâ","Clara","EduKidz Play","Data Architect","Écriture",8,"Prétentieux","Esprit d'équipe","Bleu canard","Ramen","Eau pétillante","SQL"
-"Kane","Alice","CodeMentor AI","Machine Learning Engineer","Jardinage",6,"Imprudent","Honnête","Vert anis","Fish and Chips","Milkshake","Python"
-"Diarra","Adam","DataDriven Insights","Deep Learning Engineer","Gaming",1,"Insensible","Déterminé","Jaune citron","Bœuf Bourguignon","Jus de mangue","TensorFlow"
-"Traoré","Olivia","SecureVote Blockchain","Natural Language Processing (NLP) Specialist","Voyage",12,"Hypocrite","Sens de l'humour","Rouge sang","Coq au Vin","Chocolat chaud","Python"
+Kim,Noah,MediScan 360,QA Engineer / Testeur Logiciel,Photographie,11,Désordonné,Proactif,Rouge cerise,Jollof Rice,Jus de bissap,Python
+Diallo,Manon,CloudVault,Développement Web Frontend,Randonnée,6,Narcissique,Fiable,Bleu ciel,Sushi,Soda,JavaScript
+Johnson,Ethan,FinTrack,Ingénieur Cloud (AWS/Azure/GCP),Gaming,8,Impatience,Analytique,Vert pomme,Kebab,Café,Java
+Müller,Chloe,CyberShield,Spécialiste en Cybersécurité,Voyage,3,Orgueilleux,Empathique,Violet foncé,Biryani,Thé glacé,C#
+Garcia,Liam,EduBoost,Data Scientist,Lecture,7,Têtu,Curieux,Rose fuchsia,Tacos,Limonade,Python
+Diallo,Maya,GreenPlanet Initiative,Développement Mobile (Android),Sport (général),4,Paresseux,Adaptable,Orange vif,Poulet Yassa,Jus d'ananas,Kotlin
+Smith,Aïcha,AgriTech+,Développement Fullstack,Cuisine,9,Procrastination,Organisé,Marron chocolat,Couscous,Eau,PHP
+Chen,Gabriel,SmartRetail,DevOps,Musique (jouer),12,Distrait,Rigoureux,Bleu canard,Ramen,Bière,Go
+Traoré,Olivia,HealthConnect,Architecte Logiciel,Méditation,10,Susceptible,Pédagogue,Vert anis,Thieboudienne,Smoothie,Java
+Dupont,Jules,SafeCity,Analyste de données,Écriture,2,Manque de confiance en soi,Honnête,Jaune citron,Pizza,Jus d'orange,SQL
+Ndiaye,Léa,FinFlow ERP,Ingénieur Machine Learning,Photographie,5,Impatience,Persévérant,Rouge sang,Curry Indien,Coca-Cola,Python
+Rossi,Arthur,HomeSmart Hub,UX/UI Designer,Dessin,1,Timide,Créatif,Gris perle,Lasagnes,Eau pétillante,HTML/CSS
+Singh,Charlotte,GlobalTrade AI,Développement Mobile (iOS),Danse,7,Égoïste,Communicant,Orange brûlé,Pad Thai,Milkshake,Swift
+Sow,Inès,BioInsight,Spécialiste IoT,Bénévolat,6,Gourmand,Bienveillant,Violet clair,Mafé,Jus de bissap,C++
+Martin,Lucas,UrbanMobility App,Ingénieur Embarqué,Jardinage,8,Colérique,Logique,Rose bonbon,Choucroute,Thé,C
+Leclerc,Sophia,FoodWaste Tracker,Blockchain Developer,Gaming,3,Jaloux,Innovant,Marron noisette,Burger,Jus de pomme,Solidity
+Koné,Emma,CyberGuard Pro,Ingénieur Big Data,Randonnée,14,Indécis,Réactif,Bleu marine,Paella,Vin rouge,Scala
+Diop,Chloé,NextGen Pharma,Chef de Projet Technique,Sport (général),13,Pessimiste,Leadership,Vert clair,Poulet Yassa,Jus de gingembre,Python
+Cissé,Sarah,GreenEnergy Monitor,Data Engineer,Voyage,9,Naïf,Objectif,Jaune pâle,Sushi,Jus d'ananas,SQL
+Keïta,Louis,SmartFarm 4.0,DevSecOps Engineer,Coding (projets perso),11,Bavard,Autonome,Rouge cerise,Tajine,Café,Python
+Fall,Jade,VirtuFit,Développement Web Backend,Lecture,4,Narcissique,Rigoureux,Gris anthracite,Fufu et sauce arachide,Jus d'orange,JavaScript
+Sy,Hugo,RoboChef,Product Owner Tech,Cuisine,10,Distrait,Pédagogue,Bleu ciel,Pizza,Eau,PHP
+Touré,Paul,AquaFarm Innovations,Cloud Security Engineer,Photographie,7,Arrogant,Fiable,Vert pomme,Thieboudienne,Soda,Go
+Coulibaly,Marie,QuantumSecure,Fullstack Architect,Musique (écouter),15,Manipulateur,Adaptable,Violet foncé,Curry Indien,Bière,Java
+Sanogo,Lina,EcoBuild Tech,AI-Driven Healthcare,Danse,5,Négatif,Proactif,Rose fuchsia,Tacos,Vin blanc,C#
+Camara,Julia,Space Explorer VR,Mobile Architect,Sport (général),2,Dramatique,Curieux,Marron chocolat,Lasagnes,Limonade,Swift
+Bâ,Clara,EduKidz Play,Data Architect,Écriture,8,Prétentieux,Esprit d'équipe,Bleu canard,Ramen,Eau pétillante,SQL
+Kane,Alice,CodeMentor AI,Machine Learning Engineer,Jardinage,6,Imprudent,Honnête,Vert anis,Fish and Chips,Milkshake,Python
+Diarra,Adam,DataDriven Insights,Deep Learning Engineer,Gaming,1,Insensible,Déterminé,Jaune citron,Bœuf Bourguignon,Jus de mangue,TensorFlow
+Traoré,Olivia,SecureVote Blockchain,Natural Language Processing (NLP) Specialist,Voyage,12,Hypocrite,Sens de l'humour,Rouge sang,Coq au Vin,Chocolat chaud,Python
 Diallo,Moussa,SafeCity,Développement Mobile,Football,8,Impatience,Adaptable,Vert,Couscous,Jus d'orange,Java
 Dupont,Alice,EduBoost,Data Science,Lecture,4,Procrastination,Organisé,Bleu,Pizza,Café,Python
 Silva,João,FinTrack,Développement Web,Gaming,6,Timide,Créatif,Rouge,Sushi,Coca-Cola,JavaScript
@@ -298,11 +298,11 @@ Santos,Isabella,OptiMinds,Data Science,Voyage,4,Timide,Créatif,Rose,Salade Comp
 Wang,Léa,CodeCraft,Développement Web,Coding,9,Désorganisé,Rigoureux,Violet,Riz Cantonais,Eau,JavaScript
 Lopes,João,WebSphere,DevOps,Football,5,Râleur,Adaptable,Vert,Couscous,Café,Go
 Ndoye,Aisha,AgriTech+,Intelligence Artificielle,Danse,13,Têtu,Déterminé,Rouge,Poulet Yassa,Jus de mangue,Python
-"Mbaye","Olivia","DataInsight","Mobile","Jardinage",12,"Timidité","Communicatif","Gris","Curry","Jus de bissap","Go"
-"Chen","Mariam","InnovSpace","Cybersécurité","Voyage",3,"Rancunier","Pédagogue","Orange","Paella","Eau de coco","PHP"
-"Rossi","Lucas","EcoBuild","Dev Web","Musique",7,"Désordonné","Optimiste","Turquoise","Tacos","Lait","JavaScript"
-"Kim","Sarah","CyberGuard","IA","Échecs",9,"Impulsif","Analytique","Violet","Ramen","Smoothie","Python"
-"Johnson","Sophie","SmartLogistics","DevOps","Coding",5,"Bavard","Adaptable","Noir","Burger","Café","Rust"
+Mbaye,Olivia,DataInsight,Mobile,Jardinage,12,Timidité,Communicatif,Gris,Curry,Jus de bissap,Go
+Chen,Mariam,InnovSpace,Cybersécurité,Voyage,3,Rancunier,Pédagogue,Orange,Paella,Eau de coco,PHP
+Rossi,Lucas,EcoBuild,Dev Web,Musique,7,Désordonné,Optimiste,Turquoise,Tacos,Lait,JavaScript
+Kim,Sarah,CyberGuard,IA,Échecs,9,Impulsif,Analytique,Violet,Ramen,Smoothie,Python
+Johnson,Sophie,SmartLogistics,DevOps,Coding,5,Bavard,Adaptable,Noir,Burger,Café,Rust
 Amadou,Diallo,AgriTech+,Dev Web,Coding,7,Procrastination,Rigueur,Vert,Thieboudienne,Jus de bissap,JavaScript
 Chloé,Chen,SafeCity,IA,Lecture,3,Timidité,Curiosité,Bleu,Sushi,Thé,Python
 Marc,Traoré,FinTrack,Cybersécurité,Gaming,11,Entêtement,Persévérance,Noir,Mafé,Café,C#
@@ -1561,3 +1561,1423 @@ Hernandez,Emily,CyberGuard,Business Intelligence,Voyage,0,Pessimiste,Créatif,Bl
 Diop,Aïcha,DataHarvest,Blockchain,Photographie,0,Impatient,Empathique,Vert,Couscous,Limonade,Rust
 Taylor,Benjamin,InnovateX,Développement Web,Coding,3,Trop critique,Rigoureux,Noir,Burger,Smoothie,TypeScript
 Ndiaye,Bakary,WebVision,Front-end Dev,Jardinage,8,Dépendant,Déterminé,Rouge,Tacos,Thé,JavaScript
+Ndoye,Aminata,EduBoost,Data Science,Lecture,7,Impatient,Rigoureux,Bleu,Pizza,Café,Python
+Silva,Alexandre,SmartGrid,DevOps,Gaming,11,Procrastination,Organisé,Vert,Burger,Bière,Go
+Sow,Sophie,CyberShield,Cybersécurité,Voyage,9,Têtu,Persévérant,Noir,Sushi,Thé,Java
+Moretti,Lucas,HealthConnect,Mobile Android,Football,4,Distrait,Curieux,Rouge,Yassa Poulet,Jus d'orange,Kotlin
+Chen,Zoe,AgriTech+,IA/ML,Jardinage,2,Timide,Créatif,Jaune,Curry,Eau gazeuse,Python
+O'Connell,Kevin,FinTrack,Backend Dev,Musique,8,Bavard,Sociable,Gris,Pâtes Carbonara,Vin rouge,PHP
+Dubois,Léa,EduLearn,UI/UX Design,Dessin,3,Sensible,Empathique,Violet,Salade César,Smoothies,JavaScript
+Nzima,Drissa,SafeCity,Réseaux,Course à pied,6,Impulsif,Déterminé,Orange,Thieboudienne,Eau,Shell Script
+Smith,John,DataVision,Big Data,Programmation,13,Perfectionniste,Méticuleux,Blanc,Ramen,Coca-Cola,Scala
+Garcia,Maria,UrbanFlow,Cloud AWS,Danse,5,Maladroit,Flexible,Rose,Tacos,Jus de mangue,TypeScript
+Kuznetsov,Romain,AeroSense,Embarqué,Modélisme,10,Rancunier,Loyal,Marron,Choucroute,Limonade,C++
+Diallo,Coumba,E-GovPortal,QA Testing,Bénévolat,1,Naïf,Honnête,Turquoise,Maffé,Thé glacé,Ruby
+Kone,Mamadou,RoboCraft,Game Dev,Échecs,7,Désordonné,Autonome,Cyan,Poulet DG,Jus de pomme,C#
+Moreau,Chloé,GreenEnergy,Support Technique,Yoga,0,Indécis,Calme,Magenta,Gombo,Chocolat chaud,PHP
+Martinez,Hugo,MediCare,Scrum Master,Randonnée,12,Orgérieux,Bon Communicateur,Kaki,Lasagnes,Boisson énergétique,Java
+Sato,Kenji,Tourismo,Product Owner,Photographie,8,Capricieux,Innovant,Bordeaux,Sushi,Sake,Python
+Wang,Laura,AquaTech,Dev Web Frontend,Cuisine,5,Exigeant,Pragmatique,Indigo,Pad Thaï,Eau,JavaScript
+Jensen,Théo,SmartLogistics,DevOps,VTT,9,Lunatique,Analytique,Corail,Burger,Bière,Go
+Diop,Mariam,EcoInnov,IA/ML,Lecture,6,Colérique,Patient,Bleu,Thieboudienne,Café,Python
+Schmidt,Gaspard,FutureFarm,Cybersécurité,Gaming,14,Mélancolique,Rigoureux,Vert,Pizza,Soda,Rust
+Singh,Adama,TalentMatch,Mobile Android,Football,3,Timide,Curieux,Rouge,Yassa Poulet,Jus d'orange,Kotlin
+Yamamoto,Isabelle,ArtisanConnect,Backend Dev,Musique,10,Bavard,Sociable,Jaune,Pâtes Carbonara,Vin rouge,PHP
+Ndiaye,Youssouf,Sportify,UI/UX Design,Dessin,2,Sensible,Empathique,Violet,Salade César,Smoothies,JavaScript
+Cissé,Rokia,EcoTravel,Réseaux,Course à pied,7,Impulsif,Déterminé,Orange,Maffé,Eau,Shell Script
+Gomez,Julia,MindCare,Big Data,Programmation,15,Perfectionniste,Méticuleux,Blanc,Ramen,Coca-Cola,Scala
+Kovac,Antoine,CodeSphere,Cloud AWS,Danse,4,Maladroit,Flexible,Rose,Tacos,Jus de mangue,TypeScript
+O'Connell,Vincent,NexusFlow,Embarqué,Modélisme,11,Rancunier,Loyal,Marron,Choucroute,Limonade,C++
+Petit,Pauline,ZenGarden,QA Testing,Bénévolat,0,Naïf,Honnête,Turquoise,Kebab,Thé glacé,Ruby
+Leroy,Nathan,QuickServe,Game Dev,Échecs,8,Désordonné,Autonome,Cyan,Poulet DG,Jus de pomme,C#
+Andersson,Olivia,GigaByte,Support Technique,Yoga,1,Indécis,Calme,Magenta,Gombo,Chocolat chaud,PHP
+Sow,Emmanuel,BrightMind,Scrum Master,Randonnée,13,Orgérieux,Bon Communicateur,Kaki,Lasagnes,Boisson énergétique,Java
+Dupont,Sophie,SolarHarvest,Product Owner,Photographie,9,Capricieux,Innovant,Bordeaux,Sushi,Sake,Python
+Traoré,Pierre,FoodWaste,Dev Web Frontend,Cuisine,6,Exigeant,Pragmatique,Indigo,Pad Thaï,Eau,JavaScript
+Müller,David,JobPulse,DevOps,VTT,10,Lunatique,Analytique,Corail,Burger,Bière,Go
+Kim,Sarah,OpenGov,IA/ML,Lecture,7,Colérique,Patient,Bleu,Thieboudienne,Café,Python
+Johnson,Idrissa,CityZen,Cybersécurité,Gaming,12,Mélancolique,Rigoureux,Vert,Pizza,Soda,Rust
+Pérez,Mariam,HealthSync,Mobile Android,Football,4,Timide,Curieux,Rouge,Yassa Poulet,Jus d'orange,Kotlin
+Costa,Alexandre,AgileFlow,Backend Dev,Musique,11,Bavard,Sociable,Jaune,Pâtes Carbonara,Vin rouge,PHP
+Ndoye,Aminata,NetGuard,UI/UX Design,Dessin,3,Sensible,Empathique,Violet,Salade César,Smoothies,JavaScript
+Silva,Lucas,EduBoost,Réseaux,Course à pied,8,Impulsif,Déterminé,Orange,Maffé,Eau,Shell Script
+Sow,Laura,CyberShield,Big Data,Programmation,15,Perfectionniste,Méticuleux,Blanc,Ramen,Coca-Cola,Scala
+Moretti,Théo,HealthConnect,Cloud AWS,Danse,5,Maladroit,Flexible,Rose,Tacos,Jus de mangue,TypeScript
+Chen,Chloé,AgriTech+,Embarqué,Modélisme,12,Rancunier,Loyal,Marron,Choucroute,Limonade,C++
+O'Connell,Nathan,FinTrack,QA Testing,Bénévolat,1,Naïf,Honnête,Turquoise,Kebab,Thé glacé,Ruby
+Dubois,Léa,EduLearn,Game Dev,Échecs,9,Désordonné,Autonome,Cyan,Poulet DG,Jus de pomme,C#
+Nzima,Mariam,SafeCity,Support Technique,Yoga,2,Indécis,Calme,Magenta,Gombo,Chocolat chaud,PHP
+Smith,Vincent,DataVision,Scrum Master,Randonnée,14,Orgérieux,Bon Communicateur,Kaki,Lasagnes,Boisson énergétique,Java
+Garcia,Pauline,UrbanFlow,Product Owner,Photographie,10,Capricieux,Innovant,Bordeaux,Sushi,Sake,Python
+Kuznetsov,Romain,AeroSense,Dev Web Frontend,Cuisine,7,Exigeant,Pragmatique,Indigo,Pad Thaï,Eau,JavaScript
+Diallo,Coumba,E-GovPortal,DevOps,VTT,11,Lunatique,Analytique,Corail,Burger,Bière,Go
+Kone,Mamadou,RoboCraft,IA/ML,Lecture,8,Colérique,Patient,Bleu,Thieboudienne,Café,Python
+Moreau,Olivia,GreenEnergy,Cybersécurité,Gaming,13,Mélancolique,Rigoureux,Vert,Pizza,Soda,Rust
+Martinez,Hugo,MediCare,Mobile Android,Football,5,Timide,Curieux,Rouge,Yassa Poulet,Jus d'orange,Kotlin
+Sato,Kenji,Tourismo,Backend Dev,Musique,12,Bavard,Sociable,Jaune,Pâtes Carbonara,Vin rouge,PHP
+Wang,Laura,AquaTech,UI/UX Design,Dessin,4,Sensible,Empathique,Violet,Salade César,Smoothies,JavaScript
+Jensen,Théo,SmartLogistics,Réseaux,Course à pied,9,Impulsif,Déterminé,Orange,Maffé,Eau,Shell Script
+Diop,Mariam,EcoInnov,Big Data,Programmation,15,Perfectionniste,Méticuleux,Blanc,Ramen,Coca-Cola,Scala
+Schmidt,Gaspard,FutureFarm,Cloud AWS,Danse,6,Maladroit,Flexible,Rose,Tacos,Jus de mangue,TypeScript
+Singh,Adama,TalentMatch,Embarqué,Modélisme,13,Rancunier,Loyal,Marron,Choucroute,Limonade,C++
+Yamamoto,Isabelle,ArtisanConnect,QA Testing,Bénévolat,2,Naïf,Honnête,Turquoise,Kebab,Thé glacé,Ruby
+Ndiaye,Youssouf,Sportify,Game Dev,Échecs,10,Désordonné,Autonome,Cyan,Poulet DG,Jus de pomme,C#
+Cissé,Rokia,EcoTravel,Support Technique,Yoga,3,Indécis,Calme,Magenta,Gombo,Chocolat chaud,PHP
+Gomez,Julia,MindCare,Scrum Master,Randonnée,15,Orgérieux,Bon Communicateur,Kaki,Lasagnes,Boisson énergétique,Java
+Kovac,Antoine,CodeSphere,Product Owner,Photographie,11,Capricieux,Innovant,Bordeaux,Sushi,Sake,Python
+O'Connell,Vincent,NexusFlow,Dev Web Frontend,Cuisine,8,Exigeant,Pragmatique,Indigo,Pad Thaï,Eau,JavaScript
+Petit,Pauline,ZenGarden,DevOps,VTT,12,Lunatique,Analytique,Corail,Burger,Bière,Go
+Leroy,Nathan,QuickServe,IA/ML,Lecture,9,Colérique,Patient,Bleu,Thieboudienne,Café,Python
+Andersson,Olivia,GigaByte,Cybersécurité,Gaming,14,Mélancolique,Rigoureux,Vert,Pizza,Soda,Rust
+Sow,Emmanuel,BrightMind,Mobile Android,Football,6,Timide,Curieux,Rouge,Yassa Poulet,Jus d'orange,Kotlin
+Dupont,Sophie,SolarHarvest,Backend Dev,Musique,13,Bavard,Sociable,Jaune,Pâtes Carbonara,Vin rouge,PHP
+Traoré,Pierre,FoodWaste,UI/UX Design,Dessin,5,Sensible,Empathique,Violet,Salade César,Smoothies,JavaScript
+Müller,David,JobPulse,Réseaux,Course à pied,10,Impulsif,Déterminé,Orange,Maffé,Eau,Shell Script
+Kim,Sarah,OpenGov,Big Data,Programmation,15,Perfectionniste,Méticuleux,Blanc,Ramen,Coca-Cola,Scala
+Johnson,Idrissa,CityZen,Cloud AWS,Danse,7,Maladroit,Flexible,Rose,Tacos,Jus de mangue,TypeScript
+Pérez,Mariam,HealthSync,Embarqué,Modélisme,14,Rancunier,Loyal,Marron,Choucroute,Limonade,C++
+Costa,Alexandre,AgileFlow,QA Testing,Bénévolat,3,Naïf,Honnête,Turquoise,Kebab,Thé glacé,Ruby
+Ndoye,Aminata,NetGuard,Game Dev,Échecs,11,Désordonné,Autonome,Cyan,Poulet DG,Jus de pomme,C#
+Silva,Lucas,EduBoost,Support Technique,Yoga,4,Indécis,Calme,Magenta,Gombo,Chocolat chaud,PHP
+Sow,Laura,CyberShield,Scrum Master,Randonnée,15,Orgérieux,Bon Communicateur,Kaki,Lasagnes,Boisson énergétique,Java
+Moretti,Théo,HealthConnect,Product Owner,Photographie,10,Capricieux,Innovant,Bordeaux,Sushi,Sake,Python
+Chen,Chloé,AgriTech+,Dev Web Frontend,Cuisine,7,Exigeant,Pragmatique,Indigo,Pad Thaï,Eau,JavaScript
+O'Connell,Nathan,FinTrack,DevOps,VTT,14,Lunatique,Analytique,Corail,Burger,Bière,Go
+Dubois,Léa,EduLearn,IA/ML,Lecture,11,Colérique,Patient,Bleu,Thieboudienne,Café,Python
+Nzima,Mariam,SafeCity,Cybersécurité,Gaming,8,Mélancolique,Rigoureux,Vert,Pizza,Soda,Rust
+Smith,Vincent,DataVision,Mobile Android,Football,15,Timide,Curieux,Rouge,Yassa Poulet,Jus d'orange,Kotlin
+Garcia,Pauline,UrbanFlow,Backend Dev,Musique,6,Bavard,Sociable,Jaune,Pâtes Carbonara,Vin rouge,PHP
+Kuznetsov,Romain,AeroSense,UI/UX Design,Dessin,13,Sensible,Empathique,Violet,Salade César,Smoothies,JavaScript
+Diallo,Coumba,E-GovPortal,Réseaux,Course à pied,5,Impulsif,Déterminé,Orange,Maffé,Eau,Shell Script
+Kone,Mamadou,RoboCraft,Big Data,Programmation,12,Perfectionniste,Méticuleux,Blanc,Ramen,Coca-Cola,Scala
+Moreau,Olivia,GreenEnergy,Cloud AWS,Danse,4,Maladroit,Flexible,Rose,Tacos,Jus de mangue,TypeScript
+Martinez,Hugo,MediCare,Embarqué,Modélisme,11,Rancunier,Loyal,Marron,Choucroute,Limonade,C++
+Sato,Kenji,Tourismo,QA Testing,Bénévolat,0,Naïf,Honnête,Turquoise,Kebab,Thé glacé,Ruby
+Wang,Laura,AquaTech,Game Dev,Échecs,8,Désordonné,Autonome,Cyan,Poulet DG,Jus de pomme,C#
+Jensen,Théo,SmartLogistics,Support Technique,Yoga,1,Indécis,Calme,Magenta,Gombo,Chocolat chaud,PHP
+Diop,Mariam,EcoInnov,Scrum Master,Randonnée,15,Orgérieux,Bon Communicateur,Kaki,Lasagnes,Boisson énergétique,Java
+Schmidt,Gaspard,FutureFarm,Product Owner,Photographie,10,Capricieux,Innovant,Bordeaux,Sushi,Sake,Python
+Singh,Adama,TalentMatch,Dev Web Frontend,Cuisine,7,Exigeant,Pragmatique,Indigo,Pad Thaï,Eau,JavaScript
+Yamamoto,Isabelle,ArtisanConnect,DevOps,VTT,14,Lunatique,Analytique,Corail,Burger,Bière,Go
+Ndiaye,Youssouf,Sportify,IA/ML,Lecture,11,Colérique,Patient,Bleu,Thieboudienne,Café,Python
+Cissé,Rokia,EcoTravel,Cybersécurité,Gaming,8,Mélancolique,Rigoureux,Vert,Pizza,Soda,Rust
+Dupont,Alice,EduBoost,Développeur Web,Lecture,5,Impatience,Organisé,Bleu,Pizza,Café,JavaScript
+Durand,Bob,SafeCity,Spécialiste IA,Gaming,8,Procrastination,Créatif,Vert,Sushi,Thé,Python
+Petit,Charlie,AgriTech+,Ingénieur DevOps,Randonnée,10,Têtu,Déterminé,Rouge,Burger,Eau,Go
+Leroy,Diana,FinTrack,Data Scientist,Voyage,3,Timidité,Curieux,Jaune,Salade composée,Jus d'orange,Python
+Moreau,Ethan,HealthCarePro,Développeur Mobile,Foot,7,Désordonné,Esprit d'équipe,Noir,Tacos,Soda,Kotlin
+Simon,Fiona,GreenEnergy,Architecte Cloud,Danse,12,Perfectionnisme,Rigoureux,Blanc,Lasagnes,Vin,Java
+Garcia,George,SmartLogistics,UI/UX Designer,Musique,4,Distrait,Empathique,Violet,Pâtes,Lait,JavaScript
+Silva,Hannah,AutoPilot,Expert Cybersécurité,Photographie,9,Hyperactif,Adaptable,Orange,Couscous,Boisson énergisante,Python
+Mbaye,Isaac,DigiWallet,Développeur Embarqué,Coding,6,Pessimiste occasionnel,Patient,Gris,Thieboudienne,Jus de mangue,C++
+Diallo,Julia,CyberGuard,Ingénieur QA,Cuisine,2,Peu ponctuel,Loyal,Rose,Poulet Yassa,Eau,Java
+Diarra,Moussa,EcoConnect,Analyste Business,Jardinage,11,Bavard,Autonome,Marron,Maffé,Café,SQL
+Traoré,Fatou,Artifactory,Développeur Web,Lecture,1,Impatience,Organisé,Bleu,Pizza,Thé,JavaScript
+Sy,Amadou,CloudGenius,Spécialiste IA,Gaming,7,Procrastination,Créatif,Vert,Sushi,Jus d'orange,Python
+Kumar,Aïcha,DataSphere,Ingénieur DevOps,Randonnée,9,Têtu,Déterminé,Rouge,Burger,Soda,Go
+Singh,Jean,MobileLink,Data Scientist,Voyage,4,Timidité,Curieux,Jaune,Salade composée,Vin,Python
+Sato,Marie,SecureNest,Développeur Mobile,Foot,6,Désordonné,Esprit d'équipe,Noir,Tacos,Lait,Kotlin
+Kim,Pierre,InfraFlow,Architecte Cloud,Danse,13,Perfectionnisme,Rigoureux,Blanc,Lasagnes,Boisson énergisante,Java
+Chen,Sophie,QuantumLeap,UI/UX Designer,Musique,5,Distrait,Empathique,Violet,Pâtes,Jus de mangue,JavaScript
+Wang,Lucas,VisionAI,Expert Cybersécurité,Photographie,10,Hyperactif,Adaptable,Orange,Couscous,Café,Python
+Nguyen,Chloé,WebForge,Développeur Embarqué,Coding,3,Pessimiste occasionnel,Patient,Gris,Thieboudienne,Thé,C++
+Davies,Léo,EduBoost,Ingénieur QA,Cuisine,8,Peu ponctuel,Loyal,Rose,Poulet Yassa,Eau,Java
+Miller,Manon,SafeCity,Analyste Business,Jardinage,14,Bavard,Autonome,Marron,Maffé,Jus d'orange,SQL
+Smith,Idrissa,AgriTech+,Développeur Web,Lecture,2,Impatience,Organisé,Bleu,Pizza,Soda,JavaScript
+Jones,Rama,FinTrack,Spécialiste IA,Gaming,6,Procrastination,Créatif,Vert,Sushi,Vin,Python
+Brown,Omar,HealthCarePro,Ingénieur DevOps,Randonnée,11,Têtu,Déterminé,Rouge,Burger,Lait,Go
+Williams,Amina,GreenEnergy,Data Scientist,Voyage,5,Timidité,Curieux,Jaune,Salade composée,Boisson énergisante,Python
+Johnson,Ahmed,SmartLogistics,Développeur Mobile,Foot,8,Désordonné,Esprit d'équipe,Noir,Tacos,Jus de mangue,Kotlin
+Davis,Sarah,AutoPilot,Architecte Cloud,Danse,15,Perfectionnisme,Rigoureux,Blanc,Lasagnes,Café,Java
+Rodriguez,David,DigiWallet,UI/UX Designer,Musique,7,Distrait,Empathique,Violet,Pâtes,Thé,JavaScript
+Hernandez,Emily,CyberGuard,Expert Cybersécurité,Photographie,1,Hyperactif,Adaptable,Orange,Couscous,Eau,Python
+Dupont,Alice,EduBoost,Développeur Web,Lecture,5,Impatience,Organisé,Bleu,Pizza,Café,JavaScript
+Durand,Bob,SafeCity,Spécialiste IA,Gaming,8,Procrastination,Créatif,Vert,Sushi,Thé,Python
+Petit,Charlie,AgriTech+,Ingénieur DevOps,Randonnée,10,Têtu,Déterminé,Rouge,Burger,Eau,Go
+Leroy,Diana,FinTrack,Data Scientist,Voyage,3,Timidité,Curieux,Jaune,Salade composée,Jus d'orange,Python
+Moreau,Ethan,HealthCarePro,Développeur Mobile,Foot,7,Désordonné,Esprit d'équipe,Noir,Tacos,Soda,Kotlin
+Simon,Fiona,GreenEnergy,Architecte Cloud,Danse,12,Perfectionnisme,Rigoureux,Blanc,Lasagnes,Vin,Java
+Garcia,George,SmartLogistics,UI/UX Designer,Musique,4,Distrait,Empathique,Violet,Pâtes,Lait,JavaScript
+Silva,Hannah,AutoPilot,Expert Cybersécurité,Photographie,9,Hyperactif,Adaptable,Orange,Couscous,Boisson énergisante,Python
+Mbaye,Isaac,DigiWallet,Développeur Embarqué,Coding,6,Pessimiste occasionnel,Patient,Gris,Thieboudienne,Jus de mangue,C++
+Diallo,Julia,CyberGuard,Ingénieur QA,Cuisine,2,Peu ponctuel,Loyal,Rose,Poulet Yassa,Eau,Java
+Diarra,Moussa,EcoConnect,Analyste Business,Jardinage,11,Bavard,Autonome,Marron,Maffé,Café,SQL
+Traoré,Fatou,Artifactory,Développeur Web,Lecture,1,Impatience,Organisé,Bleu,Pizza,Thé,JavaScript
+Sy,Amadou,CloudGenius,Spécialiste IA,Gaming,7,Procrastination,Créatif,Vert,Sushi,Jus d'orange,Python
+Kumar,Aïcha,DataSphere,Ingénieur DevOps,Randonnée,9,Têtu,Déterminé,Rouge,Burger,Soda,Go
+Singh,Jean,MobileLink,Data Scientist,Voyage,4,Timidité,Curieux,Jaune,Salade composée,Vin,Python
+Sato,Marie,SecureNest,Développeur Mobile,Foot,6,Désordonné,Esprit d'équipe,Noir,Tacos,Lait,Kotlin
+Kim,Pierre,InfraFlow,Architecte Cloud,Danse,13,Perfectionnisme,Rigoureux,Blanc,Lasagnes,Boisson énergisante,Java
+Chen,Sophie,QuantumLeap,UI/UX Designer,Musique,5,Distrait,Empathique,Violet,Pâtes,Jus de mangue,JavaScript
+Wang,Lucas,VisionAI,Expert Cybersécurité,Photographie,10,Hyperactif,Adaptable,Orange,Couscous,Café,Python
+Nguyen,Chloé,WebForge,Développeur Embarqué,Coding,3,Pessimiste occasionnel,Patient,Gris,Thieboudienne,Thé,C++
+Davies,Léo,EduBoost,Ingénieur QA,Cuisine,8,Peu ponctuel,Loyal,Rose,Poulet Yassa,Eau,Java
+Miller,Manon,SafeCity,Analyste Business,Jardinage,14,Bavard,Autonome,Marron,Maffé,Jus d'orange,SQL
+Smith,Idrissa,AgriTech+,Développeur Web,Lecture,2,Impatience,Organisé,Bleu,Pizza,Soda,JavaScript
+Jones,Rama,FinTrack,Spécialiste IA,Gaming,6,Procrastination,Créatif,Vert,Sushi,Vin,Python
+Brown,Omar,HealthCarePro,Ingénieur DevOps,Randonnée,11,Têtu,Déterminé,Rouge,Burger,Lait,Go
+Williams,Amina,GreenEnergy,Data Scientist,Voyage,5,Timidité,Curieux,Jaune,Salade composée,Boisson énergisante,Python
+Johnson,Ahmed,SmartLogistics,Développeur Mobile,Foot,8,Désordonné,Esprit d'équipe,Noir,Tacos,Jus de mangue,Kotlin
+Davis,Sarah,AutoPilot,Architecte Cloud,Danse,15,Perfectionnisme,Rigoureux,Blanc,Lasagnes,Café,Java
+Rodriguez,David,DigiWallet,UI/UX Designer,Musique,7,Distrait,Empathique,Violet,Pâtes,Thé,JavaScript
+Hernandez,Emily,CyberGuard,Expert Cybersécurité,Photographie,1,Hyperactif,Adaptable,Orange,Couscous,Eau,Python
+Dupont,Alice,EduBoost,Développeur Web,Lecture,5,Impatience,Organisé,Bleu,Pizza,Café,JavaScript
+Durand,Bob,SafeCity,Spécialiste IA,Gaming,8,Procrastination,Créatif,Vert,Sushi,Thé,Python
+Petit,Charlie,AgriTech+,Ingénieur DevOps,Randonnée,10,Têtu,Déterminé,Rouge,Burger,Eau,Go
+Leroy,Diana,FinTrack,Data Scientist,Voyage,3,Timidité,Curieux,Jaune,Salade composée,Jus d'orange,Python
+Moreau,Ethan,HealthCarePro,Développeur Mobile,Foot,7,Désordonné,Esprit d'équipe,Noir,Tacos,Soda,Kotlin
+Simon,Fiona,GreenEnergy,Architecte Cloud,Danse,12,Perfectionnisme,Rigoureux,Blanc,Lasagnes,Vin,Java
+Garcia,George,SmartLogistics,UI/UX Designer,Musique,4,Distrait,Empathique,Violet,Pâtes,Lait,JavaScript
+Silva,Hannah,AutoPilot,Expert Cybersécurité,Photographie,9,Hyperactif,Adaptable,Orange,Couscous,Boisson énergisante,Python
+Mbaye,Isaac,DigiWallet,Développeur Embarqué,Coding,6,Pessimiste occasionnel,Patient,Gris,Thieboudienne,Jus de mangue,C++
+Diallo,Julia,CyberGuard,Ingénieur QA,Cuisine,2,Peu ponctuel,Loyal,Rose,Poulet Yassa,Eau,Java
+Diarra,Moussa,EcoConnect,Analyste Business,Jardinage,11,Bavard,Autonome,Marron,Maffé,Café,SQL
+Traoré,Fatou,Artifactory,Développeur Web,Lecture,1,Impatience,Organisé,Bleu,Pizza,Thé,JavaScript
+Sy,Amadou,CloudGenius,Spécialiste IA,Gaming,7,Procrastination,Créatif,Vert,Sushi,Jus d'orange,Python
+Kumar,Aïcha,DataSphere,Ingénieur DevOps,Randonnée,9,Têtu,Déterminé,Rouge,Burger,Soda,Go
+Singh,Jean,MobileLink,Data Scientist,Voyage,4,Timidité,Curieux,Jaune,Salade composée,Vin,Python
+Sato,Marie,SecureNest,Développeur Mobile,Foot,6,Désordonné,Esprit d'équipe,Noir,Tacos,Lait,Kotlin
+Kim,Pierre,InfraFlow,Architecte Cloud,Danse,13,Perfectionnisme,Rigoureux,Blanc,Lasagnes,Boisson énergisante,Java
+Chen,Sophie,QuantumLeap,UI/UX Designer,Musique,5,Distrait,Empathique,Violet,Pâtes,Jus de mangue,JavaScript
+Wang,Lucas,VisionAI,Expert Cybersécurité,Photographie,10,Hyperactif,Adaptable,Orange,Couscous,Café,Python
+Nguyen,Chloé,WebForge,Développeur Embarqué,Coding,3,Pessimiste occasionnel,Patient,Gris,Thieboudienne,Thé,C++
+Davies,Léo,EduBoost,Ingénieur QA,Cuisine,8,Peu ponctuel,Loyal,Rose,Poulet Yassa,Eau,Java
+Miller,Manon,SafeCity,Analyste Business,Jardinage,14,Bavard,Autonome,Marron,Maffé,Jus d'orange,SQL
+Smith,Idrissa,AgriTech+,Développeur Web,Lecture,2,Impatience,Organisé,Bleu,Pizza,Soda,JavaScript
+Jones,Rama,FinTrack,Spécialiste IA,Gaming,6,Procrastination,Créatif,Vert,Sushi,Vin,Python
+Brown,Omar,HealthCarePro,Ingénieur DevOps,Randonnée,11,Têtu,Déterminé,Rouge,Burger,Lait,Go
+Williams,Amina,GreenEnergy,Data Scientist,Voyage,5,Timidité,Curieux,Jaune,Salade composée,Boisson énergisante,Python
+Johnson,Ahmed,SmartLogistics,Développeur Mobile,Foot,8,Désordonné,Esprit d'équipe,Noir,Tacos,Jus de mangue,Kotlin
+Davis,Sarah,AutoPilot,Architecte Cloud,Danse,15,Perfectionnisme,Rigoureux,Blanc,Lasagnes,Café,Java
+Rodriguez,David,DigiWallet,UI/UX Designer,Musique,7,Distrait,Empathique,Violet,Pâtes,Thé,JavaScript
+Hernandez,Emily,CyberGuard,Expert Cybersécurité,Photographie,1,Hyperactif,Adaptable,Orange,Couscous,Eau,Python
+Dubois,Sarah,AgriTech+,Dev Web,Lecture,5,Perfectionniste,Rigoureux,Bleu,Pizza,Café,Python
+Diallo,Oumar,SafeCity,Cybersécurité,Foot,10,Têtu,Persévérant,Vert,Couscous,Thé,Java
+Smith,Emily,EduBoost,IA,Gaming,3,Impulsif,Créatif,Rouge,Sushi,Jus d'Orange,Python
+Martin,Michael,FinTrack,Data,Coding,8,Procrastinateur,Organisé,Noir,Pâtes Carbonara,Coca-Cola,SQL
+Kone,Aminata,HealthConnect,Mobile,Danse,2,Timide,Empathique,Jaune,Yassa Poulet,Smoothie Vert,Kotlin
+Garcia,Alex,GreenPulse,Cloud,Voyage,7,Trop critique,Adaptable,Blanc,Salade Composée,Eau,Go
+Bernard,Chloé,SmartGrid,DevOps,Musique,12,Distrait,Esprit d'équipe,Violet,Burger,Limonade,Rust
+Ndiaye,Bakary,CyberGuard,Cybersécurité,Dessin,4,Bavard,Curieux,Orange,Thieboudienne,Eau pétillante,C#
+Johnson,Olivia,AutoDrive,IA,Cuisine,6,Sensible,Patient,Rose,Ramen,Jus de Mangue,Python
+Thomas,Lucas,DataStream,Data,Jardinage,1,Pessimiste,Optimiste,Gris,Grillades,Café,R
+Coulibaly,Assia,UrbanLink,UI/UX,Vélo,9,Impatient,Logique,Marron,Paella,Thé,JavaScript
+Williams,James,EcoSense,Project Management,Natation,14,Désordonné,Autonome,Bleu,Lasagnes,Eau,PHP
+Traore,Ismaël,MediaFlow,Marketing Digital,Yoga,0,Perfectionniste,Rigoureux,Vert,Tajine,Coca-Cola,TypeScript
+Miller,Jessica,SecureNet,Cybersécurité,Cinéma,11,Têtu,Persévérant,Rouge,Feijoada,Jus d'Orange,Java
+Lopez,Daniel,HomeSync,Dev Web,Photographie,5,Impulsif,Créatif,Noir,Pizza,Smoothie Vert,Python
+Dubois,Sophie,CloudGenius,Cloud,Écriture,7,Procrastinateur,Organisé,Jaune,Sushi,Eau,Go
+Diallo,Moussa,E-CommerceX,Data,Foot,3,Timide,Empathique,Blanc,Couscous,Limonade,SQL
+Smith,Alex,RoboAssist,IA,Gaming,8,Trop critique,Adaptable,Violet,Burger,Jus de Mangue,Python
+Martin,Manon,SportMetrics,Business Analyst,Danse,2,Distrait,Esprit d'équipe,Orange,Pâtes Carbonara,Café,C#
+Kone,Aminata,ArtVista,UI/UX,Voyage,9,Bavard,Curieux,Rose,Yassa Poulet,Thé,JavaScript
+Garcia,Sarah,AgriTech+,Dev Web,Lecture,6,Sensible,Patient,Gris,Salade Composée,Coca-Cola,Python
+Bernard,Michael,SafeCity,Cybersécurité,Foot,11,Pessimiste,Optimiste,Marron,Thieboudienne,Smoothie Vert,Java
+Ndiaye,Emily,EduBoost,IA,Coding,4,Impatient,Logique,Bleu,Ramen,Eau,Python
+Johnson,Lucas,FinTrack,Data,Jardinage,1,Désordonné,Autonome,Vert,Grillades,Limonade,R
+Thomas,Olivia,HealthConnect,Mobile,Danse,13,Perfectionniste,Rigoureux,Rouge,Lasagnes,Jus de Mangue,Kotlin
+Coulibaly,Oumar,GreenPulse,Cloud,Musique,0,Têtu,Persévérant,Noir,Tajine,Café,Go
+Williams,Camille,SmartGrid,DevOps,Vélo,5,Impulsif,Créatif,Jaune,Feijoada,Thé,Rust
+Traore,Ismaël,CyberGuard,Cybersécurité,Natation,10,Procrastinateur,Organisé,Blanc,Pizza,Coca-Cola,C#
+Miller,James,AutoDrive,IA,Cinéma,3,Timide,Empathique,Violet,Sushi,Smoothie Vert,Python
+Lopez,Jessica,DataStream,Data,Photographie,8,Trop critique,Adaptable,Orange,Burger,Eau,SQL
+Dubois,Pierre,UrbanLink,UI/UX,Écriture,2,Distrait,Esprit d'équipe,Rose,Pâtes Carbonara,Limonade,JavaScript
+Diallo,Fatoumata,EcoSense,Project Management,Foot,12,Bavard,Curieux,Gris,Couscous,Jus de Mangue,PHP
+Smith,David,MediaFlow,Marketing Digital,Gaming,7,Sensible,Patient,Marron,Yassa Poulet,Café,TypeScript
+Martin,Sophie,SecureNet,Cybersécurité,Coding,4,Pessimiste,Optimiste,Bleu,Salade Composée,Thé,Java
+Kone,Moussa,HomeSync,Dev Web,Lecture,9,Impatient,Logique,Vert,Thieboudienne,Coca-Cola,Python
+Garcia,Alex,CloudGenius,Cloud,Voyage,1,Désordonné,Autonome,Rouge,Ramen,Smoothie Vert,Go
+Bernard,Emily,E-CommerceX,Data,Musique,6,Perfectionniste,Rigoureux,Noir,Grillades,Eau,SQL
+Ndiaye,Bakary,RoboAssist,IA,Dessin,11,Têtu,Persévérant,Jaune,Lasagnes,Limonade,Python
+Johnson,Sarah,SportMetrics,Business Analyst,Danse,3,Impulsif,Créatif,Blanc,Tajine,Jus de Mangue,C#
+Thomas,Lucas,ArtVista,UI/UX,Cuisine,8,Procrastinateur,Organisé,Violet,Feijoada,Café,JavaScript
+Coulibaly,Aminata,AgriTech+,Dev Web,Jardinage,0,Timide,Empathique,Orange,Pizza,Thé,Python
+Williams,Daniel,SafeCity,Cybersécurité,Foot,5,Trop critique,Adaptable,Rose,Sushi,Coca-Cola,Java
+Traore,Assia,EduBoost,IA,Gaming,10,Distrait,Esprit d'équipe,Gris,Couscous,Smoothie Vert,Python
+Miller,Jessica,FinTrack,Data,Coding,2,Bavard,Curieux,Marron,Burger,Eau,SQL
+Lopez,David,HealthConnect,Mobile,Voyage,7,Sensible,Patient,Bleu,Yassa Poulet,Limonade,Kotlin
+Dubois,Manon,GreenPulse,Cloud,Musique,13,Pessimiste,Optimiste,Vert,Salade Composée,Jus de Mangue,Go
+Diallo,Oumar,SmartGrid,DevOps,Vélo,0,Impatient,Logique,Rouge,Thieboudienne,Café,Rust
+Smith,Emily,CyberGuard,Cybersécurité,Natation,4,Désordonné,Autonome,Noir,Ramen,Thé,C#
+Martin,James,AutoDrive,IA,Cinéma,9,Perfectionniste,Rigoureux,Jaune,Grillades,Coca-Cola,Python
+Kone,Ismaël,DataStream,Data,Photographie,1,Têtu,Persévérant,Blanc,Lasagnes,Smoothie Vert,R
+Garcia,Olivia,UrbanLink,UI/UX,Écriture,6,Impulsif,Créatif,Violet,Tajine,Eau,JavaScript
+Bernard,Alex,EcoSense,Project Management,Foot,11,Procrastinateur,Organisé,Orange,Feijoada,Limonade,PHP
+Ndiaye,Fatoumata,MediaFlow,Marketing Digital,Gaming,3,Timide,Empathique,Rose,Pizza,Jus de Mangue,TypeScript
+Johnson,Michael,SecureNet,Cybersécurité,Coding,8,Trop critique,Adaptable,Gris,Sushi,Café,Java
+Thomas,Chloé,HomeSync,Dev Web,Lecture,2,Distrait,Esprit d'équipe,Marron,Couscous,Thé,Python
+Coulibaly,Malick,CloudGenius,Cloud,Voyage,14,Bavard,Curieux,Bleu,Burger,Coca-Cola,Go
+Williams,Sophie,E-CommerceX,Data,Musique,5,Sensible,Patient,Vert,Yassa Poulet,Smoothie Vert,SQL
+Traore,Aïcha,RoboAssist,IA,Dessin,10,Pessimiste,Optimiste,Rouge,Salade Composée,Eau,Python
+Miller,David,SportMetrics,Business Analyst,Danse,0,Impatient,Logique,Noir,Thieboudienne,Limonade,C#
+Lopez,Sarah,ArtVista,UI/UX,Cuisine,7,Désordonné,Autonome,Jaune,Ramen,Jus de Mangue,JavaScript
+Dubois,Lucas,AgriTech+,Dev Web,Jardinage,12,Perfectionniste,Rigoureux,Blanc,Grillades,Café,Python
+Diallo,Aminata,SafeCity,Cybersécurité,Foot,4,Têtu,Persévérant,Violet,Lasagnes,Thé,Java
+Smith,James,EduBoost,IA,Gaming,9,Impulsif,Créatif,Orange,Tajine,Coca-Cola,Python
+Martin,Olivia,FinTrack,Data,Coding,1,Procrastinateur,Organisé,Rose,Feijoada,Smoothie Vert,SQL
+Kone,Oumar,HealthConnect,Mobile,Voyage,6,Timide,Empathique,Gris,Pizza,Eau,Kotlin
+Garcia,Emily,GreenPulse,Cloud,Musique,11,Trop critique,Adaptable,Marron,Sushi,Limonade,Go
+Bernard,Daniel,SmartGrid,DevOps,Vélo,3,Distrait,Esprit d'équipe,Bleu,Couscous,Jus de Mangue,Rust
+Ndiaye,Moussa,CyberGuard,Cybersécurité,Natation,8,Bavard,Curieux,Vert,Burger,Café,C#
+Johnson,Jessica,AutoDrive,IA,Cinéma,0,Sensible,Patient,Rouge,Yassa Poulet,Thé,Python
+Thomas,Alex,DataStream,Data,Photographie,13,Pessimiste,Optimiste,Noir,Salade Composée,Coca-Cola,R
+Coulibaly,Chloé,UrbanLink,UI/UX,Écriture,5,Impatient,Logique,Jaune,Thieboudienne,Smoothie Vert,JavaScript
+Williams,Pierre,EcoSense,Project Management,Foot,10,Désordonné,Autonome,Blanc,Ramen,Eau,PHP
+Traore,Fatoumata,MediaFlow,Marketing Digital,Gaming,2,Perfectionniste,Rigoureux,Violet,Grillades,Limonade,TypeScript
+Miller,Michael,SecureNet,Cybersécurité,Coding,7,Têtu,Persévérant,Orange,Lasagnes,Jus de Mangue,Java
+Lopez,Manon,HomeSync,Dev Web,Lecture,14,Impulsif,Créatif,Rose,Tajine,Café,Python
+Dubois,Sophie,CloudGenius,Cloud,Voyage,6,Procrastinateur,Organisé,Gris,Feijoada,Thé,Go
+Diallo,Oumar,E-CommerceX,Data,Musique,1,Timide,Empathique,Marron,Pizza,Coca-Cola,SQL
+Smith,Emily,RoboAssist,IA,Dessin,11,Trop critique,Adaptable,Bleu,Sushi,Smoothie Vert,Python
+Martin,Alex,SportMetrics,Business Analyst,Danse,3,Distrait,Esprit d'équipe,Vert,Couscous,Eau,C#
+Kone,Aminata,ArtVista,UI/UX,Cuisine,8,Bavard,Curieux,Rouge,Burger,Limonade,JavaScript
+Garcia,Sarah,AgriTech+,Dev Web,Jardinage,0,Sensible,Patient,Noir,Yassa Poulet,Jus de Mangue,Python
+Bernard,Michael,SafeCity,Cybersécurité,Foot,5,Pessimiste,Optimiste,Jaune,Salade Composée,Café,Java
+Ndiaye,Emily,EduBoost,IA,Gaming,10,Impatient,Logique,Blanc,Thieboudienne,Thé,Python
+Johnson,Lucas,FinTrack,Data,Coding,2,Désordonné,Autonome,Violet,Ramen,Coca-Cola,R
+Thomas,Olivia,HealthConnect,Mobile,Danse,7,Perfectionniste,Rigoureux,Orange,Grillades,Smoothie Vert,Kotlin
+Coulibaly,Assia,GreenPulse,Cloud,Musique,12,Têtu,Persévérant,Rose,Lasagnes,Eau,Go
+Williams,James,SmartGrid,DevOps,Vélo,4,Impulsif,Créatif,Gris,Tajine,Limonade,Rust
+Traore,Ismaël,CyberGuard,Cybersécurité,Natation,9,Procrastinateur,Organisé,Marron,Feijoada,Jus de Mangue,C#
+Miller,Jessica,AutoDrive,IA,Cinéma,1,Timide,Empathique,Bleu,Pizza,Café,Python
+Lopez,Daniel,DataStream,Data,Photographie,6,Trop critique,Adaptable,Vert,Sushi,Thé,SQL
+Dubois,Pierre,UrbanLink,UI/UX,Écriture,11,Distrait,Esprit d'équipe,Rouge,Couscous,Coca-Cola,JavaScript
+Diallo,Fatoumata,EcoSense,Project Management,Foot,3,Bavard,Curieux,Noir,Burger,Smoothie Vert,PHP
+Smith,David,MediaFlow,Marketing Digital,Gaming,8,Sensible,Patient,Jaune,Yassa Poulet,Eau,TypeScript
+Martin,Sophie,SecureNet,Cybersécurité,Coding,0,Pessimiste,Optimiste,Blanc,Salade Composée,Limonade,Java
+Kone,Moussa,HomeSync,Dev Web,Lecture,5,Impatient,Logique,Violet,Thieboudienne,Jus de Mangue,Python
+Garcia,Alex,CloudGenius,Cloud,Voyage,10,Désordonné,Autonome,Orange,Ramen,Café,Go
+Bernard,Emily,E-CommerceX,Data,Musique,2,Perfectionniste,Rigoureux,Rose,Grillades,Thé,SQL
+Ndiaye,Bakary,RoboAssist,IA,Dessin,7,Têtu,Persévérant,Gris,Lasagnes,Coca-Cola,Python
+Johnson,Sarah,SportMetrics,Business Analyst,Danse,12,Impulsif,Créatif,Marron,Tajine,Smoothie Vert,C#
+Thomas,Lucas,ArtVista,UI/UX,Cuisine,4,Procrastinateur,Organisé,Bleu,Feijoada,Eau,JavaScript
+Dupont,Pierre,AgriTech+,Data Science,Lecture,7,Procrastinateur,Créatif,Rouge,Couscous,Eau,Python
+Traoré,Sophie,SafeCity,Développement Web,Football,12,Timide,Rigoureux,Bleu,Pizza,Café,JavaScript
+Martin,Jean,EduBoost,DevOps,Gaming,5,Perfectionniste,Empathique,Vert,Burger,Thé vert,PHP
+Diallo,Marie,FinTrack,Intelligence Artificielle,Coding,10,Impatient,Ponctuel,Jaune,Sushi,Jus d'orange,Java
+Bernard,Luc,HealthCarePro,Cybersécurité,Danse,8,Impulsif,Organisé,Noir,Pâtes Carbonara,Coca-Cola,Go
+Diop,Anne,SmartGrid,Développement Mobile,Voyage,3,Têtu,Patient,Blanc,Poulet Yassa,Limonade,Rust
+Petit,Fatou,GreenEnergy,Cloud Computing,Musique,15,Désordonné,Curieux,Gris,Thieboudienne,Smoothie,C#
+Camara,Moussa,RoboAdvisor,UI/UX Design,Dessin,2,Bavard,Communicatif,Violet,Lasagnes,Bière sans alcool,Ruby
+Durand,Aïcha,CyberSecureX,Assurance Qualité,Cuisine,9,Rêveur,Optimiste,Orange,Raclette,Lait,Swift
+Fall,Omar,MediaFlow,Product Management,Randonnée,6,Susceptible,Loyal,Rose,Tacos,Chocolat chaud,Kotlin
+Leroy,Amara,RetailGenius,Big Data,Natation,11,Anxieux,Pédagogue,Marron,Crêpes,Jus de pomme,TypeScript
+Kone,Aminata,LogisticsAI,Embedded Systems,Vélo,4,Pessimiste,Déterminé,Turquoise,Paella,Eau gazeuse,C++
+Kouyaté,Carlos,SmartHomeX,Réseaux,Jardinage,1,Discret,Autonome,Argent,Curry,Thé à la menthe,Scala
+Gomez,Sofia,TourisMap,Support IT,Échecs,0,Distrait,Flexible,Or,Salade Composée,Lassi,Dart
+Silva,Ricardo,BioSense,ERP Consulting,Photographie,13,Procrastinateur,Sens de l'humour,Rouge,Choucroute,Kombucha,Bash
+Santos,Maria,QuantumLeap,Data Science,Yoga,7,Timide,Créatif,Bleu,Fondue,Eau,Python
+Garcia,Javier,EcoDrive,Développement Web,Course à pied,5,Perfectionniste,Rigoureux,Vert,Ramen,Café,JavaScript
+Martinez,Yara,DataPulse,DevOps,Cinéma,10,Impatient,Empathique,Jaune,Tajine,Thé vert,PHP
+Wang,Wei,GameVerse,Intelligence Artificielle,Poterie,8,Impulsif,Ponctuel,Noir,Ceviche,Jus d'orange,Java
+Li,Ling,MindFlow,Cybersécurité,Bénévolat,3,Têtu,Organisé,Blanc,Risotto,Coca-Cola,Go
+Chen,Jian,UrbanConnect,Développement Mobile,Lecture,15,Désordonné,Patient,Gris,Couscous,Limonade,Rust
+Kim,Min,CleanWaterNow,Cloud Computing,Football,2,Bavard,Curieux,Violet,Pizza,Smoothie,C#
+Lee,Hyun,ArtifyAI,UI/UX Design,Gaming,9,Rêveur,Communicatif,Orange,Burger,Bière sans alcool,Ruby
+Mohammed,Samira,AgriTech+,Assurance Qualité,Coding,6,Susceptible,Optimiste,Rose,Sushi,Lait,Swift
+Ali,Khalid,SafeCity,Product Management,Danse,11,Anxieux,Loyal,Marron,Pâtes Carbonara,Chocolat chaud,Kotlin
+Ndoye,Hélène,EduBoost,Big Data,Voyage,4,Pessimiste,Pédagogue,Turquoise,Poulet Yassa,Jus de pomme,TypeScript
+Sow,Marc,FinTrack,Embedded Systems,Musique,1,Discret,Déterminé,Argent,Thieboudienne,Eau gazeuse,C++
+Dupont,Pierre,HealthCarePro,Réseaux,Dessin,14,Distrait,Autonome,Or,Lasagnes,Thé à la menthe,Scala
+Traoré,Sophie,SmartGrid,Support IT,Cuisine,7,Procrastinateur,Flexible,Rouge,Raclette,Lassi,Dart
+Martin,Jean,GreenEnergy,ERP Consulting,Randonnée,12,Timide,Sens de l'humour,Bleu,Tacos,Kombucha,Bash
+Diallo,Marie,RoboAdvisor,Data Science,Natation,5,Perfectionniste,Créatif,Vert,Crêpes,Eau,Python
+Bernard,Luc,CyberSecureX,Développement Web,Vélo,10,Impatient,Rigoureux,Jaune,Paella,Café,JavaScript
+Diop,Anne,MediaFlow,DevOps,Jardinage,8,Impulsif,Empathique,Noir,Curry,Thé vert,PHP
+Petit,Fatou,RetailGenius,Intelligence Artificielle,Échecs,3,Têtu,Ponctuel,Blanc,Salade Composée,Jus d'orange,Java
+Camara,Moussa,LogisticsAI,Cybersécurité,Photographie,15,Désordonné,Organisé,Gris,Choucroute,Coca-Cola,Go
+Durand,Aïcha,SmartHomeX,Développement Mobile,Yoga,2,Bavard,Patient,Violet,Fondue,Limonade,Rust
+Fall,Omar,TourisMap,Cloud Computing,Course à pied,9,Rêveur,Curieux,Orange,Ramen,Smoothie,C#
+Leroy,Amara,BioSense,UI/UX Design,Cinéma,6,Susceptible,Communicatif,Rose,Tajine,Bière sans alcool,Ruby
+Kone,Aminata,QuantumLeap,Assurance Qualité,Poterie,11,Anxieux,Optimiste,Marron,Ceviche,Lait,Swift
+Kouyaté,Carlos,EcoDrive,Product Management,Bénévolat,4,Pessimiste,Loyal,Turquoise,Risotto,Chocolat chaud,Kotlin
+Gomez,Sofia,DataPulse,Big Data,Lecture,1,Discret,Pédagogue,Argent,Couscous,Jus de pomme,TypeScript
+Silva,Ricardo,GameVerse,Embedded Systems,Football,14,Distrait,Déterminé,Or,Pizza,Eau gazeuse,C++
+Santos,Maria,MindFlow,Réseaux,Gaming,7,Procrastinateur,Autonome,Rouge,Burger,Thé à la menthe,Scala
+Garcia,Javier,UrbanConnect,Support IT,Coding,5,Timide,Flexible,Bleu,Sushi,Lassi,Dart
+Martinez,Yara,CleanWaterNow,ERP Consulting,Danse,10,Perfectionniste,Sens de l'humour,Vert,Pâtes Carbonara,Kombucha,Bash
+Wang,Wei,ArtifyAI,Data Science,Voyage,8,Impatient,Créatif,Jaune,Poulet Yassa,Eau,Python
+Li,Ling,AgriTech+,Développement Web,Musique,3,Impulsif,Rigoureux,Noir,Thieboudienne,Café,JavaScript
+Chen,Jian,SafeCity,DevOps,Dessin,15,Têtu,Empathique,Blanc,Lasagnes,Thé vert,PHP
+Kim,Min,EduBoost,Intelligence Artificielle,Cuisine,2,Désordonné,Ponctuel,Gris,Raclette,Jus d'orange,Java
+Lee,Hyun,FinTrack,Cybersécurité,Randonnée,9,Bavard,Organisé,Violet,Tacos,Coca-Cola,Go
+Mohammed,Samira,HealthCarePro,Développement Mobile,Natation,6,Rêveur,Patient,Orange,Crêpes,Limonade,Rust
+Ali,Khalid,SmartGrid,Cloud Computing,Vélo,11,Susceptible,Curieux,Rose,Paella,Smoothie,C#
+Ndoye,Hélène,GreenEnergy,UI/UX Design,Jardinage,4,Anxieux,Communicatif,Marron,Curry,Bière sans alcool,Ruby
+Sow,Marc,RoboAdvisor,Assurance Qualité,Échecs,1,Pessimiste,Optimiste,Turquoise,Salade Composée,Lait,Swift
+Dupont,Pierre,CyberSecureX,Product Management,Photographie,14,Discret,Loyal,Argent,Choucroute,Chocolat chaud,Kotlin
+Traoré,Sophie,MediaFlow,Big Data,Yoga,7,Distrait,Pédagogue,Or,Fondue,Jus de pomme,TypeScript
+Martin,Jean,RetailGenius,Embedded Systems,Course à pied,5,Procrastinateur,Déterminé,Rouge,Ramen,Eau gazeuse,C++
+Diallo,Marie,LogisticsAI,Réseaux,Cinéma,10,Timide,Autonome,Bleu,Tajine,Thé à la menthe,Scala
+Bernard,Luc,SmartHomeX,Support IT,Poterie,8,Perfectionniste,Flexible,Vert,Ceviche,Lassi,Dart
+Diop,Anne,TourisMap,ERP Consulting,Bénévolat,3,Impatient,Sens de l'humour,Jaune,Risotto,Kombucha,Bash
+Petit,Fatou,BioSense,Data Science,Lecture,15,Impulsif,Créatif,Noir,Couscous,Eau,Python
+Camara,Moussa,QuantumLeap,Développement Web,Football,2,Têtu,Rigoureux,Blanc,Pizza,Café,JavaScript
+Durand,Aïcha,EcoDrive,DevOps,Gaming,9,Désordonné,Empathique,Gris,Burger,Thé vert,PHP
+Fall,Omar,DataPulse,Intelligence Artificielle,Coding,6,Bavard,Ponctuel,Violet,Sushi,Jus d'orange,Java
+Leroy,Amara,GameVerse,Cybersécurité,Danse,11,Rêveur,Organisé,Orange,Pâtes Carbonara,Coca-Cola,Go
+Kone,Aminata,MindFlow,Développement Mobile,Voyage,4,Susceptible,Patient,Rose,Poulet Yassa,Limonade,Rust
+Kouyaté,Carlos,UrbanConnect,Cloud Computing,Musique,1,Anxieux,Curieux,Marron,Thieboudienne,Smoothie,C#
+Gomez,Sofia,CleanWaterNow,UI/UX Design,Dessin,14,Pessimiste,Communicatif,Turquoise,Lasagnes,Bière sans alcool,Ruby
+Silva,Ricardo,ArtifyAI,Assurance Qualité,Cuisine,7,Discret,Optimiste,Argent,Raclette,Lait,Swift
+Santos,Maria,AgriTech+,Product Management,Randonnée,5,Distrait,Loyal,Or,Tacos,Chocolat chaud,Kotlin
+Garcia,Javier,SafeCity,Big Data,Natation,10,Procrastinateur,Pédagogue,Rouge,Crêpes,Jus de pomme,TypeScript
+Martinez,Yara,EduBoost,Embedded Systems,Vélo,8,Timide,Déterminé,Bleu,Paella,Eau gazeuse,C++
+Wang,Wei,FinTrack,Réseaux,Jardinage,3,Perfectionniste,Autonome,Vert,Curry,Thé à la menthe,Scala
+Li,Ling,HealthCarePro,Support IT,Échecs,15,Impatient,Flexible,Jaune,Salade Composée,Lassi,Dart
+Chen,Jian,SmartGrid,ERP Consulting,Photographie,2,Impulsif,Sens de l'humour,Noir,Choucroute,Kombucha,Bash
+Kim,Min,GreenEnergy,Data Science,Yoga,9,Têtu,Créatif,Blanc,Fondue,Eau,Python
+Lee,Hyun,RoboAdvisor,Développement Web,Course à pied,6,Désordonné,Rigoureux,Gris,Ramen,Café,JavaScript
+Mohammed,Samira,CyberSecureX,DevOps,Cinéma,11,Bavard,Empathique,Violet,Tajine,Thé vert,PHP
+Ali,Khalid,MediaFlow,Intelligence Artificielle,Poterie,4,Rêveur,Ponctuel,Orange,Ceviche,Jus d'orange,Java
+Ndoye,Hélène,RetailGenius,Cybersécurité,Bénévolat,1,Susceptible,Organisé,Rose,Risotto,Coca-Cola,Go
+Sow,Marc,LogisticsAI,Développement Mobile,Lecture,14,Anxieux,Patient,Marron,Couscous,Limonade,Rust
+Dupont,Pierre,SmartHomeX,Cloud Computing,Football,7,Pessimiste,Curieux,Turquoise,Pizza,Smoothie,C#
+Traoré,Sophie,TourisMap,UI/UX Design,Gaming,5,Discret,Communicatif,Argent,Burger,Bière sans alcool,Ruby
+Martin,Jean,BioSense,Assurance Qualité,Coding,10,Distrait,Optimiste,Or,Sushi,Lait,Swift
+Diallo,Marie,QuantumLeap,Product Management,Danse,8,Procrastinateur,Loyal,Rouge,Pâtes Carbonara,Chocolat chaud,Kotlin
+Bernard,Luc,EcoDrive,Big Data,Voyage,3,Timide,Pédagogue,Bleu,Poulet Yassa,Jus de pomme,TypeScript
+Diop,Anne,DataPulse,Embedded Systems,Musique,15,Perfectionniste,Déterminé,Vert,Thieboudienne,Eau gazeuse,C++
+Petit,Fatou,GameVerse,Réseaux,Dessin,2,Impatient,Autonome,Jaune,Lasagnes,Thé à la menthe,Scala
+Camara,Moussa,MindFlow,Support IT,Cuisine,9,Impulsif,Flexible,Noir,Raclette,Lassi,Dart
+Durand,Aïcha,UrbanConnect,ERP Consulting,Randonnée,6,Têtu,Sens de l'humour,Blanc,Tacos,Kombucha,Bash
+Fall,Omar,CleanWaterNow,Data Science,Natation,11,Désordonné,Créatif,Gris,Crêpes,Eau,Python
+Leroy,Amara,ArtifyAI,Développement Web,Vélo,4,Bavard,Rigoureux,Violet,Paella,Café,JavaScript
+Kone,Aminata,AgriTech+,DevOps,Jardinage,1,Rêveur,Empathique,Orange,Curry,Thé vert,PHP
+Dupont,Fatoumata,AgriTech+,IA,Cuisine,10,Impatience,Curiosité,Jaune,Thieboudienne,Smoothie,Java
+Cissé,Jack,BioHeal,Big Data,Lecture,13,Indécision,Loyauté,Rose,Burger,Thé,Rust
+Sharma,Sékou,AgriTech+,Cloud,Échecs,1,Désorganisation,Organisation,Orange,Sushi,Jus d'orange,Kotlin
+Diop,Henry,RoboAssist,Front-end,Modélisme,4,Naïveté,Sens de l'humour,Gris,Ramen,Limonade,Go
+Rodriguez,Grace,HealthConnect,Machine Learning,Randonnée,0,Perfectionnisme,Créativité,Violet,Salade composée,Eau pétillante,Python
+Ndiaye,Chloe,EduBoost,Back-end,Voyage,9,Entêtement,Persévérance,Rouge,Fondue,Café,C#
+Kim,Robert,SecurePay,Cybersécurité,Gaming,2,Timidité,Fiabilité,Vert,Kebab,Soda artisanal,TypeScript
+Traoré,Charlotte,FinTrack,Data Science,Danse,15,Procrastination,Esprit d'équipe,Noir,Lasagnes,Thé,JavaScript
+Lee,Ava,SmartGrid,IoT,Musique,7,Impulsivité,Honnêteté,Bleu,Pizza,Eau,PHP
+Jones,Moussa,OmniShop,Full-stack,Coding,6,Bavardage,Diplomatie,Blanc,Paella,Coca-Cola,Ruby
+Anderson,Khadija,EcoHarvest,DevOps,Dessin,11,Narcissisme,Optimisme,Marron,Tajine,Lait,Swift
+Patel,Omar,VitalTrack,Mobile,Lecture,5,Agressivité passive,Patience,Or,Thieboudienne,Jus d'orange,C++
+Smith,Aminata,GreenWave,Business Intelligence,Jardinage,3,Rancune,Rigueur,Argent,Poulet Yassa,Smoothie,Scala
+Wang,Emma,PowerGridX,QA,Yoga,8,Susceptibilité,Adaptabilité,Turquoise,Pâtes Carbonara,Eau pétillante,R
+Singh,Olivia,DefendNet,Dev Web,Vélo,14,Jalousie,Empathie,Jaune,Couscous,Café,Bash
+Thomas,Robert,InfoStream,Cloud,Cinéma,1,Impatience,Curiosité,Rose,Burger,Limonade,Java
+Taylor,Mary,MarketLink,Machine Learning,Modélisme,12,Désorganisation,Loyauté,Orange,Sushi,Eau,Rust
+Hernandez,William,CitySense,Front-end,Randonnée,4,Naïveté,Sens de l'humour,Gris,Ramen,Coca-Cola,Go
+Moore,Benjamin,BioHeal,Big Data,Lecture,0,Perfectionnisme,Créativité,Violet,Salade composée,Thé,Python
+Johnson,Sophia,AutoPilot,Back-end,Voyage,9,Entêtement,Persévérance,Rouge,Fondue,Smoothie,C#
+Miller,James,LearnSphere,Cybersécurité,Gaming,2,Timidité,Fiabilité,Vert,Kebab,Jus d'orange,TypeScript
+Williams,Isabella,NewsFeedPro,Data Science,Danse,15,Procrastination,Esprit d'équipe,Noir,Lasagnes,Lait,JavaScript
+Brown,Mia,CleanEarth,IoT,Musique,7,Impulsivité,Honnêteté,Bleu,Pizza,Eau pétillante,PHP
+Davis,Charlotte,OceanGuard,Full-stack,Coding,6,Bavardage,Diplomatie,Blanc,Paella,Sirop de menthe,Ruby
+Garcia,Amelia,TrafficFlow,DevOps,Dessin,11,Narcissisme,Optimisme,Marron,Tajine,Chocolat chaud,Swift
+Anderson,Harper,QuantumLink,Mobile,Jardinage,5,Agressivité passive,Patience,Or,Thieboudienne,Infusion,C++
+Martinez,Evelyn,SkillUp,Business Intelligence,Yoga,3,Rancune,Rigueur,Argent,Poulet Yassa,Bière sans alcool,Scala
+Gonzalez,Abigail,CodeFlow,QA,Vélo,8,Susceptibilité,Adaptabilité,Turquoise,Pâtes Carbonara,Vin sans alcool,R
+Perez,Emily,ProtectAll,Dev Web,Échecs,14,Jalousie,Empathie,Jaune,Couscous,Soda artisanal,Bash
+Wilson,Ella,InsightHub,Cloud,Cinéma,1,Impatience,Curiosité,Rose,Burger,Thé,Java
+Traoré,Scarlett,GlobalTrade,Machine Learning,Modélisme,12,Désorganisation,Loyauté,Orange,Sushi,Jus d'orange,Rust
+Ndiaye,Grace,MetroPulse,Front-end,Randonnée,4,Naïveté,Sens de l'humour,Gris,Ramen,Limonade,Go
+Diallo,Chloe,LifeCare,Big Data,Lecture,0,Perfectionnisme,Créativité,Violet,Salade composée,Eau pétillante,Python
+Sow,Victoria,RenewPower,Back-end,Voyage,9,Entêtement,Persévérance,Rouge,Fondue,Café,C#
+Touré,Alice,AgriTech+,Cybersécurité,Gaming,2,Timidité,Fiabilité,Vert,Kebab,Soda artisanal,TypeScript
+Coulibaly,Bob,SafeCity,Data Science,Danse,15,Procrastination,Esprit d'équipe,Noir,Lasagnes,Thé,JavaScript
+Konaté,Charlie,EduBoost,IoT,Musique,7,Impulsivité,Honnêteté,Bleu,Pizza,Eau,PHP
+Diop,Diana,FinTrack,Full-stack,Coding,6,Bavardage,Diplomatie,Blanc,Paella,Coca-Cola,Ruby
+Ba,Eve,HealthConnect,DevOps,Dessin,11,Narcissisme,Optimisme,Marron,Tajine,Lait,Swift
+Dupont,Frank,GreenEnergy,Mobile,Jardinage,5,Agressivité passive,Patience,Or,Thieboudienne,Jus d'orange,C++
+Martin,Grace,SmartGrid,Business Intelligence,Yoga,3,Rancune,Rigueur,Argent,Poulet Yassa,Smoothie,Scala
+Dubois,Henry,CyberGuard,QA,Vélo,8,Susceptibilité,Adaptabilité,Turquoise,Pâtes Carbonara,Eau pétillante,R
+Petit,Ivy,DataPulse,Dev Web,Échecs,14,Jalousie,Empathie,Jaune,Couscous,Café,Bash
+Bernard,Jack,OmniShop,Cloud,Cinéma,1,Impatience,Curiosité,Rose,Burger,Limonade,Java
+Thomas,John,UrbanFlow,Machine Learning,Modélisme,12,Désorganisation,Loyauté,Orange,Sushi,Jus d'orange,Rust
+Robert,Mary,BioGenius,Front-end,Randonnée,4,Naïveté,Sens de l'humour,Gris,Ramen,Limonade,Go
+Richard,Patricia,RoboAssist,Big Data,Lecture,0,Perfectionnisme,Créativité,Violet,Salade composée,Eau pétillante,Python
+Durand,Robert,EduQuest,Back-end,Voyage,9,Entêtement,Persévérance,Rouge,Fondue,Café,C#
+Leroy,Linda,MediaLink,Cybersécurité,Gaming,2,Timidité,Fiabilité,Vert,Kebab,Soda artisanal,TypeScript
+Traoré,Barbara,EcoHarvest,Data Science,Danse,15,Procrastination,Esprit d'équipe,Noir,Lasagnes,Thé,JavaScript
+Diallo,Elizabeth,AquaSense,IoT,Musique,7,Impulsivité,Honnêteté,Bleu,Pizza,Eau,PHP
+Cissé,William,StreetFlow,Full-stack,Coding,6,Bavardage,Diplomatie,Blanc,Paella,Coca-Cola,Ruby
+Ndiaye,James,NexusConnect,DevOps,Dessin,11,Narcissisme,Optimisme,Marron,Tajine,Lait,Swift
+Sow,Benjamin,FutureEd,Mobile,Jardinage,5,Agressivité passive,Patience,Or,Thieboudienne,Jus d'orange,C++
+Touré,Emma,SecurePay,Business Intelligence,Yoga,3,Rancune,Rigueur,Argent,Poulet Yassa,Smoothie,Scala
+Coulibaly,Olivia,SmartHomeAI,QA,Vélo,8,Susceptibilité,Adaptabilité,Turquoise,Pâtes Carbonara,Eau pétillante,R
+Konaté,Ava,VitalTrack,Dev Web,Échecs,14,Jalousie,Empathie,Jaune,Couscous,Café,Bash
+Diop,Sophia,GreenWave,Cloud,Cinéma,1,Impatience,Curiosité,Rose,Burger,Limonade,Java
+Ba,Isabella,PowerGridX,Machine Learning,Modélisme,12,Désorganisation,Loyauté,Orange,Sushi,Jus d'orange,Rust
+Smith,Mia,DefendNet,Front-end,Randonnée,4,Naïveté,Sens de l'humour,Gris,Ramen,Limonade,Go
+Jones,Charlotte,InfoStream,Big Data,Lecture,0,Perfectionnisme,Créativité,Violet,Salade composée,Eau pétillante,Python
+Williams,Amelia,MarketLink,Back-end,Voyage,9,Entêtement,Persévérance,Rouge,Fondue,Café,C#
+Brown,Harper,CitySense,Cybersécurité,Gaming,2,Timidité,Fiabilité,Vert,Kebab,Soda artisanal,TypeScript
+Davis,Evelyn,BioHeal,Data Science,Danse,15,Procrastination,Esprit d'équipe,Noir,Lasagnes,Thé,JavaScript
+Garcia,Abigail,AutoPilot,IoT,Musique,7,Impulsivité,Honnêteté,Bleu,Pizza,Eau,PHP
+Rodriguez,Emily,LearnSphere,Full-stack,Coding,6,Bavardage,Diplomatie,Blanc,Paella,Coca-Cola,Ruby
+Martinez,Ella,NewsFeedPro,DevOps,Dessin,11,Narcissisme,Optimisme,Marron,Tajine,Lait,Swift
+Hernandez,Scarlett,CleanEarth,Mobile,Jardinage,5,Agressivité passive,Patience,Or,Thieboudienne,Jus d'orange,C++
+Lopez,Grace,OceanGuard,Business Intelligence,Yoga,3,Rancune,Rigueur,Argent,Poulet Yassa,Smoothie,Scala
+Gonzalez,Chloe,TrafficFlow,QA,Vélo,8,Susceptibilité,Adaptabilité,Turquoise,Pâtes Carbonara,Eau pétillante,R
+Perez,Victoria,QuantumLink,Dev Web,Échecs,14,Jalousie,Empathie,Jaune,Couscous,Café,Bash
+Johnson,Pierre,SkillUp,Cloud,Cinéma,1,Impatience,Curiosité,Rose,Burger,Limonade,Java
+Lee,Paul,CodeFlow,Machine Learning,Modélisme,12,Désorganisation,Loyauté,Orange,Sushi,Jus d'orange,Rust
+Kim,Jacques,ProtectAll,Front-end,Randonnée,4,Naïveté,Sens de l'humour,Gris,Ramen,Limonade,Go
+Wang,Michel,InsightHub,Big Data,Lecture,0,Perfectionnisme,Créativité,Violet,Salade composée,Eau pétillante,Python
+Zhang,Jean,GlobalTrade,Back-end,Voyage,9,Entêtement,Persévérance,Rouge,Fondue,Café,C#
+Li,David,MetroPulse,Cybersécurité,Gaming,2,Timidité,Fiabilité,Vert,Kebab,Soda artisanal,TypeScript
+Chen,Marie,LifeCare,Data Science,Danse,15,Procrastination,Esprit d'équipe,Noir,Lasagnes,Thé,JavaScript
+Liu,Sophie,RenewPower,IoT,Musique,7,Impulsivité,Honnêteté,Bleu,Pizza,Eau,PHP
+Singh,Isabelle,AgriTech+,Full-stack,Coding,6,Bavardage,Diplomatie,Blanc,Paella,Coca-Cola,Ruby
+Kumar,Claire,SafeCity,DevOps,Dessin,11,Narcissisme,Optimisme,Marron,Tajine,Lait,Swift
+Sharma,Fatoumata,EduBoost,Mobile,Jardinage,5,Agressivité passive,Patience,Or,Thieboudienne,Jus d'orange,C++
+Patel,Aïcha,FinTrack,Business Intelligence,Yoga,3,Rancune,Rigueur,Argent,Poulet Yassa,Smoothie,Scala
+Dupont,Mariam,HealthConnect,QA,Vélo,8,Susceptibilité,Adaptabilité,Turquoise,Pâtes Carbonara,Eau pétillante,R
+Martin,Aminata,GreenEnergy,Dev Web,Échecs,14,Jalousie,Empathie,Jaune,Couscous,Café,Bash
+Dubois,Khadija,SmartGrid,Cloud,Cinéma,1,Impatience,Curiosité,Rose,Burger,Limonade,Java
+Petit,Moussa,CyberGuard,Machine Learning,Modélisme,12,Désorganisation,Loyauté,Orange,Sushi,Jus d'orange,Rust
+Bernard,Sékou,DataPulse,Front-end,Randonnée,4,Naïveté,Sens de l'humour,Gris,Ramen,Limonade,Go
+Thomas,Omar,OmniShop,Big Data,Lecture,0,Perfectionnisme,Créativité,Violet,Salade composée,Eau pétillante,Python
+Robert,Ibrahim,UrbanFlow,Back-end,Voyage,9,Entêtement,Persévérance,Rouge,Fondue,Café,C#
+Richard,Abdoulaye,BioGenius,Cybersécurité,Gaming,2,Timidité,Fiabilité,Vert,Kebab,Soda artisanal,TypeScript
+Durand,Alice,RoboAssist,Data Science,Danse,15,Procrastination,Esprit d'équipe,Noir,Lasagnes,Thé,JavaScript
+Leroy,Bob,EduQuest,IoT,Musique,7,Impulsivité,Honnêteté,Bleu,Pizza,Eau,PHP
+Traoré,Charlie,MediaLink,Full-stack,Coding,6,Bavardage,Diplomatie,Blanc,Paella,Coca-Cola,Ruby
+Diallo,Diana,EcoHarvest,DevOps,Dessin,11,Narcissisme,Optimisme,Marron,Tajine,Lait,Swift
+Cissé,Eve,AquaSense,Mobile,Jardinage,5,Agressivité passive,Patience,Or,Thieboudienne,Jus d'orange,C++
+Ndiaye,Frank,StreetFlow,Business Intelligence,Yoga,3,Rancune,Rigueur,Argent,Poulet Yassa,Smoothie,Scala
+Sow,Grace,NexusConnect,QA,Vélo,8,Susceptibilité,Adaptabilité,Turquoise,Pâtes Carbonara,Eau pétillante,R
+Dupont,Sophie,EduBoost,Développement Web,Lecture,8,Impatience,Créatif,Bleu,Pizza,Café,Python
+Mohamed,Amadou,AgriTech+,Data Science,Football,5,Procrastination,Organisé,Vert,Couscous,Thé,Java
+Smith,Emma,SafeCity,Cybersécurité,Gaming,10,Perfectionnisme,Empathique,Rouge,Sushi,Jus d'orange,C#
+Cissé,Aïcha,FinTrack,Analyse Financière,Danse,3,Têtu,Déterminé,Jaune,Thieboudienne,Eau pétillante,PHP
+Wang,Wei,HealthConnect,Intelligence Artificielle,Voyage,7,Timide,Curieux,Noir,Curry,Coca-Cola,Python
+Martin,Luc,EcoSmart,Cloud Computing,Randonnée,12,Dispersé,Honnête,Blanc,Pâtes Carbonara,Bière,Go
+Johnson,William,CyberGuard,DevOps,Musique,6,Trop critique,Patiente,Violet,Burger,Vin,Rust
+Traoré,Aminata,SmartLogistics,Développement Mobile,Cuisine,2,Râleur,Loyal,Orange,Maffé,Smoothie,Kotlin
+Bernard,Pierre,TourismeVert,UI/UX Design,Photographie,9,Distrait,Poli,Rose,Lasagnes,Limonade,JavaScript
+Patel,Rahul,ArtCultureDigital,Blockchain,Jardinage,4,Émotif,Innovant,Gris,Tacos,Eau,TypeScript
+Moreau,Isabelle,CityZen,Big Data,Sports de combat,11,Mélancolique,Fiable,Marron,Paella,Jus de mangue,Java
+Konaté,Issa,DataHub Pro,Data Science,Écriture,1,Trop confiant,Optimiste,Cyan,Poulet Yassa,Sirop de menthe,Python
+Williams,Olivia,GreenEnergy,Cloud Computing,Dessin,14,Indécis,Flexible,Bleu,Sushi,Café,Go
+Ndiaye,Ousmane,FutureCare,Intelligence Artificielle,Bénévolat,0,Procrastination,Rigoureux,Vert,Couscous,Thé,Python
+Jones,Benjamin,AstroLearn,Développement Web,Lecture,7,Impatience,Esprit d'équipe,Rouge,Pizza,Jus d'orange,JavaScript
+Diallo,Fatoumata,SecureNet,Cybersécurité,Football,9,Perfectionnisme,Créatif,Jaune,Thieboudienne,Eau pétillante,C#
+Brown,Ava,UrbanFlow,Développement Mobile,Gaming,4,Têtu,Organisé,Noir,Burger,Coca-Cola,Swift
+Sylla,Moussa,RoboAssist,Robotique,Danse,13,Timide,Empathique,Blanc,Maffé,Bière,C++
+Miller,Henry,AquaWatch,Data Science,Voyage,6,Dispersé,Déterminé,Violet,Curry,Vin,Python
+Camara,Khady,BioGen,Cloud Computing,Randonnée,11,Trop critique,Curieux,Orange,Lasagnes,Smoothie,Go
+Wilson,Mia,OpenEdu,Développement Web,Musique,3,Râleur,Honnête,Rose,Pâtes Carbonara,Limonade,PHP
+Li,Mei,NetProtect,Cybersécurité,Cuisine,8,Distrait,Patiente,Gris,Ramen,Eau,C#
+Kim,Yuki,FoodTrack,Blockchain,Photographie,5,Émotif,Loyal,Marron,Tacos,Jus de mangue,TypeScript
+Park,Kenji,GlobalConnect,DevOps,Jardinage,10,Mélancolique,Poli,Cyan,Pizza,Sirop de menthe,Rust
+Suzuki,Yuki,DigitalArt,UI/UX Design,Sports de combat,2,Trop confiant,Innovant,Bleu,Sushi,Café,JavaScript
+Tanaka,Kenji,AgriTech+,Intelligence Artificielle,Écriture,15,Indécis,Fiable,Vert,Couscous,Thé,Python
+Thomas,David,SafeCity,Cybersécurité,Bénévolat,7,Procrastination,Optimiste,Rouge,Thieboudienne,Jus d'orange,C#
+Robert,Nathalie,EduBoost,Développement Web,Lecture,4,Impatience,Flexible,Jaune,Pâtes Carbonara,Eau pétillante,JavaScript
+Richard,Michel,FinTrack,Analyse Financière,Football,10,Perfectionnisme,Rigoureux,Noir,Burger,Coca-Cola,PHP
+Leroy,Chloé,HealthConnect,Data Science,Gaming,6,Têtu,Esprit d'équipe,Blanc,Curry,Bière,Python
+Moreau,Isabelle,EcoSmart,Cloud Computing,Danse,11,Timide,Créatif,Violet,Lasagnes,Vin,Go
+Simon,Jean,CyberGuard,DevOps,Voyage,3,Dispersé,Organisé,Orange,Poulet Yassa,Smoothie,Rust
+Fournier,Marie,SmartLogistics,Développement Mobile,Randonnée,8,Trop critique,Empathique,Rose,Maffé,Limonade,Kotlin
+Lefevre,Pierre,TourismeVert,UI/UX Design,Musique,5,Râleur,Déterminé,Gris,Salade Composée,Eau,JavaScript
+Garcia,Sophie,ArtCultureDigital,Blockchain,Cuisine,12,Distrait,Curieux,Marron,Choucroute,Jus de mangue,TypeScript
+Dubois,Luc,CityZen,Big Data,Photographie,2,Émotif,Honnête,Cyan,Paella,Sirop de menthe,Java
+Mohamed,Moussa,DataHub Pro,Data Science,Jardinage,9,Mélancolique,Patiente,Bleu,Ramen,Café,Python
+Cissé,Aïcha,GreenEnergy,Cloud Computing,Sports de combat,0,Trop confiant,Loyal,Vert,Pizza,Thé,Go
+Diallo,Amadou,FutureCare,Intelligence Artificielle,Écriture,14,Indécis,Poli,Rouge,Sushi,Jus d'orange,Python
+Traoré,Aminata,AstroLearn,Développement Web,Bénévolat,7,Procrastination,Innovant,Jaune,Couscous,Eau pétillante,JavaScript
+Sylla,Fatoumata,SecureNet,Cybersécurité,Lecture,4,Impatience,Fiable,Noir,Thieboudienne,Coca-Cola,C#
+Konaté,Ousmane,UrbanFlow,Développement Mobile,Football,11,Perfectionnisme,Optimiste,Blanc,Burger,Bière,Swift
+Barry,Issa,RoboAssist,Robotique,Gaming,6,Têtu,Flexible,Violet,Maffé,Vin,C++
+Sow,Aminata,AquaWatch,Data Science,Danse,13,Timide,Rigoureux,Orange,Curry,Smoothie,Python
+Camara,Khady,BioGen,Cloud Computing,Voyage,1,Dispersé,Esprit d'équipe,Rose,Lasagnes,Limonade,Go
+Diop,Moussa,OpenEdu,Développement Web,Randonnée,8,Trop critique,Créatif,Gris,Pâtes Carbonara,Eau,PHP
+Ndiaye,Fatoumata,NetProtect,Cybersécurité,Musique,5,Râleur,Organisé,Marron,Ramen,Jus de mangue,C#
+Smith,Olivia,FoodTrack,Blockchain,Cuisine,10,Distrait,Empathique,Cyan,Tacos,Sirop de menthe,TypeScript
+Johnson,Liam,GlobalConnect,DevOps,Photographie,3,Émotif,Déterminé,Bleu,Pizza,Café,Rust
+Williams,Noah,DigitalArt,UI/UX Design,Jardinage,15,Mélancolique,Curieux,Vert,Sushi,Thé,JavaScript
+Brown,Mia,AgriTech+,Intelligence Artificielle,Sports de combat,0,Trop confiant,Honnête,Rouge,Couscous,Jus d'orange,Python
+Jones,Emma,SafeCity,Cybersécurité,Écriture,8,Indécis,Patiente,Jaune,Thieboudienne,Eau pétillante,C#
+Davis,Lucas,EduBoost,Développement Web,Bénévolat,5,Procrastination,Loyal,Noir,Pâtes Carbonara,Coca-Cola,JavaScript
+Miller,Sophia,FinTrack,Analyse Financière,Lecture,10,Impatience,Poli,Blanc,Burger,Bière,PHP
+Wilson,Oliver,HealthConnect,Data Science,Football,7,Perfectionnisme,Innovant,Violet,Curry,Vin,Python
+Moore,Amelia,EcoSmart,Cloud Computing,Gaming,12,Têtu,Fiable,Orange,Lasagnes,Smoothie,Go
+Taylor,James,CyberGuard,DevOps,Danse,4,Timide,Optimiste,Rose,Poulet Yassa,Limonade,Rust
+Anderson,Charlotte,SmartLogistics,Développement Mobile,Voyage,9,Dispersé,Flexible,Gris,Maffé,Eau,Kotlin
+Patel,Priya,TourismeVert,UI/UX Design,Randonnée,6,Trop critique,Rigoureux,Marron,Salade Composée,Jus de mangue,JavaScript
+Khan,Rahul,ArtCultureDigital,Blockchain,Musique,13,Râleur,Esprit d'équipe,Cyan,Choucroute,Sirop de menthe,TypeScript
+Singh,Priya,CityZen,Big Data,Cuisine,1,Distrait,Créatif,Bleu,Paella,Café,Java
+Chen,Wei,DataHub Pro,Data Science,Photographie,8,Émotif,Organisé,Vert,Ramen,Thé,Python
+Wang,Mei,GreenEnergy,Cloud Computing,Jardinage,5,Mélancolique,Empathique,Rouge,Pizza,Jus d'orange,Go
+Li,Wei,FutureCare,Intelligence Artificielle,Sports de combat,10,Trop confiant,Déterminé,Jaune,Sushi,Eau pétillante,Python
+Kim,Yuki,AstroLearn,Développement Web,Écriture,3,Indécis,Curieux,Noir,Couscous,Coca-Cola,JavaScript
+Park,Kenji,SecureNet,Cybersécurité,Bénévolat,7,Procrastination,Honnête,Blanc,Thieboudienne,Bière,C#
+Suzuki,Yuki,UrbanFlow,Développement Mobile,Lecture,12,Impatience,Patiente,Violet,Burger,Vin,Swift
+Tanaka,Kenji,RoboAssist,Robotique,Football,5,Perfectionnisme,Loyal,Orange,Maffé,Smoothie,C++
+Dupont,Jean,AquaWatch,Data Science,Gaming,10,Têtu,Poli,Rose,Curry,Limonade,Python
+Martin,Marie,BioGen,Cloud Computing,Danse,2,Timide,Innovant,Gris,Lasagnes,Eau,Go
+Bernard,Sophie,OpenEdu,Développement Web,Voyage,9,Dispersé,Fiable,Marron,Pâtes Carbonara,Jus de mangue,PHP
+Petit,Luc,NetProtect,Cybersécurité,Randonnée,6,Trop critique,Optimiste,Cyan,Ramen,Sirop de menthe,C#
+Thomas,Nathalie,FoodTrack,Blockchain,Musique,11,Râleur,Flexible,Bleu,Tacos,Café,TypeScript
+Robert,Michel,GlobalConnect,DevOps,Cuisine,3,Distrait,Rigoureux,Vert,Pizza,Thé,Rust
+Richard,Isabelle,DigitalArt,UI/UX Design,Photographie,8,Émotif,Esprit d'équipe,Rouge,Sushi,Jus d'orange,JavaScript
+Durand,David,AgriTech+,Intelligence Artificielle,Jardinage,5,Mélancolique,Créatif,Jaune,Couscous,Eau pétillante,Python
+Leroy,Chloé,SafeCity,Cybersécurité,Sports de combat,10,Trop confiant,Organisé,Noir,Thieboudienne,Coca-Cola,C#
+Moreau,Nathalie,EduBoost,Développement Web,Écriture,2,Indécis,Empathique,Blanc,Pâtes Carbonara,Bière,JavaScript
+Simon,Michel,FinTrack,Analyse Financière,Bénévolat,9,Procrastination,Déterminé,Violet,Burger,Vin,PHP
+Fournier,Isabelle,HealthConnect,Data Science,Lecture,6,Impatience,Curieux,Orange,Curry,Smoothie,Python
+Lefevre,David,EcoSmart,Cloud Computing,Football,11,Perfectionnisme,Honnête,Rose,Lasagnes,Limonade,Go
+Garcia,Chloé,CyberGuard,DevOps,Gaming,3,Têtu,Patiente,Gris,Poulet Yassa,Eau,Rust
+Dubois,Sophie,SmartLogistics,Développement Mobile,Danse,8,Timide,Loyal,Marron,Maffé,Jus de mangue,Kotlin
+Mohamed,Luc,TourismeVert,UI/UX Design,Voyage,5,Dispersé,Poli,Cyan,Salade Composée,Sirop de menthe,JavaScript
+Cissé,Jean,ArtCultureDigital,Blockchain,Randonnée,10,Trop critique,Innovant,Bleu,Choucroute,Café,TypeScript
+Diallo,Marie,CityZen,Big Data,Musique,1,Râleur,Fiable,Vert,Paella,Thé,Java
+Traoré,Pierre,DataHub Pro,Data Science,Cuisine,8,Distrait,Optimiste,Rouge,Ramen,Jus d'orange,Python
+Sylla,Sophie,GreenEnergy,Cloud Computing,Photographie,5,Émotif,Flexible,Jaune,Pizza,Eau pétillante,Go
+Konaté,Jean,FutureCare,Intelligence Artificielle,Jardinage,10,Mélancolique,Rigoureux,Noir,Sushi,Coca-Cola,Python
+Barry,Marie,AstroLearn,Développement Web,Sports de combat,2,Trop confiant,Esprit d'équipe,Blanc,Couscous,Bière,JavaScript
+Sow,Pierre,SecureNet,Cybersécurité,Écriture,9,Indécis,Créatif,Violet,Thieboudienne,Vin,C#
+Camara,Sophie,UrbanFlow,Développement Mobile,Bénévolat,6,Procrastination,Organisé,Orange,Burger,Smoothie,Swift
+Diop,Luc,RoboAssist,Robotique,Lecture,11,Impatience,Empathique,Rose,Maffé,Limonade,C++
+Ndiaye,Nathalie,AquaWatch,Data Science,Football,3,Perfectionnisme,Déterminé,Gris,Curry,Eau,Python
+Smith,Michel,BioGen,Cloud Computing,Gaming,8,Têtu,Curieux,Marron,Lasagnes,Jus de mangue,Go
+Johnson,Isabelle,OpenEdu,Développement Web,Danse,5,Timide,Honnête,Cyan,Pâtes Carbonara,Sirop de menthe,PHP
+Williams,David,NetProtect,Cybersécurité,Voyage,10,Dispersé,Patiente,Bleu,Ramen,Café,C#
+Brown,Chloé,FoodTrack,Blockchain,Randonnée,2,Trop critique,Loyal,Vert,Tacos,Thé,TypeScript
+Jones,Luc,GlobalConnect,DevOps,Musique,9,Râleur,Poli,Rouge,Pizza,Jus d'orange,Rust
+Davis,Nathalie,DigitalArt,UI/UX Design,Cuisine,6,Distrait,Innovant,Jaune,Sushi,Eau pétillante,JavaScript
+Miller,Michel,AgriTech+,Intelligence Artificielle,Photographie,11,Émotif,Fiable,Noir,Couscous,Coca-Cola,Python
+Dubois,Antoine,EduBoost,Dev Web,Lecture,5,Impulsivité,Créativité,Bleu,Pizza,Café,Python
+Ndiaye,Aissatou,SafeCity,Data,Danse,8,Perfectionnisme,Organisation,Vert,Couscous,Thé,JavaScript
+Smith,Alex,HealthConnect,IA,Gaming,3,Procrastination,Curiosité,Rouge,Burger,Coca-Cola,Python
+Martin,Chloé,FinTrack,Cybersécurité,Voyage,12,Timidité,Logique,Jaune,Sushi,Eau,Java
+Traoré,Mamadou,AgriTech+,Mobile,Foot,6,Têtu,Persévérance,Noir,Thieboudienne,Jus d'orange,Kotlin
+Johnson,Sarah,SmartLogistics,DevOps,Randonnée,10,Distrait,Adaptabilité,Blanc,Steak frites,Smoothie,Go
+Bernard,Emma,CyberGuard,Cloud,Cuisine,2,Bavard,Humour,Violet,Lasagnes,Limonade,C#
+Diallo,Ibrahim,DataPulse,Data,Musique,9,Sensible,Empathie,Orange,Yassa,Café,R
+Williams,Emily,AI-Innovate,IA,Photographie,14,Pessimisme,Détermination,Rose,Ramen,Thé,Python
+Thomas,Lucas,UrbanSense,UI/UX Design,VTT,1,Impatience,Créativité,Gris,Tacos,Jus de pomme,JavaScript
+Konaté,Aminata,BioTechX,QA Testing,Natation,7,Désordonné,Rigueur,Bleu,Curry,Eau gazeuse,PHP
+Jones,David,RetailFlow,Product Management,Jardinage,11,Indécis,Fiabilité,Vert,Poulet rôti,Lait,Java
+Petit,Sophie,QuantumLeap,Blockchain,Échecs,4,Facilement stressé,Optimisme,Rouge,Paella,Chocolat chaud,Rust
+Sow,Ousmane,DigiGov,SRE,Basket,13,Trop critique,Honnêteté,Jaune,Pho,Jus de mangue,Go
+Brown,Jessica,EcoFarm,Dev Web,Yoga,0,Rancunier,Générosité,Noir,Tajine,Coca-Cola,Python
+Durand,Gabriel,FutureMobility,Mobile,Escalade,5,Naïf,Pragmatisme,Blanc,Fondue,Café,Swift
+Touré,Khadija,VoiceAssist,IA,Dessin,8,Orgueilleux,Patiente,Violet,Kebab,Thé,Python
+Garcia,Michael,SecureNet,Cybersécurité,Bénévolat,3,Mélancolique,Esprit d'équipe,Orange,Soupe Miso,Eau,C#
+Leroy,Manon,CloudSync,Cloud,Théâtre,12,Impulsivité,Créativité,Rose,Pizza,Jus d'orange,JavaScript
+Camara,Mariam,InsightAI,Data,Lecture,6,Perfectionnisme,Organisation,Gris,Couscous,Smoothie,R
+Miller,Jamie,WasteWise,DevOps,Danse,10,Procrastination,Curiosité,Bleu,Burger,Limonade,Go
+Moreau,Nathan,SmartGrid,IA,Gaming,2,Timidité,Logique,Vert,Sushi,Boisson énergisante,Python
+Diop,Lamine,EduLink,Mobile,Foot,9,Têtu,Persévérance,Rouge,Thieboudienne,Café,Kotlin
+Davis,Taylor,TradeFlow,Dev Web,Randonnée,14,Distrait,Adaptabilité,Jaune,Steak frites,Thé,PHP
+Simon,Inès,AgriTech+,UI/UX Design,Cuisine,1,Bavard,Humour,Noir,Lasagnes,Eau,JavaScript
+Cissé,Aissatou,SafeCity,QA Testing,Musique,7,Sensible,Empathie,Blanc,Yassa,Jus d'orange,Java
+Rodriguez,Jordan,HealthConnect,Product Management,Photographie,11,Pessimisme,Détermination,Violet,Ramen,Coca-Cola,Rust
+Laurent,Hugo,FinTrack,Blockchain,VTT,4,Impatience,Créativité,Orange,Tacos,Lait,Go
+Keita,Moussa,CyberGuard,SRE,Natation,13,Désordonné,Rigueur,Rose,Curry,Eau gazeuse,Python
+Martinez,Riley,DataPulse,Data,Jardinage,0,Indécis,Fiabilité,Gris,Poulet rôti,Jus de pomme,C#
+Dubois,Alex,AI-Innovate,IA,Échecs,5,Facilement stressé,Optimisme,Bleu,Paella,Chocolat chaud,Swift
+Ndiaye,Antoine,UrbanSense,Dev Web,Basket,8,Trop critique,Honnêteté,Vert,Pho,Jus de mangue,Python
+Smith,Chloé,BioTechX,DevOps,Yoga,3,Rancunier,Générosité,Rouge,Tajine,Coca-Cola,PHP
+Martin,Mamadou,RetailFlow,Cybersécurité,Escalade,12,Naïf,Pragmatisme,Jaune,Fondue,Café,Java
+Traoré,Ibrahim,QuantumLeap,Mobile,Dessin,6,Orgueilleux,Patiente,Noir,Kebab,Thé,Kotlin
+Johnson,Sarah,DigiGov,Cloud,Bénévolat,10,Mélancolique,Esprit d'équipe,Blanc,Soupe Miso,Eau,Go
+Bernard,Emily,EcoFarm,Data,Théâtre,2,Impulsivité,Créativité,Violet,Pizza,Jus d'orange,R
+Diallo,David,FutureMobility,IA,Lecture,9,Perfectionnisme,Organisation,Orange,Couscous,Smoothie,Python
+Williams,Jamie,VoiceAssist,Dev Web,Danse,14,Procrastination,Curiosité,Rose,Burger,Limonade,JavaScript
+Thomas,Taylor,SecureNet,SRE,Gaming,1,Timidité,Logique,Gris,Sushi,Boisson énergisante,C#
+Konaté,Jordan,CloudSync,Mobile,Foot,7,Têtu,Persévérance,Bleu,Thieboudienne,Café,Swift
+Jones,Lucas,InsightAI,UI/UX Design,Randonnée,11,Distrait,Adaptabilité,Vert,Steak frites,Thé,PHP
+Petit,Inès,WasteWise,QA Testing,Cuisine,4,Bavard,Humour,Rouge,Lasagnes,Eau,Java
+Sow,Michael,SmartGrid,Product Management,Musique,13,Sensible,Empathie,Jaune,Yassa,Jus d'orange,Python
+Brown,Manon,EduLink,Blockchain,Photographie,0,Pessimisme,Détermination,Noir,Ramen,Coca-Cola,Rust
+Durand,Nathan,TradeFlow,Cybersécurité,VTT,5,Impatience,Créativité,Blanc,Tacos,Lait,Go
+Touré,Mariam,AgriTech+,IA,Natation,8,Désordonné,Rigueur,Violet,Curry,Eau gazeuse,Python
+Garcia,Chris,SafeCity,DevOps,Jardinage,3,Indécis,Fiabilité,Orange,Poulet rôti,Jus de pomme,C#
+Leroy,Zoé,HealthConnect,Data,Échecs,12,Facilement stressé,Optimisme,Rose,Paella,Chocolat chaud,Swift
+Camara,Khadija,FinTrack,Dev Web,Basket,6,Trop critique,Honnêteté,Gris,Pho,Jus de mangue,PHP
+Miller,Alex,CyberGuard,Mobile,Yoga,10,Rancunier,Générosité,Bleu,Tajine,Coca-Cola,Kotlin
+Moreau,Antoine,DataPulse,Cloud,Escalade,2,Naïf,Pragmatisme,Vert,Fondue,Café,Go
+Diop,Aissatou,AI-Innovate,IA,Dessin,9,Orgueilleux,Patiente,Rouge,Kebab,Thé,Python
+Davis,Chloé,UrbanSense,Cybersécurité,Bénévolat,14,Mélancolique,Esprit d'équipe,Jaune,Soupe Miso,Eau,C#
+Simon,Mamadou,BioTechX,Dev Web,Théâtre,1,Impulsivité,Créativité,Noir,Pizza,Jus d'orange,JavaScript
+Cissé,Ibrahim,RetailFlow,Data,Lecture,7,Perfectionnisme,Organisation,Blanc,Couscous,Smoothie,R
+Rodriguez,Sarah,QuantumLeap,SRE,Danse,11,Procrastination,Curiosité,Violet,Burger,Limonade,Go
+Laurent,Emily,DigiGov,Mobile,Gaming,4,Timidité,Logique,Orange,Sushi,Boisson énergisante,Python
+Keita,David,EcoFarm,UI/UX Design,Foot,13,Têtu,Persévérance,Rose,Thieboudienne,Café,Kotlin
+Martinez,Lucas,FutureMobility,QA Testing,Randonnée,0,Distrait,Adaptabilité,Gris,Steak frites,Thé,PHP
+Dubois,Jordan,VoiceAssist,Product Management,Cuisine,5,Bavard,Humour,Bleu,Lasagnes,Eau,Java
+Ndiaye,Inès,SecureNet,Blockchain,Musique,8,Sensible,Empathie,Vert,Yassa,Jus d'orange,Python
+Smith,Michael,CloudSync,IA,Photographie,3,Pessimisme,Détermination,Rouge,Ramen,Coca-Cola,Rust
+Martin,Manon,InsightAI,Cybersécurité,VTT,12,Impatience,Créativité,Jaune,Tacos,Lait,Go
+Traoré,Nathan,WasteWise,Cloud,Natation,6,Désordonné,Rigueur,Noir,Curry,Eau gazeuse,Python
+Johnson,Zoé,SmartGrid,Data,Jardinage,10,Indécis,Fiabilité,Blanc,Poulet rôti,Jus de pomme,C#
+Bernard,Ousmane,EduLink,DevOps,Échecs,2,Facilement stressé,Optimisme,Violet,Paella,Chocolat chaud,Swift
+Diallo,Mariam,TradeFlow,SRE,Basket,9,Trop critique,Honnêteté,Orange,Pho,Jus de mangue,PHP
+Williams,Khadija,AgriTech+,Dev Web,Yoga,14,Rancunier,Générosité,Rose,Tajine,Coca-Cola,Kotlin
+Thomas,Alex,SafeCity,Mobile,Escalade,1,Naïf,Pragmatisme,Gris,Fondue,Café,Go
+Konaté,Antoine,HealthConnect,IA,Dessin,7,Orgueilleux,Patiente,Bleu,Kebab,Thé,Python
+Jones,Chloé,FinTrack,Cybersécurité,Bénévolat,11,Mélancolique,Esprit d'équipe,Vert,Soupe Miso,Eau,C#
+Petit,Mamadou,CyberGuard,Dev Web,Théâtre,4,Impulsivité,Créativité,Rouge,Pizza,Jus d'orange,JavaScript
+Sow,Ibrahim,DataPulse,Data,Lecture,13,Perfectionnisme,Organisation,Jaune,Couscous,Smoothie,R
+Brown,Aminata,AI-Innovate,IA,Danse,0,Procrastination,Curiosité,Noir,Burger,Limonade,Python
+Durand,Sarah,UrbanSense,Mobile,Gaming,5,Timidité,Logique,Blanc,Sushi,Boisson énergisante,Kotlin
+Touré,Fatoumata,BioTechX,DevOps,Foot,8,Têtu,Persévérance,Violet,Thieboudienne,Café,Go
+Garcia,Michael,RetailFlow,Cloud,Randonnée,3,Distrait,Adaptabilité,Orange,Steak frites,Thé,C#
+Leroy,Jessica,QuantumLeap,UI/UX Design,Cuisine,12,Bavard,Humour,Rose,Lasagnes,Eau,Swift
+Camara,Jordan,DigiGov,QA Testing,Musique,6,Sensible,Empathie,Gris,Yassa,Jus d'orange,PHP
+Miller,Riley,EcoFarm,Product Management,Photographie,10,Pessimisme,Détermination,Bleu,Ramen,Coca-Cola,Python
+Moreau,Lucas,FutureMobility,Blockchain,VTT,2,Impatience,Créativité,Vert,Tacos,Lait,Rust
+Diop,Lamine,VoiceAssist,SRE,Natation,9,Désordonné,Rigueur,Rouge,Curry,Eau gazeuse,Go
+Davis,Emily,SecureNet,Data,Jardinage,14,Indécis,Fiabilité,Jaune,Poulet rôti,Jus de pomme,Python
+Simon,Manon,CloudSync,IA,Échecs,1,Facilement stressé,Optimisme,Noir,Paella,Chocolat chaud,C#
+Cissé,Khadija,InsightAI,Dev Web,Basket,7,Trop critique,Honnêteté,Blanc,Pho,Jus de mangue,JavaScript
+Rodriguez,Nathan,WasteWise,Mobile,Yoga,11,Rancunier,Générosité,Violet,Tajine,Coca-Cola,Kotlin
+Laurent,Théo,SmartGrid,Cybersécurité,Escalade,4,Naïf,Pragmatisme,Orange,Fondue,Café,Java
+Keita,Aissatou,EduLink,Cloud,Dessin,13,Orgueilleux,Patiente,Rose,Kebab,Thé,Python
+Dupont,Fatou,EduBoost,Data,musique,7,Procrastination,Esprit d'équipe,Bleu,Couscous,Thé,Python
+Ndoye,Sara,SafeCity,Dev Web,foot,12,Rigidité,Adaptabilité,Vert,Pizza,Café,JavaScript
+Jackson,Kevin,FinTrack,IA,gaming,5,Timidité,Curiosité,Noir,Sushi,Eau,Python
+Traoré,Aïsha,HealthConnect,Mobile,danse,3,Sensibilité excessive,Empathie,Rouge,Tagine,Jus d'orange,Swift
+Smith,Lucas,GreenEnergy,DevOps,randonnée,9,Impatience,Rigueur,Blanc,Burger,Coca-Cola,Go
+Diallo,Mamadou,SmartLogistics,Cybersécurité,lecture,10,Bavardage,Proactivité,Gris,Thieboudienne,Limonade,Bash
+Wang,Chloé,AI-Vision,Product Management,voyage,6,Distraction,Optimisme,Violet,Ramen,Smoothies,TypeScript
+Garcia,Maria,WebPulse,Frontend Dev,cuisine,4,Manque de confiance en soi,Créativité,Rose,Paella,Thé,JavaScript
+Miller,David,CloudGenius,Architecture Logicielle,sport,14,Têtardise,Persévérance,Jaune,Grillades,Bière,Java
+Dupont,Mia,EduWave,QA,yoga,2,Perfectionnisme,Sens de l'organisation,Turquoise,Salade composée,Eau,SQL
+Johnson,Cheikh,NetSecure,Réseaux,coding,8,Sarcasme,Esprit critique,Marron,Poulet Yassa,Café,Python
+Taylor,Olivia,BioInnovate,Big Data,peinture,1,Indécision,Écoute active,Orange,Curry,Jus d'orange,R
+Brown,Ismaël,Streamline,Backend Dev,cinéma,11,Faible résistance au stress,Autonomie,Bleu,Lasagnes,Boisson énergisante,Java
+Moore,Aminata,CyberShield,DevOps,jardinage,6,Susceptibilité,Pédagogie,Vert,Couscous,Lait,Go
+Rodriguez,Omar,AgriTech+,Mobile,musique,3,Curiosité excessive,Honnêteté,Rouge,Tacos,Eau,Kotlin
+Hernandez,Mariam,UrbanGrowth,UI/UX,foot,8,Impatience,Créativité,Jaune,Pizza,Café,JavaScript
+Gonzalez,Ibrahim,FinEdge,Data,gaming,13,Procrastination,Rigueur,Noir,Sushi,Thé,Python
+Perez,Kadiatou,MediCarePro,IA,danse,5,Timidité,Empathie,Blanc,Burger,Jus d'orange,Python
+Sanchez,Moussa,EcoHarvest,Dev Web,voyage,10,Distraction,Adaptabilité,Gris,Tagine,Limonade,PHP
+Ramirez,Awa,BlockChainTrust,Cybersécurité,lecture,7,Bavardage,Proactivité,Violet,Thieboudienne,Smoothies,Solidity
+Lee,Kevin,QuantumLeap,Product Management,coding,9,Sensibilité excessive,Optimisme,Rose,Ramen,Thé,TypeScript
+Garcia,Grace,AeroFlow,Frontend Dev,cuisine,4,Manque de confiance en soi,Créativité,Turquoise,Paella,Café,JavaScript
+Martinez,Paul,DataSense,Architecture Logicielle,sport,15,Têtardise,Persévérance,Marron,Grillades,Bière,Java
+Liu,Fatou,EduBoost,Data,yoga,2,Perfectionnisme,Sens de l'organisation,Orange,Salade composée,Eau,SQL
+Kim,Mamadou,SafeCity,Réseaux,basket,8,Rigidité,Esprit critique,Bleu,Poulet Yassa,Café,Bash
+Khan,Aïsha,FinTrack,Big Data,photographie,1,Indécision,Écoute active,Vert,Curry,Jus d'orange,Python
+Williams,Aminata,HealthConnect,Backend Dev,cinéma,11,Sarcasme,Autonomie,Rouge,Lasagnes,Boisson énergisante,Java
+Brown,Mohammed,GreenEnergy,DevOps,jardinage,6,Faible résistance au stress,Pédagogie,Jaune,Couscous,Lait,Go
+Jones,Sara,SmartLogistics,Mobile,musique,3,Susceptibilité,Honnêteté,Noir,Tacos,Eau,Kotlin
+Miller,Lucas,CyberShield,UI/UX,foot,8,Impatience,Créativité,Blanc,Pizza,Café,JavaScript
+Davis,Olivia,AgriTech+,Data,gaming,13,Procrastination,Rigueur,Gris,Sushi,Thé,Python
+Wilson,Cheikh,UrbanGrowth,IA,danse,5,Timidité,Empathie,Violet,Burger,Jus d'orange,Python
+Moore,Mia,MediCarePro,Dev Web,voyage,10,Distraction,Adaptabilité,Rose,Tagine,Limonade,PHP
+Taylor,Omar,EcoHarvest,Cybersécurité,lecture,7,Bavardage,Proactivité,Turquoise,Thieboudienne,Smoothies,Bash
+Johnson,Kadiatou,BlockChainTrust,Product Management,coding,9,Sensibilité excessive,Optimisme,Marron,Ramen,Thé,Solidity
+Lee,Ibrahim,QuantumLeap,Frontend Dev,cuisine,4,Manque de confiance en soi,Créativité,Orange,Paella,Café,JavaScript
+Garcia,Aminata,AeroFlow,Architecture Logicielle,sport,15,Têtardise,Persévérance,Bleu,Grillades,Bière,Java
+Martinez,Ndeye,DataSense,QA,yoga,2,Perfectionnisme,Sens de l'organisation,Vert,Salade composée,Eau,SQL
+Liu,Bassirou,EduBoost,Réseaux,basket,8,Rigidité,Esprit critique,Rouge,Poulet Yassa,Café,Bash
+Kim,Sofiane,SafeCity,Big Data,photographie,1,Indécision,Écoute active,Jaune,Curry,Jus d'orange,Python
+Khan,Léa,FinTrack,Backend Dev,cinéma,11,Sarcasme,Autonomie,Noir,Lasagnes,Boisson énergisante,Java
+Williams,Mathieu,HealthConnect,DevOps,jardinage,6,Faible résistance au stress,Pédagogie,Blanc,Couscous,Lait,Go
+Brown,Chloé,GreenEnergy,Mobile,musique,3,Susceptibilité,Honnêteté,Gris,Tacos,Eau,Kotlin
+Jones,Lucas,SmartLogistics,UI/UX,foot,8,Impatience,Créativité,Violet,Pizza,Café,JavaScript
+Miller,Emma,CyberShield,Data,gaming,13,Procrastination,Rigueur,Rose,Sushi,Thé,Python
+Davis,Gabriel,AgriTech+,IA,danse,5,Timidité,Empathie,Turquoise,Burger,Jus d'orange,Python
+Wilson,Sara,UrbanGrowth,Dev Web,voyage,10,Distraction,Adaptabilité,Marron,Tagine,Limonade,PHP
+Moore,Mohammed,MediCarePro,Cybersécurité,lecture,7,Bavardage,Proactivité,Orange,Thieboudienne,Smoothies,Bash
+Taylor,Ling,EcoHarvest,Product Management,coding,9,Sensibilité excessive,Optimisme,Bleu,Ramen,Thé,TypeScript
+Johnson,Jian,BlockChainTrust,Frontend Dev,cuisine,4,Manque de confiance en soi,Créativité,Vert,Paella,Café,JavaScript
+Lee,Min-jun,QuantumLeap,Architecture Logicielle,sport,15,Têtardise,Persévérance,Rouge,Grillades,Bière,Java
+Garcia,Yusuf,AeroFlow,QA,yoga,2,Perfectionnisme,Sens de l'organisation,Jaune,Salade composée,Eau,SQL
+Martinez,Paul,DataSense,Réseaux,basket,8,Rigidité,Esprit critique,Noir,Poulet Yassa,Café,Bash
+Liu,Grace,EduBoost,Big Data,photographie,1,Indécision,Écoute active,Blanc,Curry,Jus d'orange,Python
+Kim,Aminata,SafeCity,Backend Dev,cinéma,11,Sarcasme,Autonomie,Gris,Lasagnes,Boisson énergisante,Java
+Khan,Omar,FinTrack,DevOps,jardinage,6,Faible résistance au stress,Pédagogie,Violet,Couscous,Lait,Go
+Williams,Moussa,HealthConnect,Mobile,musique,3,Susceptibilité,Honnêteté,Rose,Tacos,Eau,Kotlin
+Brown,Mariam,GreenEnergy,UI/UX,foot,8,Impatience,Créativité,Turquoise,Pizza,Café,JavaScript
+Jones,Cheikh,SmartLogistics,Data,gaming,13,Procrastination,Rigueur,Marron,Sushi,Thé,Python
+Miller,Awa,CyberShield,IA,danse,5,Timidité,Empathie,Orange,Burger,Jus d'orange,Python
+Davis,Ismaël,AgriTech+,Dev Web,voyage,10,Distraction,Adaptabilité,Bleu,Tagine,Limonade,PHP
+Wilson,Ndeye,UrbanGrowth,Cybersécurité,lecture,7,Bavardage,Proactivité,Vert,Thieboudienne,Smoothies,Bash
+Moore,Bassirou,MediCarePro,Product Management,coding,9,Sensibilité excessive,Optimisme,Rouge,Ramen,Thé,Solidity
+Taylor,Sofiane,EcoHarvest,Frontend Dev,cuisine,4,Manque de confiance en soi,Créativité,Jaune,Paella,Café,JavaScript
+Johnson,Léa,BlockChainTrust,Architecture Logicielle,sport,15,Têtardise,Persévérance,Noir,Grillades,Bière,Java
+Lee,Mathieu,QuantumLeap,QA,yoga,2,Perfectionnisme,Sens de l'organisation,Blanc,Salade composée,Eau,SQL
+Garcia,Chloé,AeroFlow,Réseaux,basket,8,Rigidité,Esprit critique,Gris,Poulet Yassa,Café,Bash
+Martinez,Lucas,DataSense,Big Data,photographie,1,Indécision,Écoute active,Violet,Curry,Jus d'orange,Python
+Liu,Emma,EduBoost,Backend Dev,cinéma,11,Sarcasme,Autonomie,Rose,Lasagnes,Boisson énergisante,Java
+Kim,Gabriel,SafeCity,DevOps,jardinage,6,Faible résistance au stress,Pédagogie,Turquoise,Couscous,Lait,Go
+Khan,Sara,FinTrack,Mobile,musique,3,Susceptibilité,Honnêteté,Marron,Tacos,Eau,Kotlin
+Williams,Mohammed,HealthConnect,UI/UX,foot,8,Impatience,Créativité,Orange,Pizza,Café,JavaScript
+Brown,Ling,GreenEnergy,Data,gaming,13,Procrastination,Rigueur,Bleu,Sushi,Thé,Python
+Jones,Jian,SmartLogistics,IA,danse,5,Timidité,Empathie,Vert,Burger,Jus d'orange,Python
+Miller,Min-jun,CyberShield,Dev Web,voyage,10,Distraction,Adaptabilité,Rouge,Tagine,Limonade,PHP
+Davis,Yusuf,AgriTech+,Cybersécurité,lecture,7,Bavardage,Proactivité,Jaune,Thieboudienne,Smoothies,Bash
+Wilson,Paul,UrbanGrowth,Product Management,coding,9,Sensibilité excessive,Optimisme,Noir,Ramen,Thé,Solidity
+Moore,Grace,MediCarePro,Frontend Dev,cuisine,4,Manque de confiance en soi,Créativité,Blanc,Paella,Café,JavaScript
+Taylor,Aminata,EcoHarvest,Architecture Logicielle,sport,15,Têtardise,Persévérance,Gris,Grillades,Bière,Java
+Johnson,Omar,BlockChainTrust,QA,yoga,2,Perfectionnisme,Sens de l'organisation,Violet,Salade composée,Eau,SQL
+Lee,Moussa,QuantumLeap,Réseaux,basket,8,Rigidité,Esprit critique,Rose,Poulet Yassa,Café,Bash
+Garcia,Mariam,AeroFlow,Big Data,photographie,1,Indécision,Écoute active,Turquoise,Curry,Jus d'orange,Python
+Martinez,Cheikh,DataSense,Backend Dev,cinéma,11,Sarcasme,Autonomie,Marron,Lasagnes,Boisson énergisante,Java
+Liu,Awa,EduBoost,DevOps,jardinage,6,Faible résistance au stress,Pédagogie,Orange,Couscous,Lait,Go
+Kim,Ismaël,SafeCity,Mobile,musique,3,Susceptibilité,Honnêteté,Bleu,Tacos,Eau,Kotlin
+Khan,Ndeye,FinTrack,UI/UX,foot,8,Impatience,Créativité,Vert,Pizza,Café,JavaScript
+Williams,Bassirou,HealthConnect,Data,gaming,13,Procrastination,Rigueur,Rouge,Sushi,Thé,Python
+Brown,Sofiane,GreenEnergy,IA,danse,5,Timidité,Empathie,Jaune,Burger,Jus d'orange,Python
+Jones,Léa,SmartLogistics,Dev Web,voyage,10,Distraction,Adaptabilité,Noir,Tagine,Limonade,PHP
+Miller,Mathieu,CyberShield,Cybersécurité,lecture,7,Bavardage,Proactivité,Blanc,Thieboudienne,Smoothies,Bash
+Davis,Chloé,AgriTech+,Product Management,coding,9,Sensibilité excessive,Optimisme,Gris,Ramen,Thé,Solidity
+Wilson,Lucas,UrbanGrowth,Frontend Dev,cuisine,4,Manque de confiance en soi,Créativité,Violet,Paella,Café,JavaScript
+Moore,Emma,MediCarePro,Architecture Logicielle,sport,15,Têtardise,Persévérance,Rose,Grillades,Bière,Java
+Taylor,Gabriel,EcoHarvest,QA,yoga,2,Perfectionnisme,Sens de l'organisation,Turquoise,Salade composée,Eau,SQL
+Dupont,Sophie,EduBoost,Développement Mobile,Voyage,7,Indécision,Loyauté,Jaune,Pizza,Jus de bissap,PHP
+Johnson,Kevin,SecureChain,Cybersécurité,Gaming,1,Optimisme (naïf),Créativité,Rouge,Burger,Eau,Python
+Traoré,Amadou,AgriTech+,Data Science,Football,12,Têtu,Leadership,Vert,Thieboudienne,Café,Java
+Garcia,Sarah,HealthConnect,Intelligence Artificielle,Lecture,5,Anxiété,Empathie,Bleu,Sushi,Thé,JavaScript
+Smith,David,FinTrack,Cloud Computing,Coding,9,Procrastination,Rigueur,Noir,Pâtes Carbonara,Vin,Go
+Diallo,Fatoumata,SafeCity,UI/UX Design,Danse,3,Timidité,Adaptabilité,Rose,Yassa,Smoothies,Swift
+Dubois,Marc,SmartLogistics,DevOps,Randonnée,10,Maladroit,Organisation,Gris,Poulet rôti,Bière,C#
+Martin,Julie,CyberShield,Tests QA,Photographie,2,Bavardage,Humour,Violet,Salade César,Limonade,Ruby
+Kim,Nicolas,DataInsight,Big Data,Musique,8,Maniaque,Persévérance,Orange,Riz cantonais,Eau gazeuse,Scala
+Benali,Aisha,RoboAssist,Systèmes Embarqués,Jardinage,14,Impatience,Ingéniosité,Turquoise,Tajine,Jus d'orange,C++
+Singh,Emmanuel,UrbanFlow,Architecture Logicielle,Échecs,6,Désordonné,Calme,Blanc,Curry indien,Lait,Kotlin
+O'Connell,Olivia,AquaCare,Gestion de Projet,Natation,11,Naïveté,Honnêteté,Marron,Paella,Coca-Cola,TypeScript
+Müller,Chloé,BioMetrics,Support IT,Vélo,4,Rancunier,Fiabilité,Indigo,Lasagnes,Virgin Mojito,Rust
+Schmidt,Daniel,QuantumLeap,Machine Learning,Dessin,13,Rigide,Pragmatisme,Argent,Ramen,Cidre,Perl
+Nowak,Léa,VisionAI,Automatisation,Yoga,0,Curieux (excessif),Altruisme,Or,Tacos,Tisane,Dart
+Petrova,Alex,EcoPilot,Ingénierie Logicielle,Méditation,7,Pessimisme,Détermination,Jaune,Moules frites,Jus de bissap,Bash
+Ivanov,Alice,MedTrack,Développement Web,Bénévolat,5,Orgueil,Créativité,Rouge,Pizza,Eau,Python
+Wang,Théo,SecureChain,Cybersécurité,Écriture,9,Perfectionnisme (excessif),Leadership,Vert,Burger,Café,Java
+Chen,Lamine,InnovateX,Data Science,Course à pied,2,Têtu,Empathie,Bleu,Thieboudienne,Thé,JavaScript
+Lee,Yacouba,FutureGrid,Intelligence Artificielle,Fitness,10,Anxiété,Adaptabilité,Rose,Sushi,Smoothies,Swift
+Diop,Mariam,NexusDrive,Cloud Computing,Cinéma,4,Procrastination,Organisation,Gris,Pâtes Carbonara,Bière,C#
+Kone,Oumar,OmniSense,UI/UX Design,Théâtre,11,Maladroit,Humour,Violet,Salade César,Limonade,Ruby
+N'Guyen,Aïcha,PrimeSynth,DevOps,Apprentissage de langues,6,Bavardage,Persévérance,Orange,Poulet rôti,Eau gazeuse,Scala
+Bamba,Moussa,StellarFlow,Tests QA,Modélisme,13,Maniaque,Ingéniosité,Turquoise,Riz cantonais,Jus d'orange,C++
+Sow,Kadiatou,TerraGuard,Big Data,Lecture,1,Impatience,Calme,Blanc,Tajine,Lait,Kotlin
+Touré,Sékou,VortexLabs,Systèmes Embarqués,Football,8,Naïveté,Honnêteté,Marron,Paella,Coca-Cola,TypeScript
+Kéïta,Aminata,ZenithOne,Architecture Logicielle,Gaming,15,Indécision,Fiabilité,Indigo,Lasagnes,Virgin Mojito,Rust
+Sylla,Ibrahim,AlphaWave,Gestion de Projet,Coding,3,Rancunier,Pragmatisme,Argent,Ramen,Cidre,Perl
+Ndoye,Maïmouna,BetaStream,Support IT,Danse,12,Rigide,Altruisme,Or,Tacos,Tisane,Dart
+Adebayo,Abdoulaye,GammaRay,Machine Learning,Voyage,0,Curieux (excessif),Détermination,Jaune,Moules frites,Jus de bissap,Bash
+Okoro,Ramatoulaye,DeltaForce,Ingénierie Logicielle,Randonnée,7,Pessimisme,Créativité,Rouge,Pizza,Eau,Python
+Mensah,Cheikh,EpsilonNet,Développement Web,Cuisine,5,Orgueil,Leadership,Vert,Burger,Café,Java
+Dlamini,Rokhaya,ZetaCore,Cybersécurité,Musique,9,Perfectionnisme (excessif),Empathie,Bleu,Thieboudienne,Thé,JavaScript
+Nkosi,Bassirou,ThetaGrid,Data Science,Photographie,2,Têtu,Adaptabilité,Rose,Sushi,Smoothies,Swift
+Mbeki,Khadija,IotaLink,Intelligence Artificielle,Peinture,10,Anxiété,Organisation,Gris,Pâtes Carbonara,Bière,C#
+Khan,Mohamed,KappaSphere,Cloud Computing,Jardinage,4,Procrastination,Humour,Violet,Salade César,Limonade,Ruby
+Rodriguez,Awa,LambdaHub,UI/UX Design,Échecs,11,Maladroit,Persévérance,Orange,Poulet rôti,Eau gazeuse,Scala
+Miller,Daouda,MuTech,DevOps,Natation,6,Bavardage,Ingéniosité,Turquoise,Riz cantonais,Jus d'orange,C++
+Davis,Seynabou,NuSpark,Tests QA,Vélo,13,Maniaque,Calme,Blanc,Tajine,Lait,Kotlin
+Wilson,Moustapha,XiCloud,Big Data,Dessin,1,Impatience,Honnêteté,Marron,Paella,Coca-Cola,TypeScript
+Brown,Fanta,OmicronData,Systèmes Embarqués,Yoga,8,Naïveté,Fiabilité,Indigo,Lasagnes,Virgin Mojito,Rust
+Taylor,Mamadou,PiMatrix,Architecture Logicielle,Méditation,15,Indécision,Pragmatisme,Argent,Ramen,Cidre,Perl
+Moore,Astou,RhoSystem,Gestion de Projet,Bénévolat,3,Rancunier,Altruisme,Or,Tacos,Tisane,Dart
+White,Lamine,SigmaPulse,Support IT,Écriture,12,Rigide,Détermination,Jaune,Moules frites,Jus de bissap,Bash
+Jackson,Coumba,TauConnect,Machine Learning,Course à pied,0,Curieux (excessif),Créativité,Rouge,Pizza,Eau,Python
+Harris,Karim,UpsilonFlow,Ingénierie Logicielle,Fitness,7,Pessimisme,Leadership,Vert,Burger,Café,Java
+Clark,Adama,PhiGuard,Développement Web,Cinéma,5,Orgueil,Empathie,Bleu,Thieboudienne,Thé,JavaScript
+Lewis,Ndeye,ChiSense,Cybersécurité,Théâtre,9,Perfectionnisme (excessif),Adaptabilité,Rose,Sushi,Smoothies,Swift
+Robinson,Sokhna,PsiDrive,Data Science,Apprentissage de langues,2,Têtu,Organisation,Gris,Pâtes Carbonara,Bière,C#
+Walker,Baye,OmegaLabs,Intelligence Artificielle,Modélisme,10,Anxiété,Humour,Violet,Salade César,Limonade,Ruby
+Hall,Saliou,AgriTech+,Cloud Computing,Lecture,4,Procrastination,Persévérance,Orange,Poulet rôti,Eau gazeuse,Scala
+Young,Oumy,SafeCity,UI/UX Design,Football,11,Maladroit,Ingéniosité,Turquoise,Riz cantonais,Jus d'orange,C++
+King,Mor,EduBoost,DevOps,Gaming,6,Bavardage,Calme,Blanc,Tajine,Lait,Kotlin
+Wright,Marième,FinTrack,Tests QA,Coding,13,Maniaque,Honnêteté,Marron,Paella,Coca-Cola,TypeScript
+Scott,Doudou,HealthConnect,Big Data,Danse,1,Impatience,Fiabilité,Indigo,Lasagnes,Virgin Mojito,Rust
+Green,Dieynaba,GreenEnergy,Systèmes Embarqués,Voyage,8,Naïveté,Pragmatisme,Argent,Ramen,Cidre,Perl
+Adams,Baba,SmartLogistics,Architecture Logicielle,Randonnée,15,Indécision,Altruisme,Or,Tacos,Tisane,Dart
+Baker,Fatou,CyberShield,Gestion de Projet,Cuisine,3,Rancunier,Détermination,Jaune,Moules frites,Jus de bissap,Bash
+Nelson,Ibrahima,DataInsight,Support IT,Musique,12,Rigide,Créativité,Rouge,Pizza,Eau,Python
+Carter,Khady,RoboAssist,Machine Learning,Photographie,0,Curieux (excessif),Leadership,Vert,Burger,Café,Java
+Mitchell,Modou,UrbanFlow,Ingénierie Logicielle,Peinture,7,Pessimisme,Empathie,Bleu,Thieboudienne,Thé,JavaScript
+Perez,Rama,AquaCare,Développement Web,Jardinage,5,Orgueil,Adaptabilité,Rose,Sushi,Smoothies,Swift
+Roberts,Souleymane,BioMetrics,Cybersécurité,Échecs,9,Perfectionnisme (excessif),Organisation,Gris,Pâtes Carbonara,Bière,C#
+Turner,Absa,QuantumLeap,Data Science,Natation,2,Têtu,Humour,Violet,Salade César,Limonade,Ruby
+Phillips,Assane,VisionAI,Intelligence Artificielle,Vélo,10,Anxiété,Persévérance,Orange,Poulet rôti,Eau gazeuse,Scala
+Campbell,Mactar,EcoPilot,Cloud Computing,Dessin,4,Procrastination,Ingéniosité,Turquoise,Riz cantonais,Jus d'orange,C++
+Parker,Ndèye,MedTrack,UI/UX Design,Yoga,11,Maladroit,Calme,Blanc,Tajine,Lait,Kotlin
+Evans,Serigne,SecureChain,DevOps,Méditation,6,Bavardage,Honnêteté,Marron,Paella,Coca-Cola,TypeScript
+Edwards,Thierno,InnovateX,Tests QA,Bénévolat,13,Maniaque,Fiabilité,Indigo,Lasagnes,Virgin Mojito,Rust
+Collins,Amy,FutureGrid,Big Data,Écriture,1,Impatience,Pragmatisme,Argent,Ramen,Cidre,Perl
+Stewart,Penda,NexusDrive,Systèmes Embarqués,Course à pied,8,Naïveté,Altruisme,Or,Tacos,Tisane,Dart
+Sanchez,Youssou,OmniSense,Architecture Logicielle,Fitness,15,Indécision,Détermination,Jaune,Moules frites,Jus de bissap,Bash
+Morris,Anta,PrimeSynth,Gestion de Projet,Cinéma,3,Rancunier,Créativité,Rouge,Pizza,Eau,Python
+Rogers,Issa,StellarFlow,Support IT,Théâtre,12,Rigide,Leadership,Vert,Burger,Café,Java
+Reed,Maimouna,TerraGuard,Machine Learning,Apprentissage de langues,0,Curieux (excessif),Empathie,Bleu,Thieboudienne,Thé,JavaScript
+Cook,Mor,VortexLabs,Ingénierie Logicielle,Modélisme,7,Pessimisme,Adaptabilité,Rose,Sushi,Smoothies,Swift
+Morgan,Ndèye Fatou,ZenithOne,Développement Web,Lecture,5,Orgueil,Organisation,Gris,Pâtes Carbonara,Bière,C#
+Bell,Samba,AlphaWave,Cybersécurité,Football,9,Perfectionnisme (excessif),Humour,Violet,Salade César,Limonade,Ruby
+Murphy,Aïssatou,BetaStream,Data Science,Gaming,2,Têtu,Persévérance,Orange,Poulet rôti,Eau gazeuse,Scala
+Bailey,Bara,GammaRay,Intelligence Artificielle,Coding,10,Anxiété,Ingéniosité,Turquoise,Riz cantonais,Jus d'orange,C++
+Rivera,Codou,DeltaForce,Cloud Computing,Danse,4,Procrastination,Calme,Blanc,Tajine,Lait,Kotlin
+Cooper,Diarra,EpsilonNet,UI/UX Design,Voyage,11,Maladroit,Honnêteté,Marron,Paella,Coca-Cola,TypeScript
+Richardson,Elimane,ZetaCore,DevOps,Randonnée,6,Bavardage,Fiabilité,Indigo,Lasagnes,Virgin Mojito,Rust
+Cox,Fara,ThetaGrid,Tests QA,Cuisine,13,Maniaque,Pragmatisme,Argent,Ramen,Cidre,Perl
+Howard,Gora,IotaLink,Big Data,Musique,1,Impatience,Altruisme,Or,Tacos,Tisane,Dart
+Ward,Kine,KappaSphere,Systèmes Embarqués,Photographie,8,Naïveté,Détermination,Jaune,Moules frites,Jus de bissap,Bash
+Torres,Latsoukabé,LambdaHub,Architecture Logicielle,Peinture,15,Indécision,Créativité,Rouge,Pizza,Eau,Python
+Peterson,Néné,MuTech,Gestion de Projet,Jardinage,3,Rancunier,Leadership,Vert,Burger,Café,Java
+Gray,Oulimata,NuSpark,Support IT,Échecs,12,Rigide,Empathie,Bleu,Thieboudienne,Thé,JavaScript
+Ramirez,Penda,XiCloud,Machine Learning,Natation,0,Curieux (excessif),Adaptabilité,Rose,Sushi,Smoothies,Swift
+James,Rama,OmicronData,Ingénierie Logicielle,Vélo,7,Pessimisme,Organisation,Gris,Pâtes Carbonara,Bière,C#
+Watson,Seydou,PiMatrix,Développement Web,Dessin,5,Orgueil,Humour,Violet,Salade César,Limonade,Ruby
+Brooks,Talla,RhoSystem,Cybersécurité,Yoga,9,Perfectionnisme (excessif),Persévérance,Orange,Poulet rôti,Eau gazeuse,Scala
+Kelly,Youssouf,SigmaPulse,Data Science,Méditation,2,Têtu,Ingéniosité,Turquoise,Riz cantonais,Jus d'orange,C++
+Sanders,Zina,TauConnect,Intelligence Artificielle,Bénévolat,10,Anxiété,Calme,Blanc,Tajine,Lait,Kotlin
+Dubois,Léa,DigitalBridge,Chef de Projet,Musique,10,Impatience,Organisé,Vert,Pizza,Jus de pomme,TypeScript
+Ndiaye,John,SafeCity,Développeur Mobile,Gaming,13,Entêté,Persévérant,Noir,Mafé,Eau gazeuse,Python
+Rodriguez,Alice,EduBoost,Ingénieur QA,Voyage,3,Curiosité excessive,Empathique,Orange,Sushi,Limonade,JavaScript
+Smith,Fatoumata,FinTrack,Expert IA,Randonnée,7,Perfectionnisme,Créatif,Bleu,Couscous,Café,Python
+Diop,Michael,AgriTech+,Data Scientist,Coding,5,Têtu,Rigoureux,Rouge,Thiéboudienne,Thé,R
+Martinez,Chloé,GreenEnergy,Designer UI/UX,Dessin,2,Distrait,Méthodique,Rose,Salade Composée,Smoothie,JavaScript
+Sow,David,SmartLogistics,Architecte Cloud,Cyclisme,11,Gourmandise,Fiable,Blanc,Burger,Eau,Java
+Thomas,Khadija,CyberGuard,Analyste Cybersécurité,Lecture,8,Timide,Calme,Violet,Tacos,Jus d'orange,C#
+Moreau,Oumar,DataInsight,Développeur Web Backend,Football,6,Susceptible,Sociable,Jaune,Lasagnes,Coca-Cola,PHP
+Taylor,Aissatou,RoboAssist,Développeur Web Frontend,Natation,1,Procrastination,Curieux,Gris,Crêpes,Tisane,HTML/CSS
+Keita,Gabriel,AIInnovate,Ingénieur DevOps,Jardinage,9,Bavard,Communicatif,Bleu,Poulet Yassa,Café,Go
+Wilson,Emily,SpaceExplorer,Product Manager,Photographie,4,Maladroit,Pédagogue,Vert,Fondue,Eau gazeuse,Kotlin
+Diallo,Moussa,OceanClean,Data Scientist,Cuisine,14,Impatience,Rigoureux,Rouge,Paella,Jus de pomme,SQL
+Garcia,Mariam,FutureHome,Développeur Mobile,Danse,0,Entêté,Optimiste,Noir,Pizza,Thé,Swift
+Dubois,Anna,DigitalBridge,Chef de Projet,Musique,12,Curiosité excessive,Organisé,Orange,Sushi,Limonade,TypeScript
+Petit,Ibrahima,SafeCity,Expert IA,Gaming,7,Perfectionnisme,Créatif,Bleu,Couscous,Café,Python
+Cissé,Laura,EduBoost,Ingénieur QA,Voyage,3,Distrait,Empathique,Rose,Salade Composée,Smoothie,JavaScript
+Sow,John,FinTrack,Développeur Web Frontend,Randonnée,10,Têtu,Persévérant,Vert,Burger,Eau,PHP
+Anderson,Fatoumata,AgriTech+,Architecte Cloud,Coding,5,Gourmandise,Fiable,Jaune,Thiéboudienne,Coca-Cola,Java
+Smith,Louis,GreenEnergy,Designer UI/UX,Dessin,1,Timide,Méthodique,Violet,Tacos,Jus d'orange,JavaScript
+Ndiaye,Manon,SmartLogistics,Analyste Cybersécurité,Cyclisme,8,Procrastination,Calme,Blanc,Lasagnes,Tisane,C#
+Kone,Hugo,CyberGuard,Développeur Mobile,Lecture,13,Impatience,Communicatif,Gris,Crêpes,Jus de pomme,Swift
+Camara,Jules,DataInsight,Data Scientist,Football,6,Entêté,Pédagogue,Bleu,Poulet Yassa,Café,R
+Thomas,Mariam,RoboAssist,Ingénieur DevOps,Jardinage,4,Curiosité excessive,Rigoureux,Rouge,Fondue,Eau gazeuse,Go
+Leroy,Aminata,AIInnovate,Product Manager,Photographie,11,Perfectionnisme,Optimiste,Noir,Paella,Thé,Kotlin
+Durand,Sékou,SpaceExplorer,Développeur Web Backend,Cuisine,2,Distrait,Organisé,Orange,Pizza,Limonade,PHP
+Richard,Léa,OceanClean,Chef de Projet,Danse,15,Têtu,Empathique,Rose,Sushi,Smoothie,TypeScript
+Robert,Chloé,FutureHome,Expert IA,Gaming,0,Gourmandise,Créatif,Vert,Couscous,Eau,Python
+Traoré,Gabriel,DigitalBridge,Data Scientist,Randonnée,9,Timide,Persévérant,Jaune,Burger,Coca-Cola,R
+Keita,Emma,SafeCity,Ingénieur QA,Voyage,7,Procrastination,Fiable,Blanc,Salade Composée,Jus d'orange,JavaScript
+Moreau,David,EduBoost,Développeur Mobile,Coding,5,Impatience,Méthodique,Violet,Thiéboudienne,Tisane,Swift
+Wilson,Sarah,FinTrack,Architecte Cloud,Lecture,12,Entêté,Calme,Gris,Lasagnes,Jus de pomme,Java
+Petit,Chris,AgriTech+,Analyste Cybersécurité,Football,3,Curiosité excessive,Communicatif,Bleu,Crêpes,Café,C#
+Smith,Louis,GreenEnergy,Designer UI/UX,Dessin,10,Perfectionnisme,Pédagogue,Rouge,Poulet Yassa,Eau gazeuse,JavaScript
+Ndiaye,Manon,SmartLogistics,Ingénieur DevOps,Jardinage,1,Distrait,Rigoureux,Noir,Fondue,Thé,Go
+Martinez,Hugo,CyberGuard,Product Manager,Photographie,8,Têtu,Optimiste,Orange,Paella,Limonade,Kotlin
+Rodriguez,Alice,DataInsight,Développeur Web Backend,Cuisine,6,Gourmandise,Organisé,Rose,Pizza,Smoothie,PHP
+Sow,John,RoboAssist,Chef de Projet,Danse,4,Timide,Empathique,Vert,Sushi,Eau,TypeScript
+Anderson,Fatoumata,AIInnovate,Expert IA,Gaming,11,Procrastination,Créatif,Jaune,Couscous,Coca-Cola,Python
+Diop,Michael,SpaceExplorer,Data Scientist,Randonnée,2,Impatience,Persévérant,Blanc,Burger,Jus d'orange,R
+Taylor,Aissatou,OceanClean,Ingénieur QA,Voyage,9,Entêté,Fiable,Violet,Salade Composée,Tisane,JavaScript
+Keita,Gabriel,FutureHome,Développeur Mobile,Coding,7,Curiosité excessive,Méthodique,Gris,Thiéboudienne,Jus de pomme,Swift
+Wilson,Emily,DigitalBridge,Architecte Cloud,Lecture,5,Perfectionnisme,Calme,Bleu,Lasagnes,Café,Java
+Diallo,Moussa,SafeCity,Analyste Cybersécurité,Football,12,Distrait,Communicatif,Rouge,Crêpes,Eau gazeuse,C#
+Garcia,Mariam,EduBoost,Designer UI/UX,Dessin,3,Têtu,Pédagogue,Noir,Poulet Yassa,Thé,JavaScript
+Dubois,Anna,FinTrack,Ingénieur DevOps,Jardinage,10,Gourmandise,Rigoureux,Orange,Fondue,Limonade,Go
+Petit,Ibrahima,AgriTech+,Product Manager,Photographie,1,Timide,Optimiste,Rose,Paella,Smoothie,Kotlin
+Cissé,Laura,GreenEnergy,Développeur Web Backend,Cuisine,8,Procrastination,Organisé,Vert,Pizza,Eau,PHP
+Sow,John,SmartLogistics,Chef de Projet,Danse,6,Impatience,Empathique,Jaune,Sushi,Coca-Cola,TypeScript
+Anderson,Fatoumata,CyberGuard,Expert IA,Gaming,4,Entêté,Créatif,Blanc,Couscous,Jus d'orange,Python
+Smith,Louis,DataInsight,Data Scientist,Randonnée,11,Curiosité excessive,Persévérant,Violet,Burger,Tisane,R
+Ndiaye,Manon,RoboAssist,Ingénieur QA,Voyage,2,Perfectionnisme,Fiable,Gris,Salade Composée,Jus de pomme,JavaScript
+Kone,Hugo,AIInnovate,Développeur Mobile,Coding,9,Distrait,Méthodique,Bleu,Thiéboudienne,Café,Swift
+Camara,Jules,SpaceExplorer,Architecte Cloud,Lecture,7,Têtu,Calme,Rouge,Lasagnes,Eau gazeuse,Java
+Thomas,Mariam,OceanClean,Analyste Cybersécurité,Football,5,Gourmandise,Communicatif,Noir,Crêpes,Thé,C#
+Leroy,Aminata,FutureHome,Designer UI/UX,Dessin,12,Timide,Pédagogue,Orange,Poulet Yassa,Limonade,JavaScript
+Durand,Sékou,DigitalBridge,Ingénieur DevOps,Jardinage,3,Procrastination,Rigoureux,Rose,Fondue,Smoothie,Go
+Richard,Léa,SafeCity,Product Manager,Photographie,10,Impatience,Optimiste,Vert,Paella,Eau,Kotlin
+Robert,Chloé,EduBoost,Développeur Web Backend,Cuisine,1,Entêté,Organisé,Jaune,Pizza,Coca-Cola,PHP
+Traoré,Gabriel,FinTrack,Chef de Projet,Danse,8,Curiosité excessive,Empathique,Blanc,Sushi,Jus d'orange,TypeScript
+Keita,Emma,AgriTech+,Expert IA,Gaming,6,Perfectionnisme,Créatif,Violet,Couscous,Tisane,Python
+Moreau,David,GreenEnergy,Data Scientist,Randonnée,4,Distrait,Persévérant,Gris,Burger,Jus de pomme,R
+Wilson,Sarah,SmartLogistics,Ingénieur QA,Voyage,11,Têtu,Fiable,Bleu,Salade Composée,Café,JavaScript
+Petit,Chris,CyberGuard,Développeur Mobile,Coding,2,Gourmandise,Méthodique,Rouge,Thiéboudienne,Eau gazeuse,Swift
+Smith,Louis,DataInsight,Architecte Cloud,Lecture,9,Timide,Calme,Noir,Lasagnes,Thé,Java
+Ndiaye,Manon,RoboAssist,Analyste Cybersécurité,Football,7,Procrastination,Communicatif,Orange,Crêpes,Limonade,C#
+Martinez,Hugo,AIInnovate,Designer UI/UX,Dessin,5,Impatience,Pédagogue,Rose,Poulet Yassa,Smoothie,JavaScript
+Rodriguez,Alice,SpaceExplorer,Ingénieur DevOps,Jardinage,12,Entêté,Rigoureux,Vert,Fondue,Eau,Go
+Sow,John,OceanClean,Product Manager,Photographie,3,Curiosité excessive,Optimiste,Jaune,Paella,Coca-Cola,Kotlin
+Anderson,Fatoumata,FutureHome,Développeur Web Backend,Cuisine,10,Perfectionnisme,Organisé,Blanc,Pizza,Jus d'orange,PHP
+Diop,Michael,DigitalBridge,Chef de Projet,Danse,1,Distrait,Empathique,Violet,Sushi,Tisane,TypeScript
+Taylor,Aissatou,SafeCity,Expert IA,Gaming,8,Têtu,Créatif,Gris,Couscous,Jus de pomme,Python
+Keita,Gabriel,EduBoost,Data Scientist,Randonnée,6,Gourmandise,Persévérant,Bleu,Burger,Café,R
+Wilson,Emily,FinTrack,Ingénieur QA,Voyage,4,Timide,Fiable,Rouge,Salade Composée,Eau gazeuse,JavaScript
+Diallo,Moussa,AgriTech+,Développeur Mobile,Coding,11,Procrastination,Méthodique,Noir,Thiéboudienne,Thé,Swift
+Garcia,Mariam,GreenEnergy,Architecte Cloud,Lecture,2,Impatience,Calme,Orange,Lasagnes,Limonade,Java
+Dubois,Anna,SmartLogistics,Analyste Cybersécurité,Football,9,Entêté,Communicatif,Rose,Crêpes,Smoothie,C#
+Petit,Ibrahima,CyberGuard,Designer UI/UX,Dessin,7,Curiosité excessive,Pédagogue,Vert,Poulet Yassa,Eau,JavaScript
+Cissé,Laura,DataInsight,Ingénieur DevOps,Jardinage,5,Perfectionnisme,Rigoureux,Jaune,Fondue,Coca-Cola,Go
+Sow,John,RoboAssist,Product Manager,Photographie,12,Distrait,Optimiste,Blanc,Paella,Jus d'orange,Kotlin
+Anderson,Fatoumata,AIInnovate,Développeur Web Backend,Cuisine,3,Têtu,Organisé,Violet,Pizza,Tisane,PHP
+Smith,Louis,SpaceExplorer,Chef de Projet,Danse,10,Gourmandise,Empathique,Gris,Sushi,Jus de pomme,TypeScript
+Ndiaye,Manon,OceanClean,Expert IA,Gaming,1,Timide,Créatif,Bleu,Couscous,Café,Python
+Kone,Hugo,FutureHome,Data Scientist,Randonnée,8,Procrastination,Persévérant,Rouge,Burger,Eau gazeuse,R
+Camara,Jules,DigitalBridge,Ingénieur QA,Voyage,6,Impatience,Fiable,Noir,Salade Composée,Thé,JavaScript
+Thomas,Mariam,SafeCity,Développeur Mobile,Coding,4,Entêté,Méthodique,Orange,Thiéboudienne,Limonade,Swift
+Leroy,Aminata,EduBoost,Architecte Cloud,Lecture,11,Curiosité excessive,Calme,Rose,Lasagnes,Smoothie,Java
+Durand,Sékou,FinTrack,Analyste Cybersécurité,Football,2,Perfectionnisme,Communicatif,Vert,Crêpes,Eau,C#
+Richard,Léa,AgriTech+,Designer UI/UX,Dessin,9,Distrait,Pédagogue,Jaune,Poulet Yassa,Coca-Cola,JavaScript
+Robert,Chloé,GreenEnergy,Ingénieur DevOps,Jardinage,7,Têtu,Rigoureux,Blanc,Fondue,Jus d'orange,Go
+Traoré,Gabriel,SmartLogistics,Product Manager,Photographie,5,Gourmandise,Optimiste,Violet,Paella,Tisane,Kotlin
+Keita,Emma,CyberGuard,Développeur Web Backend,Cuisine,12,Timide,Organisé,Gris,Pizza,Jus de pomme,PHP
+Moreau,David,DataInsight,Chef de Projet,Danse,3,Procrastination,Empathique,Bleu,Sushi,Café,TypeScript
+Wilson,Sarah,RoboAssist,Expert IA,Gaming,10,Impatience,Créatif,Rouge,Couscous,Eau gazeuse,Python
+Petit,Chris,AIInnovate,Data Scientist,Randonnée,1,Entêté,Persévérant,Noir,Burger,Thé,R
+Dupont,Antoine,AgriTech+,Dev Web,Football,5,Procrastination,Créatif,Bleu,Pizza,Café,JavaScript
+Smith,Emily,SafeCity,Cybersécurité,Lecture,8,Impatience,Rigoureux,Noir,Sushi,Thé,Python
+Diallo,Moussa,EduBoost,IA,Gaming,3,Têtu,Empathique,Vert,Couscous,Eau,Java
+Martin,Sophie,FinTrack,Data,Danse,10,Bavard,Persévérant,Rouge,Pâtes Carbonara,Jus d'orange,PHP
+Johnson,David,HealthConnect,Mobile,Voyage,6,Perfectionnisme,Organisé,Blanc,Burger,Soda,Kotlin
+Traoré,Fatou,GreenEnergy,Cloud,Randonnée,2,Timidité,Optimiste,Jaune,Thiéboudienne,Lait,Go
+Bernard,Julien,SmartLogistics,DevOps,Cuisine,7,Désorganisation,Curieux,Gris,Lasagnes,Limonade,Rust
+Williams,Jessica,CyberGuard,Cybersécurité,Musique,9,Susceptible,Fiable,Violet,Tacos,Boisson énergisante,C#
+Sow,Omar,DataInsight,Data,Photographie,4,Impulsif,Loyal,Orange,Ramen,Chocolat chaud,Python
+Jones,Sarah,RoboAssist,IA,Natation,12,Distrait,Pédagogue,Turquoise,Poulet Yassa,Eau,C++
+Thomas,Marine,UrbanMobility,Dev Web,Échecs,1,Curiosité excessive,Adaptable,Rose,Salade Composée,Jus de mangue,JavaScript
+Ndiaye,Aminata,FutureFarm,Cloud,Peinture,0,Réticence au changement,Bon communicant,Marron,Maffe,Smoothie,Python
+Brown,Michael,AquaCare,DevOps,Jardinage,11,Procrastination,Esprit d'équipe,Bleu,Paella,Café,Bash
+Petit,Manon,DigitalEdu,UI/UX Design,Course à pied,6,Impatience,Créatif,Noir,Pizza,Thé,TypeScript
+Cissé,Adama,SecureNet,Cybersécurité,Yoga,3,Têtu,Rigoureux,Vert,Couscous,Eau,Java
+Robert,Lucas,QuantumLeap,Machine Learning,Volley-ball,8,Bavard,Empathique,Rouge,Sushi,Jus d'orange,Python
+Miller,Olivia,AIStream,IA,Basket-ball,4,Perfectionnisme,Persévérant,Blanc,Burger,Soda,Kotlin
+Keita,Idrissa,EcoDrive,Mobile,Bénévolat,10,Timidité,Organisé,Jaune,Thiéboudienne,Lait,Go
+Richard,Camille,SmartGrid,SRE,Écriture,5,Désorganisation,Curieux,Gris,Lasagnes,Limonade,Rust
+Kone,Mariam,OmniChannel,Dev Web,Coding,7,Susceptible,Fiable,Violet,Tacos,Boisson énergisante,C#
+Durand,Théo,AgriTech+,Blockchain,Gaming,2,Impulsif,Loyal,Orange,Ramen,Chocolat chaud,Ruby
+Davis,Laura,SafeCity,Data,Football,9,Distrait,Pédagogue,Turquoise,Poulet Yassa,Eau,Python
+Camara,Ousmane,EduBoost,Cybersécurité,Lecture,14,Curiosité excessive,Adaptable,Rose,Salade Composée,Jus de mangue,C++
+Dubois,Emma,FinTrack,DevOps,Danse,1,Réticence au changement,Bon communicant,Marron,Maffe,Smoothie,JavaScript
+Garcia,Daniel,HealthConnect,IA,Voyage,13,Procrastination,Esprit d'équipe,Bleu,Paella,Café,Dart
+Touré,Fanta,GreenEnergy,Mobile,Randonnée,7,Impatience,Créatif,Noir,Pizza,Thé,PHP
+Moreau,Pierre,SmartLogistics,Cloud,Cuisine,4,Têtu,Rigoureux,Vert,Couscous,Eau,Python
+Rodriguez,John,CyberGuard,UI/UX Design,Musique,10,Bavard,Empathique,Rouge,Sushi,Jus d'orange,TypeScript
+Diop,Aminata,DataInsight,Dev Web,Photographie,6,Perfectionnisme,Persévérant,Blanc,Burger,Soda,JavaScript
+Wilson,Chris,RoboAssist,Machine Learning,Natation,15,Timidité,Organisé,Jaune,Thiéboudienne,Lait,Python
+Dupont,Emily,UrbanMobility,Data,Échecs,3,Désorganisation,Curieux,Gris,Lasagnes,Limonade,Go
+Smith,Antoine,FutureFarm,Cybersécurité,Peinture,8,Susceptible,Fiable,Violet,Tacos,Boisson énergisante,C#
+Diallo,Sophie,AquaCare,DevOps,Jardinage,5,Impulsif,Loyal,Orange,Ramen,Chocolat chaud,Python
+Martin,Moussa,DigitalEdu,IA,Course à pied,11,Distrait,Pédagogue,Turquoise,Poulet Yassa,Eau,Java
+Johnson,Fatou,SecureNet,Mobile,Yoga,2,Curiosité excessive,Adaptable,Rose,Salade Composée,Jus de mangue,Kotlin
+Traoré,David,QuantumLeap,Dev Web,Volley-ball,13,Réticence au changement,Bon communicant,Marron,Maffe,Smoothie,JavaScript
+Bernard,Sarah,AIStream,SRE,Basket-ball,0,Procrastination,Esprit d'équipe,Bleu,Paella,Café,Bash
+Williams,Julien,EcoDrive,Data,Bénévolat,9,Impatience,Créatif,Noir,Pizza,Thé,Python
+Sow,Jessica,SmartGrid,Cloud,Écriture,4,Têtu,Rigoureux,Vert,Couscous,Eau,PHP
+Jones,Omar,OmniChannel,Cybersécurité,Coding,10,Bavard,Empathique,Rouge,Sushi,Jus d'orange,TypeScript
+Thomas,Manon,AgriTech+,Mobile,Gaming,6,Perfectionnisme,Persévérant,Blanc,Burger,Soda,Go
+Ndiaye,Michael,SafeCity,IA,Football,1,Timidité,Organisé,Jaune,Thiéboudienne,Lait,Rust
+Brown,Laura,EduBoost,DevOps,Lecture,12,Désorganisation,Curieux,Gris,Lasagnes,Limonade,C#
+Petit,Daniel,FinTrack,Dev Web,Danse,7,Susceptible,Fiable,Violet,Tacos,Boisson énergisante,Ruby
+Cissé,Olivia,HealthConnect,Blockchain,Voyage,3,Impulsif,Loyal,Orange,Ramen,Chocolat chaud,Python
+Robert,Chris,GreenEnergy,Data,Randonnée,14,Distrait,Pédagogue,Turquoise,Poulet Yassa,Eau,C++
+Miller,Théo,SmartLogistics,UI/UX Design,Cuisine,5,Curiosité excessive,Adaptable,Rose,Salade Composée,Jus de mangue,JavaScript
+Keita,Emily,CyberGuard,Machine Learning,Musique,11,Réticence au changement,Bon communicant,Marron,Maffe,Smoothie,Dart
+Richard,John,DataInsight,Cloud,Photographie,0,Procrastination,Esprit d'équipe,Bleu,Paella,Café,Python
+Kone,Sarah,RoboAssist,IA,Natation,8,Impatience,Créatif,Noir,Pizza,Thé,PHP
+Durand,David,UrbanMobility,Dev Web,Échecs,2,Têtu,Rigoureux,Vert,Couscous,Eau,Java
+Davis,Aminata,FutureFarm,Cybersécurité,Peinture,9,Bavard,Empathique,Rouge,Sushi,Jus d'orange,Python
+Camara,Antoine,AquaCare,DevOps,Jardinage,4,Perfectionnisme,Persévérant,Blanc,Burger,Soda,Kotlin
+Dubois,Fanta,DigitalEdu,Data,Course à pied,10,Timidité,Organisé,Jaune,Thiéboudienne,Lait,Go
+Garcia,Moussa,SecureNet,Mobile,Yoga,6,Désorganisation,Curieux,Gris,Lasagnes,Limonade,Rust
+Touré,Laura,QuantumLeap,SRE,Volley-ball,1,Susceptible,Fiable,Violet,Tacos,Boisson énergisante,C#
+Moreau,Fatou,AIStream,Dev Web,Basket-ball,12,Impulsif,Loyal,Orange,Ramen,Chocolat chaud,Ruby
+Rodriguez,Sophie,EcoDrive,Cloud,Bénévolat,7,Distrait,Pédagogue,Turquoise,Poulet Yassa,Eau,Python
+Diop,Ousmane,SmartGrid,IA,Écriture,3,Curiosité excessive,Adaptable,Rose,Salade Composée,Jus de mangue,C++
+Wilson,Mariam,OmniChannel,Cybersécurité,Coding,14,Réticence au changement,Bon communicant,Marron,Maffe,Smoothie,JavaScript
+Dupont,Michael,AgriTech+,Data,Gaming,5,Procrastination,Esprit d'équipe,Bleu,Paella,Café,Dart
+Smith,Manon,SafeCity,Mobile,Football,11,Impatience,Créatif,Noir,Pizza,Thé,PHP
+Diallo,Théo,EduBoost,DevOps,Lecture,2,Têtu,Rigoureux,Vert,Couscous,Eau,Java
+Martin,Emily,FinTrack,UI/UX Design,Danse,9,Bavard,Empathique,Rouge,Sushi,Jus d'orange,Python
+Johnson,Chris,HealthConnect,Machine Learning,Voyage,4,Perfectionnisme,Persévérant,Blanc,Burger,Soda,Kotlin
+Traoré,Jessica,GreenEnergy,Data,Randonnée,10,Timidité,Organisé,Jaune,Thiéboudienne,Lait,Go
+Bernard,Olivia,SmartLogistics,Cloud,Cuisine,6,Désorganisation,Curieux,Gris,Lasagnes,Limonade,Rust
+Williams,Julien,CyberGuard,Dev Web,Musique,1,Susceptible,Fiable,Violet,Tacos,Boisson énergisante,C#
+Sow,Daniel,DataInsight,IA,Photographie,13,Impulsif,Loyal,Orange,Ramen,Chocolat chaud,Ruby
+Jones,Emma,RoboAssist,Cybersécurité,Natation,8,Distrait,Pédagogue,Turquoise,Poulet Yassa,Eau,Python
+Thomas,Antoine,UrbanMobility,Mobile,Échecs,3,Curiosité excessive,Adaptable,Rose,Salade Composée,Jus de mangue,C++
+Ndiaye,Pierre,FutureFarm,DevOps,Peinture,15,Réticence au changement,Bon communicant,Marron,Maffe,Smoothie,JavaScript
+Brown,Sophie,AquaCare,SRE,Jardinage,6,Procrastination,Esprit d'équipe,Bleu,Paella,Café,Bash
+Petit,Moussa,DigitalEdu,Data,Course à pied,12,Impatience,Créatif,Noir,Pizza,Thé,Python
+Cissé,Omar,SecureNet,IA,Yoga,7,Têtu,Rigoureux,Vert,Couscous,Eau,PHP
+Robert,Fatou,QuantumLeap,Dev Web,Volley-ball,4,Bavard,Empathique,Rouge,Sushi,Jus d'orange,Java
+Miller,Aminata,AIStream,Cybersécurité,Basket-ball,10,Perfectionnisme,Persévérant,Blanc,Burger,Soda,Kotlin
+Keita,Fanta,EcoDrive,Cloud,Bénévolat,5,Timidité,Organisé,Jaune,Thiéboudienne,Lait,Go
+Richard,Mariam,SmartGrid,UI/UX Design,Écriture,11,Désorganisation,Curieux,Gris,Lasagnes,Limonade,Rust
+Kone,Adama,OmniChannel,Machine Learning,Coding,2,Susceptible,Fiable,Violet,Tacos,Boisson énergisante,C#
+Durand,Ousmane,AgriTech+,DevOps,Gaming,9,Impulsif,Loyal,Orange,Ramen,Chocolat chaud,Ruby
+Davis,Idrissa,SafeCity,Data,Football,0,Distrait,Pédagogue,Turquoise,Poulet Yassa,Eau,Python
+Camara,Aminata,EduBoost,Mobile,Lecture,13,Curiosité excessive,Adaptable,Rose,Salade Composée,Jus de mangue,C++
+Dubois,Sophie,FinTrack,IA,Danse,8,Réticence au changement,Bon communicant,Marron,Maffe,Smoothie,JavaScript
+Garcia,Pierre,HealthConnect,Dev Web,Voyage,4,Procrastination,Esprit d'équipe,Bleu,Paella,Café,Dart
+Touré,Théo,GreenEnergy,Cybersécurité,Randonnée,10,Impatience,Créatif,Noir,Pizza,Thé,PHP
+Moreau,David,SmartLogistics,Cloud,Cuisine,6,Têtu,Rigoureux,Vert,Couscous,Eau,Java
+Rodriguez,Lucas,CyberGuard,Data,Musique,1,Bavard,Empathique,Rouge,Sushi,Jus d'orange,Python
+Diop,Mariam,DataInsight,DevOps,Photographie,12,Perfectionnisme,Persévérant,Blanc,Burger,Soda,Kotlin
+Wilson,Manon,RoboAssist,Mobile,Natation,7,Timidité,Organisé,Jaune,Thiéboudienne,Lait,Go
+Dupont,Emma,UrbanMobility,SRE,Échecs,2,Désorganisation,Curieux,Gris,Lasagnes,Limonade,Rust
+Smith,Julien,FutureFarm,IA,Peinture,9,Susceptible,Fiable,Violet,Tacos,Boisson énergisante,C#
+Diallo,Antoine,AquaCare,Dev Web,Jardinage,5,Impulsif,Loyal,Orange,Ramen,Chocolat chaud,Ruby
+Martin,Fatou,DigitalEdu,Cybersécurité,Course à pied,11,Distrait,Pédagogue,Turquoise,Poulet Yassa,Eau,Python
+Johnson,Ousmane,SecureNet,Data,Yoga,0,Curiosité excessive,Adaptable,Rose,Salade Composée,Jus de mangue,C++
+
+Durand,Pierre,AgriTech+,Dev Web,Football,5,Procrastination,Organisé,Bleu,Pizza,Café,JavaScript
+Diallo,Fatoumata,SafeCity,IA,Lecture,8,Impatience,Empatique,Vert,Couscous,Thé,Python
+Smith,Alex,EduBoost,Data,Gaming,3,Distrait,Créatif,Rouge,Burger,Jus d'orange,Python
+Martin,Sophie,FinTrack,Cybersécurité,Voyage,10,Têtu,Rigoureux,Noir,Sushi,Eau,Java
+Koné,Moussa,HealthConnect,Mobile,Musique,2,Timide,Adaptable,Jaune,Thieboudienne,Coca-Cola,Kotlin
+Garcia,Maria,GreenEnergy,Cloud,Danse,7,Perfectionniste,Persévérant,Violet,Tacos,Smoothie,Go
+Traoré,Aissatou,SmartLogistics,DevOps,Randonnée,4,Bavard,Communicatif,Orange,Poulet Yassa,Jus de pomme,Rust
+Thomas,Hugo,CyberGuard,Dev Web,Coding,6,Désordonné,Logique,Blanc,Pâtes Carbonara,Café,PHP
+Ndiaye,Aminata,AutoDrive,IA,Photographie,9,Sensible,Curieux,Rose,Lasagnes,Thé,Python
+Johnson,Emily,SpaceExplore,Data,Jardinage,1,Indécis,Optimiste,Gris,Salade César,Limonade,R
+Petit,Léo,FutureVision,UX/UI,Échecs,12,Procrastination,Créatif,Bleu,Pizza,Bière,JavaScript
+Sow,Cheikh,DataInsight,DevOps,Football,5,Impatience,Organisé,Vert,Couscous,Café,Python
+Williams,Olivia,WebGenius,Mobile,Lecture,3,Distrait,Empatique,Rouge,Burger,Jus d'orange,Swift
+Bernard,Manon,AppInnovate,Cybersécurité,Gaming,8,Têtu,Rigoureux,Noir,Sushi,Eau,C#
+Koné,Issa,EcoDrive,Cloud,Voyage,6,Timide,Adaptable,Jaune,Thieboudienne,Coca-Cola,Go
+Diallo,Adama,AgriTech+,Data,Musique,4,Perfectionniste,Persévérant,Violet,Tacos,Smoothie,Python
+Smith,Chris,SafeCity,Dev Web,Danse,11,Bavard,Communicatif,Orange,Poulet Yassa,Jus de pomme,TypeScript
+Martin,Juliette,EduBoost,IA,Randonnée,2,Désordonné,Logique,Blanc,Pâtes Carbonara,Café,Python
+Garcia,Diego,FinTrack,DevOps,Coding,7,Sensible,Curieux,Rose,Lasagnes,Thé,Rust
+Traoré,Mariam,HealthConnect,Mobile,Photographie,9,Indécis,Optimiste,Gris,Salade César,Limonade,Kotlin
+Thomas,Gabriel,GreenEnergy,UX/UI,Jardinage,14,Procrastination,Créatif,Bleu,Pizza,Bière,JavaScript
+Ndiaye,Mamadou,SmartLogistics,Data,Échecs,6,Impatience,Organisé,Vert,Couscous,Café,Python
+Johnson,Taylor,CyberGuard,Dev Web,Football,4,Distrait,Empatique,Rouge,Burger,Jus d'orange,PHP
+Petit,Camille,AutoDrive,IA,Gaming,9,Têtu,Rigoureux,Noir,Sushi,Eau,Python
+Sow,Fatou,SpaceExplore,Cybersécurité,Voyage,1,Timide,Adaptable,Jaune,Thieboudienne,Coca-Cola,Java
+Williams,Liam,FutureVision,Cloud,Danse,10,Perfectionniste,Persévérant,Violet,Tacos,Smoothie,Go
+Bernard,Mathieu,DataInsight,Mobile,Musique,3,Bavard,Communicatif,Orange,Poulet Yassa,Jus de pomme,Swift
+Koné,Fanta,WebGenius,DevOps,Randonnée,8,Désordonné,Logique,Blanc,Pâtes Carbonara,Café,Rust
+Diallo,Amadou,AppInnovate,Dev Web,Coding,5,Sensible,Curieux,Rose,Lasagnes,Thé,TypeScript
+Smith,Jordan,EcoDrive,IA,Photographie,13,Indécis,Optimiste,Gris,Salade César,Limonade,Python
+Martin,Chloé,AgriTech+,UX/UI,Jardinage,7,Procrastination,Créatif,Bleu,Pizza,Bière,JavaScript
+Garcia,Sofia,SafeCity,Data,Échecs,2,Impatience,Organisé,Vert,Couscous,Café,Python
+Traoré,Oumar,EduBoost,Dev Web,Football,11,Distrait,Empatique,Rouge,Burger,Jus d'orange,PHP
+Thomas,Léa,FinTrack,Cybersécurité,Gaming,4,Têtu,Rigoureux,Noir,Sushi,Eau,C#
+Ndiaye,Mariama,HealthConnect,Cloud,Voyage,9,Timide,Adaptable,Jaune,Thieboudienne,Coca-Cola,Go
+Johnson,Noah,GreenEnergy,Mobile,Danse,1,Perfectionniste,Persévérant,Violet,Tacos,Smoothie,Kotlin
+Petit,Alice,SmartLogistics,DevOps,Musique,15,Bavard,Communicatif,Orange,Poulet Yassa,Jus de pomme,Rust
+Sow,Ousmane,CyberGuard,Dev Web,Randonnée,6,Désordonné,Logique,Blanc,Pâtes Carbonara,Café,TypeScript
+Williams,Ava,AutoDrive,IA,Coding,3,Sensible,Curieux,Rose,Lasagnes,Thé,Python
+Bernard,Lucas,SpaceExplore,Data,Photographie,8,Indécis,Optimiste,Gris,Salade César,Limonade,R
+Koné,Adja,FutureVision,UX/UI,Jardinage,10,Procrastination,Créatif,Bleu,Pizza,Bière,JavaScript
+Diallo,Kadidiatou,DataInsight,DevOps,Échecs,7,Impatience,Organisé,Vert,Couscous,Café,Python
+Smith,Ethan,WebGenius,Mobile,Football,5,Distrait,Empatique,Rouge,Burger,Jus d'orange,Swift
+Martin,Emma,AppInnovate,Cybersécurité,Gaming,12,Têtu,Rigoureux,Noir,Sushi,Eau,Java
+Garcia,Carlos,EcoDrive,Cloud,Voyage,2,Timide,Adaptable,Jaune,Thieboudienne,Coca-Cola,Go
+Traoré,Mamadou,AgriTech+,IA,Danse,11,Perfectionniste,Persévérant,Violet,Tacos,Smoothie,Python
+Thomas,Sarah,SafeCity,Dev Web,Musique,4,Bavard,Communicatif,Orange,Poulet Yassa,Jus de pomme,PHP
+Ndiaye,Moussa,EduBoost,Data,Randonnée,9,Désordonné,Logique,Blanc,Pâtes Carbonara,Café,Python
+Johnson,Isabella,FinTrack,DevOps,Coding,1,Sensible,Curieux,Rose,Lasagnes,Thé,Rust
+Petit,Tom,HealthConnect,Mobile,Photographie,13,Indécis,Optimiste,Gris,Salade César,Limonade,Kotlin
+Sow,Aicha,GreenEnergy,UX/UI,Jardinage,8,Procrastination,Créatif,Bleu,Pizza,Bière,JavaScript
+Williams,Mia,SmartLogistics,Data,Échecs,3,Impatience,Organisé,Vert,Couscous,Café,Python
+Bernard,Antoine,CyberGuard,Dev Web,Football,10,Distrait,Empatique,Rouge,Burger,Jus d'orange,TypeScript
+Koné,Sidi,AutoDrive,IA,Gaming,5,Têtu,Rigoureux,Noir,Sushi,Eau,Python
+Diallo,Hawa,SpaceExplore,Cybersécurité,Voyage,0,Timide,Adaptable,Jaune,Thieboudienne,Coca-Cola,Java
+Smith,James,FutureVision,Cloud,Danse,15,Perfectionniste,Persévérant,Violet,Tacos,Smoothie,Go
+Martin,Charlotte,DataInsight,Mobile,Musique,7,Bavard,Communicatif,Orange,Poulet Yassa,Jus de pomme,Swift
+Garcia,Juan,WebGenius,DevOps,Randonnée,2,Désordonné,Logique,Blanc,Pâtes Carbonara,Café,Rust
+Traoré,Safiatou,AppInnovate,Dev Web,Coding,12,Sensible,Curieux,Rose,Lasagnes,Thé,PHP
+Thomas,Arthur,EcoDrive,IA,Photographie,5,Indécis,Optimiste,Gris,Salade César,Limonade,Python
+Ndiaye,Coumba,AgriTech+,UX/UI,Jardinage,9,Procrastination,Créatif,Bleu,Pizza,Bière,JavaScript
+Johnson,Oliver,SafeCity,Data,Échecs,4,Impatience,Organisé,Vert,Couscous,Café,Python
+Petit,Jade,EduBoost,Dev Web,Football,11,Distrait,Empatique,Rouge,Burger,Jus d'orange,TypeScript
+Sow,Aminata,FinTrack,Cybersécurité,Gaming,6,Têtu,Rigoureux,Noir,Sushi,Eau,C#
+Williams,Benjamin,HealthConnect,Cloud,Voyage,1,Timide,Adaptable,Jaune,Thieboudienne,Coca-Cola,Go
+Bernard,Louis,GreenEnergy,Mobile,Danse,14,Perfectionniste,Persévérant,Violet,Tacos,Smoothie,Kotlin
+Koné,Fatou,SmartLogistics,DevOps,Musique,8,Bavard,Communicatif,Orange,Poulet Yassa,Jus de pomme,Rust
+Diallo,Moussa,CyberGuard,Dev Web,Randonnée,3,Désordonné,Logique,Blanc,Pâtes Carbonara,Café,PHP
+Smith,Sophia,AutoDrive,IA,Coding,10,Sensible,Curieux,Rose,Lasagnes,Thé,Python
+Martin,Oscar,SpaceExplore,Data,Photographie,7,Indécis,Optimiste,Gris,Salade César,Limonade,R
+Garcia,Elena,FutureVision,UX/UI,Jardinage,12,Procrastination,Créatif,Bleu,Pizza,Bière,JavaScript
+Traoré,Salif,DataInsight,DevOps,Échecs,6,Impatience,Organisé,Vert,Couscous,Café,Python
+Thomas,Lina,WebGenius,Mobile,Football,4,Distrait,Empatique,Rouge,Burger,Jus d'orange,Swift
+Ndiaye,Astou,AppInnovate,Cybersécurité,Gaming,9,Têtu,Rigoureux,Noir,Sushi,Eau,Java
+Johnson,Lucas,EcoDrive,Cloud,Voyage,2,Timide,Adaptable,Jaune,Thieboudienne,Coca-Cola,Go
+Petit,Rose,AgriTech+,IA,Danse,11,Perfectionniste,Persévérant,Violet,Tacos,Smoothie,Python
+Sow,Idrissa,SafeCity,Dev Web,Musique,5,Bavard,Communicatif,Orange,Poulet Yassa,Jus de pomme,TypeScript
+Williams,Leo,EduBoost,Data,Randonnée,13,Désordonné,Logique,Blanc,Pâtes Carbonara,Café,Python
+Bernard,Adam,FinTrack,DevOps,Coding,8,Sensible,Curieux,Rose,Lasagnes,Thé,Rust
+Koné,Khady,HealthConnect,Mobile,Photographie,3,Indécis,Optimiste,Gris,Salade César,Limonade,Kotlin
+Diallo,Saliou,GreenEnergy,UX/UI,Jardinage,15,Procrastination,Créatif,Bleu,Pizza,Bière,JavaScript
+Smith,Grace,SmartLogistics,Data,Échecs,7,Impatience,Organisé,Vert,Couscous,Café,Python
+Martin,Clara,CyberGuard,Dev Web,Football,0,Distrait,Empatique,Rouge,Burger,Jus d'orange,PHP
+Garcia,Pablo,AutoDrive,IA,Gaming,10,Têtu,Rigoureux,Noir,Sushi,Eau,Python
+Traoré,Diouma,SpaceExplore,Cybersécurité,Voyage,6,Timide,Adaptable,Jaune,Thieboudienne,Coca-Cola,C#
+Thomas,Noah,FutureVision,Cloud,Danse,1,Perfectionniste,Persévérant,Violet,Tacos,Smoothie,Go
+Ndiaye,Maimouna,DataInsight,Mobile,Musique,14,Bavard,Communicatif,Orange,Poulet Yassa,Jus de pomme,Swift
+Johnson,Lily,WebGenius,DevOps,Randonnée,9,Désordonné,Logique,Blanc,Pâtes Carbonara,Café,Rust
+Petit,Louis,AppInnovate,Dev Web,Coding,4,Sensible,Curieux,Rose,Lasagnes,Thé,TypeScript
+Sow,Youssouf,EcoDrive,IA,Photographie,11,Indécis,Optimiste,Gris,Salade César,Limonade,Python
+Dupont,Antoine,AgriTech+,Dev Web,Lecture,5,Procrastination,Créatif,Bleu,Pizza,Eau,Python
+Kone,Fatoumata,SafeCity,Data,Football,12,Impatience,Organisé,Vert,Couscous,Café,JavaScript
+Smith,John,EduBoost,DevOps,Gaming,8,Têtu,Empathique,Rouge,Hamburger,Thé,PHP
+Kim,Jian,FinTrack,IA,Coding,3,Timidité,Persévérant,Jaune,Sushi,Jus d'orange,Java
+Dubois,Camille,HealthConnect,Cybersécurité,Danse,10,Perfectionnisme,Optimiste,Noir,Pâtes Carbonara,Soda,Go
+Diallo,Aïsha,GreenEnergy,Mobile,Voyage,7,Bavard,Curieux,Blanc,Thieboudienne,Bière,Rust
+Jones,Emily,SmartLogistics,Cloud,Randonnée,4,Distrait,Fiable,Violet,Tacos,Vin,C#
+Lee,Wei,CyberGuard,Réseaux,Cuisine,1,Rancunier,Réactif,Orange,Curry,Lait,C++
+Petit,Chloé,UrbanMobility,UI/UX Design,Photographie,9,Impulsif,Rigoureux,Rose,Paella,Smoothie,Ruby
+Traore,Aminata,DigitalArtStudio,Base de données,Musique,6,Maladroit,Patient,Gris,Poulet Yassa,Limonade,Swift
+Williams,Michael,EcoHarvest,Système embarqué,Peinture,14,Curieux (excessivement),Communicatif,Marron,Ramen,Tisane,Kotlin
+Wang,Ming,AquaNet,Big Data,Jardinage,11,Sarcasme,Esprit d'équipe,Turquoise,Tajine,Chocolat chaud,TypeScript
+Laurent,Emma,HomeLink,Machine Learning,Natation,2,Introverti,Pédagogue,Indigo,Lasagnes,Jus de pomme,Shell Script
+Sy,Mariam,SecureKids,Développement Backend,Vélo,0,Rigide,Flexible,Bleu,Salade Composée,Eau,SQL
+Brown,Jessica,LearnFlow,Développement Frontend,Dessin,13,Trop émotif,Autonome,Vert,Soupe de légumes,Café,R
+Chen,Lin,MediTrack,Data,Yoga,5,Procrastination,Créatif,Rouge,Pizza,Thé,Python
+Moreau,Gabriel,PowerGrid,Dev Web,Course à pied,8,Impatience,Organisé,Jaune,Couscous,Jus d'orange,JavaScript
+Sow,Oumar,DataInsight,DevOps,Échecs,3,Têtu,Empathique,Noir,Hamburger,Soda,PHP
+Davis,Sarah,GameDevPro,IA,Cinéma,10,Timidité,Persévérant,Blanc,Sushi,Bière,Java
+Liu,Ayumi,ArtShare,Cybersécurité,Écriture,7,Perfectionnisme,Optimiste,Violet,Pâtes Carbonara,Vin,Go
+Simon,Hugo,SportStats,Mobile,Lecture,4,Bavard,Curieux,Orange,Thieboudienne,Lait,Rust
+Ndiaye,Ibrahima,TravelBuddy,Cloud,Football,1,Distrait,Fiable,Rose,Tacos,Smoothie,C#
+Miller,James,FoodWasteZero,Réseaux,Gaming,9,Rancunier,Réactif,Gris,Curry,Limonade,C++
+Singh,Kenji,SmartFarm,UI/UX Design,Coding,6,Impulsif,Rigoureux,Marron,Paella,Tisane,Ruby
+Michel,Inès,CleanAirNow,Base de données,Danse,14,Maladroit,Patient,Turquoise,Poulet Yassa,Chocolat chaud,Swift
+Cisse,Moussa,AgriTech+,Système embarqué,Voyage,11,Curieux (excessivement),Communicatif,Indigo,Ramen,Jus de pomme,Kotlin
+Wilson,Jennifer,SafeCity,Big Data,Randonnée,2,Sarcasme,Esprit d'équipe,Bleu,Tajine,Eau,TypeScript
+Khan,Akira,EduBoost,Machine Learning,Cuisine,0,Introverti,Pédagogue,Vert,Lasagnes,Café,Shell Script
+Lefebvre,Jeanne,FinTrack,Développement Backend,Photographie,13,Rigide,Flexible,Rouge,Salade Composée,Thé,SQL
+Camara,Boubacar,HealthConnect,Développement Frontend,Musique,5,Trop émotif,Autonome,Jaune,Soupe de légumes,Jus d'orange,R
+Moore,Robert,GreenEnergy,Data,Peinture,8,Procrastination,Créatif,Noir,Pizza,Soda,Python
+Tanaka,Yoko,SmartLogistics,Dev Web,Jardinage,3,Impatience,Organisé,Blanc,Couscous,Bière,JavaScript
+Roux,Louis,CyberGuard,DevOps,Natation,10,Têtu,Empathique,Violet,Hamburger,Vin,PHP
+Balde,Amadou,UrbanMobility,IA,Vélo,7,Timidité,Persévérant,Orange,Sushi,Lait,Java
+Taylor,Lisa,DigitalArtStudio,Cybersécurité,Dessin,4,Perfectionnisme,Optimiste,Rose,Pâtes Carbonara,Smoothie,Go
+Sato,Takashi,EcoHarvest,Mobile,Yoga,1,Bavard,Curieux,Gris,Thieboudienne,Limonade,Rust
+David,Manon,AquaNet,Cloud,Course à pied,9,Distrait,Fiable,Marron,Tacos,Tisane,C#
+Barry,Awa,HomeLink,Réseaux,Échecs,6,Rancunier,Réactif,Turquoise,Curry,Chocolat chaud,C++
+Anderson,William,SecureKids,UI/UX Design,Cinéma,14,Impulsif,Rigoureux,Indigo,Paella,Jus de pomme,Ruby
+Suzuki,Hana,LearnFlow,Base de données,Écriture,11,Maladroit,Patient,Bleu,Poulet Yassa,Eau,Swift
+Fournier,Nathan,MediTrack,Système embarqué,Lecture,2,Curieux (excessivement),Communicatif,Vert,Ramen,Café,Kotlin
+Ndiaye,Fatou,PowerGrid,Big Data,Football,0,Sarcasme,Esprit d'équipe,Rouge,Tajine,Thé,TypeScript
+Clark,Maria,DataInsight,Machine Learning,Gaming,13,Introverti,Pédagogue,Jaune,Lasagnes,Jus d'orange,Shell Script
+Wang,Ren,GameDevPro,Développement Backend,Coding,5,Rigide,Flexible,Noir,Salade Composée,Soda,SQL
+Girard,Paul,ArtShare,Développement Frontend,Danse,8,Trop émotif,Autonome,Blanc,Soupe de légumes,Bière,R
+Diop,Rama,SportStats,Data,Voyage,3,Procrastination,Créatif,Violet,Pizza,Vin,Python
+Lewis,Daniel,TravelBuddy,Dev Web,Randonnée,10,Impatience,Organisé,Orange,Couscous,Lait,JavaScript
+Chen,Lei,FoodWasteZero,DevOps,Cuisine,7,Têtu,Empathique,Rose,Hamburger,Smoothie,PHP
+Mercier,Sarah,SmartFarm,IA,Photographie,4,Timidité,Persévérant,Gris,Sushi,Limonade,Java
+Keita,Seydou,CleanAirNow,Cybersécurité,Musique,1,Perfectionnisme,Optimiste,Marron,Pâtes Carbonara,Tisane,Go
+Robinson,Susan,AgriTech+,Mobile,Peinture,9,Bavard,Curieux,Turquoise,Thieboudienne,Chocolat chaud,Rust
+Liu,Jun,SafeCity,Cloud,Jardinage,6,Distrait,Fiable,Indigo,Tacos,Jus de pomme,C#
+Leroy,Sophie,EduBoost,Réseaux,Natation,14,Rancunier,Réactif,Bleu,Curry,Eau,C++
+Sall,Modibo,FinTrack,UI/UX Design,Vélo,11,Impulsif,Rigoureux,Vert,Paella,Café,Ruby
+Walker,Richard,HealthConnect,Base de données,Dessin,2,Maladroit,Patient,Rouge,Poulet Yassa,Thé,Swift
+Singh,Yu,GreenEnergy,Système embarqué,Yoga,0,Curieux (excessivement),Communicatif,Jaune,Ramen,Jus d'orange,Kotlin
+Bernard,Théo,SmartLogistics,Big Data,Course à pied,13,Sarcasme,Esprit d'équipe,Noir,Tajine,Soda,TypeScript
+Toure,Saliou,CyberGuard,Machine Learning,Échecs,5,Introverti,Pédagogue,Blanc,Lasagnes,Bière,Shell Script
+Hall,Karen,UrbanMobility,Développement Backend,Cinéma,8,Rigide,Flexible,Violet,Salade Composée,Vin,SQL
+Khan,Mei,DigitalArtStudio,Développement Frontend,Écriture,3,Trop émotif,Autonome,Orange,Soupe de légumes,Lait,R
+Garcia,Victor,EcoHarvest,Data,Lecture,10,Procrastination,Créatif,Rose,Pizza,Smoothie,Python
+Drame,Ousmane,AquaNet,Dev Web,Football,7,Impatience,Organisé,Gris,Couscous,Limonade,JavaScript
+Allen,Nancy,HomeLink,DevOps,Gaming,4,Têtu,Empathique,Marron,Hamburger,Tisane,PHP
+Tanaka,Ryo,SecureKids,IA,Coding,1,Timidité,Persévérant,Turquoise,Sushi,Chocolat chaud,Java
+Martin,Zoé,LearnFlow,Cybersécurité,Danse,9,Perfectionnisme,Optimiste,Indigo,Pâtes Carbonara,Jus de pomme,Go
+Diarra,Youssouf,MediTrack,Mobile,Voyage,6,Bavard,Curieux,Bleu,Thieboudienne,Eau,Rust
+Young,Joseph,PowerGrid,Cloud,Randonnée,14,Distrait,Fiable,Vert,Tacos,Café,C#
+Sato,Nana,DataInsight,Réseaux,Cuisine,11,Rancunier,Réactif,Rouge,Curry,Thé,C++
+Thomas,Léo,GameDevPro,UI/UX Design,Photographie,2,Impulsif,Rigoureux,Jaune,Paella,Jus d'orange,Ruby
+Sidibe,Fanta,ArtShare,Base de données,Musique,0,Maladroit,Patient,Noir,Poulet Yassa,Soda,Swift
+King,Betty,SportStats,Système embarqué,Peinture,13,Curieux (excessivement),Communicatif,Blanc,Ramen,Bière,Kotlin
+Suzuki,Hiro,TravelBuddy,Big Data,Jardinage,5,Sarcasme,Esprit d'équipe,Violet,Tajine,Vin,TypeScript
+Robert,Clara,FoodWasteZero,Machine Learning,Natation,8,Introverti,Pédagogue,Orange,Lasagnes,Lait,Shell Script
+Bangoura,Aissatou,SmartFarm,Développement Backend,Vélo,3,Rigide,Flexible,Rose,Salade Composée,Smoothie,SQL
+Wright,Frank,CleanAirNow,Développement Frontend,Dessin,10,Trop émotif,Autonome,Gris,Soupe de légumes,Limonade,R
+Dupont,Antoine,AgriTech+,Dev Web,Lecture,5,Procrastination,Créatif,Bleu,Pizza,Eau,Python
+Kone,Fatoumata,SafeCity,Data,Football,12,Impatience,Organisé,Vert,Couscous,Café,JavaScript
+Smith,John,EduBoost,DevOps,Gaming,8,Têtu,Empathique,Rouge,Hamburger,Thé,PHP
+Kim,Jian,FinTrack,IA,Coding,3,Timidité,Persévérant,Jaune,Sushi,Jus d'orange,Java
+Dubois,Camille,HealthConnect,Cybersécurité,Danse,10,Perfectionnisme,Optimiste,Noir,Pâtes Carbonara,Soda,Go
+Diallo,Aïsha,GreenEnergy,Mobile,Voyage,7,Bavard,Curieux,Blanc,Thieboudienne,Bière,Rust
+Jones,Emily,SmartLogistics,Cloud,Randonnée,4,Distrait,Fiable,Violet,Tacos,Vin,C#
+Lee,Wei,CyberGuard,Réseaux,Cuisine,1,Rancunier,Réactif,Orange,Curry,Lait,C++
+Petit,Chloé,UrbanMobility,UI/UX Design,Photographie,9,Impulsif,Rigoureux,Rose,Paella,Smoothie,Ruby
+Traore,Aminata,DigitalArtStudio,Base de données,Musique,6,Maladroit,Patient,Gris,Poulet Yassa,Limonade,Swift
+Williams,Michael,EcoHarvest,Système embarqué,Peinture,14,Curieux (excessivement),Communicatif,Marron,Ramen,Tisane,Kotlin
+Wang,Ming,AquaNet,Big Data,Jardinage,11,Sarcasme,Esprit d'équipe,Turquoise,Tajine,Chocolat chaud,TypeScript
+Laurent,Emma,HomeLink,Machine Learning,Natation,2,Introverti,Pédagogue,Indigo,Lasagnes,Jus de pomme,Shell Script
+Sy,Mariam,SecureKids,Développement Backend,Vélo,0,Rigide,Flexible,Bleu,Salade Composée,Eau,SQL
+Brown,Jessica,LearnFlow,Développement Frontend,Dessin,13,Trop émotif,Autonome,Vert,Soupe de légumes,Café,R
+Chen,Lin,MediTrack,Data,Yoga,5,Procrastination,Créatif,Rouge,Pizza,Thé,Python
+Moreau,Gabriel,PowerGrid,Dev Web,Course à pied,8,Impatience,Organisé,Jaune,Couscous,Jus d'orange,JavaScript
+Sow,Oumar,DataInsight,DevOps,Échecs,3,Têtu,Empathique,Noir,Hamburger,Soda,PHP
+Davis,Sarah,GameDevPro,IA,Cinéma,10,Timidité,Persévérant,Blanc,Sushi,Bière,Java
+Liu,Ayumi,ArtShare,Cybersécurité,Écriture,7,Perfectionnisme,Optimiste,Violet,Pâtes Carbonara,Vin,Go
+Michel,Diop,AgriTech+,DevOps,Football,8,Procrastination,Esprit d'équipe,Bleu,Mafé,Eau,Python
+Sophie,Martin,SafeCity,Data,Lecture,4,Timidité,Organisation,Vert,Salade composée,Thé,JavaScript
+Pierre,Dupont,EduBoost,Dev Web,Gaming,10,Perfectionnisme,Créativité,Rouge,Pizza,Café,PHP
+Fatoumata,Diallo,FinTrack,IA,Danse,6,Impatience,Détermination,Jaune,Thieboudienne,Jus d'orange,Java
+Adama,Traoré,HealthConnect,Mobile,Musique,3,Distrait,Empathie,Noir,Yassa,Soda,Kotlin
+Chloé,Chen,GreenEnergy,Cybersécurité,Voyage,7,Susceptible,Fiabilité,Blanc,Riz cantonais,Lait,Go
+Lucas,Garcia,SmartLogistics,Cloud,Randonnée,5,Têtu,Persévérance,Gris,Tacos,Eau gazeuse,Rust
+Moussa,Ndlovu,AquaSense,Backend Dev,Cuisine,12,Bavard,Sens de l'humour,Violet,Couscous,Smoothie,C#
+Isabelle,Kim,CyberGuardian,Frontend Dev,Peinture,2,Indécis,Curiosité,Orange,Sushi,Tisane,TypeScript
+Jean,Schmidt,UrbanGrow,Machine Learning,Photographie,9,Lunatique,Positivité,Rose,Burger,Limonade,Python
+Amadou,Ivanov,DataDrive,UI/UX Design,VTT,1,Manque de confiance,Adaptabilité,Marron,Curry,Chocolat chaud,JavaScript
+Mariam,Khan,VisionAI,SRE,Natation,11,Trop critique,Résilience,Turquoise,Paëlla,Sirop,Java
+David,Silva,EcoPilot,Blockchain,Yoga,4,Rêveur,Autonomie,Indigo,Lasagnes,Eau,PHP
+Sarah,Müller,RoboCare,QA Testing,Jardinage,7,Colérique,Honnêteté,Or,Poulet rôti,Café,Go
+Liam,Traoré,SpaceExplorer,Big Data,Bénévolat,0,Anxieux,Rigueur,Argent,Crêpes,Thé,Python
+Olivia,Dubois,FutureEdu,Embarqué,Cinéma,14,Désordonné,Loyauté,Bleu,Pizza,Jus d'orange,C#
+Noah,Johnson,QuantumLeap,Robotique,Écriture,6,Trop émotif,Leadership,Vert,Frites,Soda,Kotlin
+Ava,Wilson,BioInsight,Gestion de Projet,Course à pied,8,Rigide,Optimisme,Rouge,Boeuf Bourguignon,Lait,TypeScript
+Elijah,Nguyen,OmniShop,Product Owner,Pêche,5,Parle fort,Générosité,Jaune,Ramen,Eau gazeuse,Rust
+Charlotte,Singh,StreamFlow,Data,Basket-ball,9,Procrastination,Esprit d'équipe,Noir,Sushi,Smoothie,Java
+William,Benali,DeepMind,DevOps,Volley-ball,3,Timidité,Organisation,Blanc,Couscous,Tisane,PHP
+Mia,O'Connell,AgileOffice,Dev Web,Dessin,13,Perfectionnisme,Créativité,Gris,Pizza,Limonade,Python
+James,Suzuki,CloudNative,IA,Chant,7,Impatience,Détermination,Violet,Thieboudienne,Chocolat chaud,JavaScript
+Harper,Petrova,BlockChainX,Mobile,Théâtre,2,Distrait,Empathie,Orange,Yassa,Eau,C#
+Benjamin,Adebayo,DigitalArt,Cybersécurité,Astronomie,10,Susceptible,Fiabilité,Rose,Riz cantonais,Café,Go
+Evelyn,Kowalski,GreenHive,Cloud,Modélisme,6,Têtu,Persévérance,Marron,Tacos,Thé,Kotlin
+Lucas,Jensen,SecureNet,Backend Dev,Escalade,1,Bavard,Sens de l'humour,Turquoise,Mafé,Jus d'orange,TypeScript
+Abigail,Lee,HomeAssist,Frontend Dev,Ski,15,Indécis,Curiosité,Indigo,Burger,Soda,Rust
+Henry,Gomez,TeleMed,Machine Learning,Snowboard,8,Lunatique,Positivité,Or,Curry,Lait,Python
+Elizabeth,Moreau,AutoPilot,UI/UX Design,Planche à voile,4,Manque de confiance,Adaptabilité,Argent,Paëlla,Eau gazeuse,PHP
+Alexander,Al-Mansour,InnovateHub,SRE,Surf,11,Trop critique,Résilience,Bleu,Lasagnes,Smoothie,Java
+Sofia,Zimmermann,TalentMatch,Blockchain,Lecture,5,Rêveur,Autonomie,Vert,Poulet rôti,Tisane,Go
+Sebastian,Kimani,CraftBrew,QA Testing,Football,9,Colérique,Honnêteté,Rouge,Crêpes,Limonade,C#
+Scarlett,Wagner,StyleVault,Big Data,Gaming,2,Anxieux,Rigueur,Jaune,Frites,Chocolat chaud,Kotlin
+Gabriel,Gupta,MindfulAI,Embarqué,Coding,12,Désordonné,Loyauté,Noir,Ramen,Eau,TypeScript
+Grace,Rousseau,DataShield,Robotique,Danse,6,Trop émotif,Leadership,Blanc,Boeuf Bourguignon,Café,Rust
+Anthony,Okoro,LinkUp,Gestion de Projet,Voyage,8,Rigide,Optimisme,Gris,Gratins,Thé,Python
+Chloe,Eriksson,ConnectEase,Product Owner,Musique,3,Parle fort,Générosité,Violet,Fruits de mer,Jus d'orange,PHP
+Samuel,Morales,UrbanPulse,Data,Randonnée,10,Procrastination,Esprit d'équipe,Orange,Grillades,Soda,Java
+Victoria,Schneider,EcoInnovate,DevOps,Cuisine,7,Timidité,Organisation,Rose,Gaufres,Lait,C#
+Mateo,Kouassi,NextGen,Dev Web,Échecs,0,Perfectionnisme,Créativité,Marron,Pizza,Eau gazeuse,Kotlin
+Luna,Li,AIForGood,IA,Peinture,14,Impatience,Détermination,Turquoise,Sushi,Smoothie,TypeScript
+Julian,Popescu,CodeCraft,Mobile,Photographie,6,Distrait,Empathie,Indigo,Couscous,Tisane,Rust
+Layla,Mensah,WebGenius,Cybersécurité,VTT,8,Susceptible,Fiabilité,Or,Thieboudienne,Limonade,Python
+Jack,Giraud,AppForge,Cloud,Natation,5,Têtu,Persévérance,Argent,Yassa,Chocolat chaud,PHP
+Zoe,N'Diaye,DataSculpt,Backend Dev,Yoga,9,Bavard,Sens de l'humour,Bleu,Mafé,Eau,Java
+Owen,Costa,CyberWatch,Frontend Dev,Jardinage,2,Indécis,Curiosité,Vert,Salade composée,Café,Go
+Stella,Gonzalez,CloudBurst,Machine Learning,Bénévolat,11,Lunatique,Positivité,Rouge,Burger,Thé,C#
+Dylan,Davies,MobileMax,UI/UX Design,Cinéma,4,Manque de confiance,Adaptabilité,Jaune,Curry,Jus d'orange,Kotlin
+Nora,Abdul,AgriTech+,SRE,Écriture,7,Trop critique,Résilience,Noir,Paëlla,Soda,TypeScript
+Wyatt,Tanaka,SafeCity,Blockchain,Course à pied,1,Rêveur,Autonomie,Blanc,Lasagnes,Lait,Rust
+Aria,Sissoko,EduBoost,QA Testing,Pêche,13,Colérique,Honnêteté,Gris,Poulet rôti,Eau gazeuse,Python
+Luke,Fournier,FinTrack,Big Data,Basket-ball,5,Anxieux,Rigueur,Violet,Crêpes,Smoothie,PHP
+Hannah,Patel,HealthConnect,Embarqué,Volley-ball,9,Désordonné,Loyauté,Orange,Frites,Tisane,Java
+Caleb,Hansen,GreenEnergy,Robotique,Dessin,3,Trop émotif,Leadership,Rose,Ramen,Limonade,Go
+Leah,Obi,SmartLogistics,Gestion de Projet,Chant,10,Rigide,Optimisme,Marron,Boeuf Bourguignon,Chocolat chaud,C#
+Isaac,Leroy,AquaSense,Product Owner,Théâtre,6,Parle fort,Générosité,Turquoise,Gratins,Eau,Kotlin
+Ruby,Martinez,CyberGuardian,Data,Astronomie,8,Procrastination,Esprit d'équipe,Indigo,Fruits de mer,Café,TypeScript
+Isaiah,Dubois,UrbanGrow,DevOps,Modélisme,1,Timidité,Organisation,Or,Grillades,Thé,Rust
+Sophie,Leclerc,DataDrive,Dev Web,Escalade,15,Perfectionnisme,Créativité,Argent,Gaufres,Jus d'orange,Python
+Gabriel,Kone,VisionAI,IA,Ski,7,Impatience,Détermination,Bleu,Pizza,Soda,PHP
+Alice,Olsen,EcoPilot,Mobile,Snowboard,2,Distrait,Empathie,Vert,Sushi,Lait,Java
+Maya,Chong,RoboCare,Cybersécurité,Planche à voile,11,Susceptible,Fiabilité,Rouge,Couscous,Eau gazeuse,Go
+Leo,Traore,SpaceExplorer,Cloud,Surf,4,Têtu,Persévérance,Jaune,Thieboudienne,Smoothie,C#
+Noah,Da Silva,FutureEdu,Backend Dev,Lecture,8,Bavard,Sens de l'humour,Noir,Yassa,Tisane,Kotlin
+Eva,Nakamura,QuantumLeap,Frontend Dev,Football,5,Indécis,Curiosité,Blanc,Mafé,Limonade,TypeScript
+Louis,Ahmed,BioInsight,Machine Learning,Gaming,10,Lunatique,Positivité,Gris,Salade composée,Chocolat chaud,Rust
+Chloé,Sow,OmniShop,UI/UX Design,Coding,3,Manque de confiance,Adaptabilité,Violet,Burger,Eau,Python
+Adam,Garcia,StreamFlow,SRE,Danse,12,Trop critique,Résilience,Orange,Curry,Café,PHP
+Inès,Petit,DeepMind,Blockchain,Voyage,6,Rêveur,Autonomie,Rose,Paëlla,Thé,Java
+Tom,M'Baye,AgileOffice,QA Testing,Musique,8,Colérique,Honnêteté,Marron,Lasagnes,Jus d'orange,Go
+Jade,Wong,CloudNative,Big Data,Randonnée,1,Anxieux,Rigueur,Turquoise,Poulet rôti,Soda,C#
+Hugo,Fischer,BlockChainX,Embarqué,Cuisine,14,Désordonné,Loyauté,Indigo,Crêpes,Lait,Kotlin
+Manon,Jallow,DigitalArt,Robotique,Échecs,6,Trop émotif,Leadership,Or,Frites,Eau gazeuse,TypeScript
+Jules,Ribeiro,GreenHive,Gestion de Projet,Peinture,9,Rigide,Optimisme,Argent,Ramen,Smoothie,Rust
+Louise,Smith,SecureNet,Product Owner,Photographie,2,Parle fort,Générosité,Bleu,Boeuf Bourguignon,Tisane,Python
+Arthur,Baker,HomeAssist,Data,VTT,11,Procrastination,Esprit d'équipe,Vert,Gratins,Limonade,PHP
+Camille,Conti,TeleMed,DevOps,Natation,4,Timidité,Organisation,Rouge,Fruits de mer,Chocolat chaud,Java
+Enzo,Kouadio,AutoPilot,Dev Web,Yoga,7,Perfectionnisme,Créativité,Jaune,Grillades,Eau,Go
+Zoé,Diop,InnovateHub,IA,Jardinage,0,Impatience,Détermination,Noir,Gaufres,Café,C#
+Alice,Hernandez,TalentMatch,Mobile,Bénévolat,13,Distrait,Empathie,Blanc,Pizza,Thé,Kotlin
+Maya,Faure,CraftBrew,Cybersécurité,Cinéma,5,Susceptible,Fiabilité,Gris,Sushi,Jus d'orange,TypeScript
+Leo,Kim,StyleVault,Cloud,Écriture,9,Têtu,Persévérance,Violet,Couscous,Soda,Rust
+Noah,Kamara,MindfulAI,Backend Dev,Course à pied,2,Bavard,Sens de l'humour,Orange,Thieboudienne,Lait,Python
+Eva,Zimmermann,DataShield,Frontend Dev,Pêche,12,Indécis,Curiosité,Rose,Yassa,Eau gazeuse,PHP
+Louis,Rossi,LinkUp,Machine Learning,Basket-ball,6,Lunatique,Positivité,Marron,Mafé,Smoothie,Java
+Chloé,Oumar,ConnectEase,UI/UX Design,Volley-ball,8,Manque de confiance,Adaptabilité,Turquoise,Salade composée,Tisane,Go
+Adam,Bamba,UrbanPulse,SRE,Dessin,1,Trop critique,Résilience,Indigo,Burger,Limonade,C#
+Inès,Sanchez,EcoInnovate,Blockchain,Chant,10,Rêveur,Autonomie,Or,Curry,Chocolat chaud,Kotlin
+Tom,Abid,NextGen,QA Testing,Théâtre,3,Colérique,Honnêteté,Argent,Paëlla,Eau,TypeScript
+Jade,Sane,AIForGood,Big Data,Astronomie,11,Anxieux,Rigueur,Bleu,Lasagnes,Café,Rust
+Hugo,Brown,CodeCraft,Embarqué,Modélisme,4,Désordonné,Loyauté,Vert,Poulet rôti,Thé,Python
+Manon,M’Bengue,WebGenius,Robotique,Escalade,7,Trop émotif,Leadership,Rouge,Crêpes,Jus d'orange,PHP
+Jules,Toure,AppForge,Gestion de Projet,Ski,0,Rigide,Optimisme,Jaune,Frites,Soda,Java
+Dubois,Antoine,AgriTech+,Dev Web,Lecture,5,Impulsif,Créatif,Bleu,Pizza,Café,Python
+Traore,Emily,FinTrack,Data,Football,12,Procrastinateur,Rigoureux,Vert,Thieboudienne,Eau,JavaScript
+García,Moussa,HealthConnect,IA,Gaming,8,Rigide,Empathique,Rouge,Sushi,Jus d'orange,Java
+Smith,Aïssatou,EduBoost,Mobile,Danse,2,Bavard,Persévérant,Jaune,Yassa,Limonade,Kotlin
+Johnson,Lucas,CyberGuard,Cybersécurité,Coding,10,Perfectionniste (à l'excès),Organisé,Noir,Couscous,Thé,C#
+Kim,Sarah,SmartLogistics,DevOps,Voyage,7,Distrait,Optimiste,Blanc,Burger,Smoothy,Go
+Schmidt,Abdoulaye,UrbanMobility,Cloud,Randonnée,14,Timide,Curieux,Violet,Tajine,Eau gazeuse,Python
+Rossi,Emma,AIInnovate,IA,Cuisine,3,Impatient,Fiable,Orange,Lasagnes,Chocolat chaud,Rust
+Williams,David,SpaceExplorer,Big Data,Musique,1,Têtu,Réactif,Rose,Paella,Jus de pomme,Scala
+Chen,Jessica,BioDiversity,Data,Photographie,9,Sarcastique,Pédagogue,Gris,Ramen,Café,Python
+Diallo,Léa,AquaFlow,Dev Web,Natation,6,Désordonné,Autonome,Turquoise,Chawarma,Eau,JavaScript
+Silva,Adam,MarketHub,Mobile,Jardinage,11,Susceptible,Communicatif,Marron,Poulet rôti,Jus d'orange,Swift
+Martin,Inès,LearnNow,UI/UX,Échecs,4,Pessimiste,Proactif,Bleu,Pizza,Limonade,TypeScript
+Kone,Paul,SecureNet,Cybersécurité,Yoga,13,Arrogant,Résilient,Vert,Thieboudienne,Thé,C++
+Ndiaye,Chloé,EcoBuild,Cloud,Dessin,0,Indécis,Analytique,Rouge,Sushi,Smoothy,Python
+Bernard,Antoine,MindWave,IA,Lecture,7,Impulsif,Créatif,Jaune,Yassa,Eau gazeuse,Java
+Thomas,Emily,QuantumLeap,Data,Football,10,Procrastinateur,Rigoureux,Noir,Couscous,Chocolat chaud,Go
+Petit,Moussa,AgriTech+,Dev Web,Gaming,5,Rigide,Empathique,Blanc,Burger,Jus de pomme,PHP
+Dubois,Aïssatou,SafeCity,Mobile,Danse,1,Bavard,Persévérant,Violet,Tajine,Café,Kotlin
+Traore,Lucas,EduBoost,Cybersécurité,Coding,9,Perfectionniste (à l'excès),Organisé,Orange,Lasagnes,Eau,C#
+García,Sarah,FinTrack,DevOps,Voyage,6,Distrait,Optimiste,Rose,Paella,Jus d'orange,Python
+Smith,Abdoulaye,HealthConnect,Cloud,Randonnée,15,Timide,Curieux,Gris,Ramen,Limonade,JavaScript
+Johnson,Emma,SmartLogistics,IA,Cuisine,2,Impatient,Fiable,Turquoise,Chawarma,Thé,Rust
+Kim,David,CyberGuard,Big Data,Musique,8,Têtu,Réactif,Marron,Poulet rôti,Smoothy,Scala
+Schmidt,Jessica,UrbanMobility,Data,Photographie,4,Sarcastique,Pédagogue,Bleu,Fondue,Eau gazeuse,Python
+Rossi,Léa,AIInnovate,Dev Web,Natation,11,Désordonné,Autonome,Vert,Pizza,Chocolat chaud,Swift
+Williams,Adam,SpaceExplorer,Mobile,Jardinage,1,Susceptible,Communicatif,Rouge,Thieboudienne,Jus de pomme,TypeScript
+Chen,Inès,BioDiversity,UI/UX,Échecs,8,Pessimiste,Proactif,Jaune,Sushi,Café,C++
+Diallo,Paul,AquaFlow,Cybersécurité,Yoga,14,Arrogant,Résilient,Noir,Yassa,Eau,Python
+Silva,Chloé,MarketHub,Cloud,Dessin,3,Indécis,Analytique,Blanc,Couscous,Jus d'orange,Java
+Martin,Antoine,LearnNow,IA,Lecture,6,Impulsif,Créatif,Violet,Burger,Limonade,Go
+Kone,Emily,SecureNet,Data,Football,11,Procrastinateur,Rigoureux,Orange,Tajine,Thé,C#
+Ndiaye,Moussa,EcoBuild,Dev Web,Gaming,7,Rigide,Empathique,Rose,Lasagnes,Smoothy,PHP
+Bernard,Aïssatou,MindWave,Mobile,Danse,0,Bavard,Persévérant,Gris,Paella,Eau gazeuse,Kotlin
+Thomas,Lucas,QuantumLeap,Cybersécurité,Coding,10,Perfectionniste (à l'excès),Organisé,Turquoise,Ramen,Chocolat chaud,Rust
+Petit,Sarah,AgriTech+,DevOps,Voyage,5,Distrait,Optimiste,Marron,Chawarma,Jus de pomme,Scala
+Dubois,Abdoulaye,SafeCity,Cloud,Randonnée,13,Timide,Curieux,Bleu,Poulet rôti,Café,Python
+Traore,Emma,EduBoost,IA,Cuisine,2,Impatient,Fiable,Vert,Fondue,Eau,JavaScript
+García,David,FinTrack,Big Data,Musique,9,Têtu,Réactif,Rouge,Pizza,Jus d'orange,Java
+Smith,Jessica,HealthConnect,Data,Photographie,4,Sarcastique,Pédagogue,Jaune,Thieboudienne,Limonade,C#
+Johnson,Léa,SmartLogistics,Dev Web,Natation,12,Désordonné,Autonome,Noir,Sushi,Thé,Swift
+Kim,Adam,CyberGuard,Mobile,Jardinage,1,Susceptible,Communicatif,Blanc,Yassa,Smoothy,TypeScript
+Schmidt,Inès,UrbanMobility,UI/UX,Échecs,8,Pessimiste,Proactif,Violet,Couscous,Eau gazeuse,C++
+Rossi,Paul,AIInnovate,Cybersécurité,Yoga,15,Arrogant,Résilient,Orange,Burger,Chocolat chaud,Python
+Williams,Chloé,SpaceExplorer,Cloud,Dessin,3,Indécis,Analytique,Rose,Tajine,Jus de pomme,Go
+Chen,Antoine,BioDiversity,IA,Lecture,6,Impulsif,Créatif,Gris,Lasagnes,Café,PHP
+Diallo,Emily,AquaFlow,Data,Football,11,Procrastinateur,Rigoureux,Turquoise,Paella,Eau,Kotlin
+Silva,Moussa,MarketHub,Dev Web,Gaming,7,Rigide,Empathique,Marron,Ramen,Jus d'orange,Rust
+Martin,Aïssatou,LearnNow,Mobile,Danse,0,Bavard,Persévérant,Bleu,Chawarma,Limonade,Scala
+Kone,Lucas,SecureNet,Cybersécurité,Coding,10,Perfectionniste (à l'excès),Organisé,Vert,Poulet rôti,Thé,Python
+Ndiaye,Sarah,EcoBuild,DevOps,Voyage,5,Distrait,Optimiste,Rouge,Fondue,Smoothy,JavaScript
+Bernard,Abdoulaye,MindWave,Cloud,Randonnée,13,Timide,Curieux,Jaune,Pizza,Eau gazeuse,Java
+Thomas,Emma,QuantumLeap,IA,Cuisine,2,Impatient,Fiable,Noir,Thieboudienne,Chocolat chaud,C#
+Petit,David,AgriTech+,Big Data,Musique,9,Têtu,Réactif,Blanc,Sushi,Jus de pomme,Swift
+Dubois,Jessica,SafeCity,Data,Photographie,4,Sarcastique,Pédagogue,Violet,Yassa,Café,TypeScript
+Traore,Léa,EduBoost,Dev Web,Natation,12,Désordonné,Autonome,Orange,Couscous,Eau,C++
+García,Adam,FinTrack,Mobile,Jardinage,1,Susceptible,Communicatif,Rose,Burger,Jus d'orange,Python
+Smith,Inès,HealthConnect,UI/UX,Échecs,8,Pessimiste,Proactif,Gris,Tajine,Limonade,Go
+Johnson,Paul,SmartLogistics,Cybersécurité,Yoga,15,Arrogant,Résilient,Turquoise,Lasagnes,Thé,PHP
+Kim,Chloé,CyberGuard,Cloud,Dessin,3,Indécis,Analytique,Marron,Paella,Smoothy,Kotlin
+Schmidt,Antoine,UrbanMobility,IA,Lecture,6,Impulsif,Créatif,Bleu,Ramen,Eau gazeuse,Rust
+Rossi,Emily,AIInnovate,Data,Football,11,Procrastinateur,Rigoureux,Vert,Chawarma,Chocolat chaud,Scala
+Williams,Moussa,SpaceExplorer,Dev Web,Gaming,7,Rigide,Empathique,Rouge,Poulet rôti,Jus de pomme,Python
+Chen,Aïssatou,BioDiversity,Mobile,Danse,0,Bavard,Persévérant,Jaune,Fondue,Café,JavaScript
+Diallo,Lucas,AquaFlow,Cybersécurité,Coding,10,Perfectionniste (à l'excès),Organisé,Noir,Pizza,Eau,Java
+Silva,Sarah,MarketHub,DevOps,Voyage,5,Distrait,Optimiste,Blanc,Thieboudienne,Jus d'orange,C#
+Martin,Abdoulaye,LearnNow,Cloud,Randonnée,13,Timide,Curieux,Violet,Sushi,Limonade,Swift
+Kone,Emma,SecureNet,IA,Cuisine,2,Impatient,Fiable,Orange,Yassa,Thé,TypeScript
+Ndiaye,David,EcoBuild,Big Data,Musique,9,Têtu,Réactif,Rose,Couscous,Smoothy,C++
+Bernard,Jessica,MindWave,Data,Photographie,4,Sarcastique,Pédagogue,Gris,Burger,Eau gazeuse,Python
+Thomas,Léa,QuantumLeap,Dev Web,Natation,12,Désordonné,Autonome,Turquoise,Tajine,Chocolat chaud,Go
+Petit,Adam,AgriTech+,Mobile,Jardinage,1,Susceptible,Communicatif,Marron,Lasagnes,Jus de pomme,PHP
+Dubois,Inès,SafeCity,UI/UX,Échecs,8,Pessimiste,Proactif,Bleu,Paella,Café,Kotlin
+Traore,Paul,EduBoost,Cybersécurité,Yoga,15,Arrogant,Résilient,Vert,Ramen,Eau,Rust
+García,Chloé,FinTrack,Cloud,Dessin,3,Indécis,Analytique,Rouge,Chawarma,Jus d'orange,Scala
+Smith,Antoine,HealthConnect,IA,Lecture,6,Impulsif,Créatif,Jaune,Poulet rôti,Limonade,Python
+Johnson,Emily,SmartLogistics,Data,Football,11,Procrastinateur,Rigoureux,Noir,Fondue,Thé,JavaScript
+Kim,Moussa,CyberGuard,Dev Web,Gaming,7,Rigide,Empathique,Blanc,Pizza,Smoothy,Java
+Schmidt,Aïssatou,UrbanMobility,Mobile,Danse,0,Bavard,Persévérant,Violet,Thieboudienne,Eau gazeuse,C#
+Rossi,Lucas,AIInnovate,Cybersécurité,Coding,10,Perfectionniste (à l'excès),Organisé,Orange,Sushi,Chocolat chaud,Swift
+Williams,Sarah,SpaceExplorer,DevOps,Voyage,5,Distrait,Optimiste,Rose,Yassa,Jus de pomme,TypeScript
+Chen,Abdoulaye,BioDiversity,Cloud,Randonnée,13,Timide,Curieux,Gris,Couscous,Café,C++
+Diallo,Emma,AquaFlow,IA,Cuisine,2,Impatient,Fiable,Turquoise,Burger,Eau,Python
+Silva,David,MarketHub,Big Data,Musique,9,Têtu,Réactif,Marron,Tajine,Jus d'orange,Go
+Martin,Jessica,LearnNow,Data,Photographie,4,Sarcastique,Pédagogue,Bleu,Lasagnes,Limonade,PHP
+Kone,Léa,SecureNet,Dev Web,Natation,12,Désordonné,Autonome,Vert,Paella,Thé,Kotlin
+Ndiaye,Adam,EcoBuild,Mobile,Jardinage,1,Susceptible,Communicatif,Rouge,Ramen,Smoothy,Rust
+Bernard,Inès,MindWave,UI/UX,Échecs,8,Pessimiste,Proactif,Jaune,Chawarma,Eau gazeuse,Scala
+Thomas,Paul,QuantumLeap,Cybersécurité,Yoga,15,Arrogant,Résilient,Noir,Poulet rôti,Chocolat chaud,Python
+Petit,Chloé,AgriTech+,Cloud,Dessin,3,Indécis,Analytique,Blanc,Fondue,Jus de pomme,JavaScript
