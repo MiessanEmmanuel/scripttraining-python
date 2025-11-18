@@ -1,4 +1,4 @@
-
+import time
 from utils.gemini_models import model
 
 nombre_de_ligne_a_generer = 100
@@ -40,7 +40,14 @@ while n < 3:
         brut = brut.replace("```csv", "").strip()
     if brut.endswith("```"):
         brut = brut[:-3].strip()
-    with open("output_donnee.csv", "a", encoding="utf-8") as f:
+    with open("output_donnee_jeco.csv", "a", encoding="utf-8") as f:
         f.write("\n" + brut)
     n=n+1
 
+    # Wait 7 seconds between requests to respect free tier rate limit (10 requests/minute)
+    if n < 3:
+        print(f"Waiting 7 seconds before next request... ({n}/3 completed)")
+        time.sleep(7)
+
+#source .venv/bin/activate 
+#python -m venv .venv           
